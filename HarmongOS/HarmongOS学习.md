@@ -21,7 +21,7 @@
 			.borderRadius(10)  //边框圆角
 			.interpolation(ImageInterpolation.High)  //图片插值，解决图片缩放时的锯齿等问题
 			更多参考官方文档
-	![代码](/imgs/2024-02-03/SR5WDOkfxGFbCdZL.png =400x300)	![效果](/imgs/2024-02-03/okpymcsSjki92Of5.png =150x300)
+	![代码](./imgs/2024-02-03/SR5WDOkfxGFbCdZL.png =400x300)	![效果](./imgs/2024-02-03/okpymcsSjki92Of5.png =150x300)
 
 ### 2、Text 文本
 - 组件
@@ -41,11 +41,11 @@
 			.fontColor('#ffffffff')  //字体颜色
 			更多参考官方文档
 
-- 限定词![限定词](/imgs/2024-02-03/MF3mDGG2M7QQbLaN.png)
+- 限定词![限定词](./imgs/2024-02-03/MF3mDGG2M7QQbLaN.png)
 	
 	_使用Text($r('app.string.width_label'))，会以当前所在地区的限定词优先，所有的限定词中没有找到，就会在base目录中查找_
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTE4MDY5MF19
+eyJoaXN0b3J5IjpbLTQxODUwNTU5OCwtMTQ1MTgwNjkwXX0=
 -->

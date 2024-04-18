@@ -1,9 +1,9 @@
 # **HTML**
 
 ## HTML 的定义
-    HTML 超文本标记语言--HyperText Markup Language
-    超文本是什么? ——链接
-	标记是什么?	——标记也叫标签，带尖括号的文本
+    HTML 超文本标记语言-- HyperText Markup Language
+    超文本是什么? 	—— 链接
+	标记是什么?	—— 标记也叫标签，带尖括号的文本
 
 ## 标签的语法
 	
@@ -1101,5 +1101,5 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMDQwNzc5N119
+eyJoaXN0b3J5IjpbMTYxNTAzNDI0N119
 -->

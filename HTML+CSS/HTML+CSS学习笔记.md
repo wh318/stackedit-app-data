@@ -995,7 +995,7 @@ img:hover {
 ### 平面转换
 作用：为元素**添加动态效果**，一般与**过渡**配合使用
 概念：改变盒子在**平面**内的**形态**（位移、旋转、缩放、倾斜）
-
+平面转换又叫**2D转换**
 
 # 项目实践
 
@@ -1106,5 +1106,5 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NDE2MDA0NCwxNjE1MDM0MjQ3XX0=
+eyJoaXN0b3J5IjpbODU1ODA4MzgwLDE2MTUwMzQyNDddfQ==
 -->

@@ -991,6 +991,10 @@ img:hover {
 <tr align="center"><td><i>move</i></td><td><i>十字光标，提示用户可以移动</i></td></tr>
 </table>
 
+## 移动web
+### 平面转换
+作用：为元素**添加动态效果**，一般与**过渡**配合使用
+
 
 
 # 项目实践
@@ -1098,9 +1102,9 @@ img:hover {
 	- **a** 设置 **左右 padding**
 
 
-# 移动web
-## 平面转换
-作用：
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MDg2NzE3NiwxNjE1MDM0MjQ3XX0=
+eyJoaXN0b3J5IjpbLTgwOTU1OTMwNywxNjE1MDM0MjQ3XX0=
 -->

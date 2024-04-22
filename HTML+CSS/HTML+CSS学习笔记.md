@@ -1011,7 +1011,7 @@ img:hover {
 
 - 移动效果：
  
-- 旋转效果: ![输入图片说明](/imgs/2024-04-22/iuDy5MvYMznUy2Ok.gif =50x50)
+- 旋转效果: ![输入图片说明](/imgs/2024-04-22/iuDy5MvYMznUy2Ok.gif =100x100)
 
 
 # 项目实践
@@ -1123,8 +1123,8 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MzcyMjA3Miw5NTIyMDgwNDksMTk2Nz
-E2NTQzMCw2ODUyNDU2NDAsLTIzODM3MDkwMCwtOTE1NjQxMDc2
-LC0zNzY2NzgyMTMsMTk0NzI5NDM1OCw4NTU4MDgzODAsMTYxNT
-AzNDI0N119
+eyJoaXN0b3J5IjpbLTE4NDkzNzMxMjYsOTUyMjA4MDQ5LDE5Nj
+cxNjU0MzAsNjg1MjQ1NjQwLC0yMzgzNzA5MDAsLTkxNTY0MTA3
+NiwtMzc2Njc4MjEzLDE5NDcyOTQzNTgsODU1ODA4MzgwLDE2MT
+UwMzQyNDddfQ==
 -->

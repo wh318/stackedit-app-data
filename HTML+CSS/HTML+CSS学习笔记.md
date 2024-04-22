@@ -1017,8 +1017,11 @@ img:hover {
 	transform-origin: 水平原点位置，垂直原点位置
 	
 	取值：
-	1. 方位m
+	1. 方位名词（left、right、top、bottom、center）
+	2. 像素单位数值
+	3. 百分比
 	```
+
 
 
 # 项目实践
@@ -1130,8 +1133,8 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNDM1ODE5Nyw2NTY4NjIzNDYsLTE4ND
-kzNzMxMjYsOTUyMjA4MDQ5LDE5NjcxNjU0MzAsNjg1MjQ1NjQw
-LC0yMzgzNzA5MDAsLTkxNTY0MTA3NiwtMzc2Njc4MjEzLDE5ND
-cyOTQzNTgsODU1ODA4MzgwLDE2MTUwMzQyNDddfQ==
+eyJoaXN0b3J5IjpbLTEwMTIzNTk5NTcsNjU2ODYyMzQ2LC0xOD
+Q5MzczMTI2LDk1MjIwODA0OSwxOTY3MTY1NDMwLDY4NTI0NTY0
+MCwtMjM4MzcwOTAwLC05MTU2NDEwNzYsLTM3NjY3ODIxMywxOT
+Q3Mjk0MzU4LDg1NTgwODM4MCwxNjE1MDM0MjQ3XX0=
 -->

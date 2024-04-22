@@ -1015,7 +1015,7 @@ img:hover {
 	- **改变旋转中心**：
 	```
 	transform-origin: 水平原点位置，垂直原点位置
-	
+	属性添加在元素本体上
 	取值：
 	1. 方位名词（left、right、top、bottom、center）
 	2. 像素单位数值
@@ -1133,8 +1133,8 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTIzNTk5NTcsNjU2ODYyMzQ2LC0xOD
-Q5MzczMTI2LDk1MjIwODA0OSwxOTY3MTY1NDMwLDY4NTI0NTY0
-MCwtMjM4MzcwOTAwLC05MTU2NDEwNzYsLTM3NjY3ODIxMywxOT
-Q3Mjk0MzU4LDg1NTgwODM4MCwxNjE1MDM0MjQ3XX0=
+eyJoaXN0b3J5IjpbLTg2NjUxODUsNjU2ODYyMzQ2LC0xODQ5Mz
+czMTI2LDk1MjIwODA0OSwxOTY3MTY1NDMwLDY4NTI0NTY0MCwt
+MjM4MzcwOTAwLC05MTU2NDEwNzYsLTM3NjY3ODIxMywxOTQ3Mj
+k0MzU4LDg1NTgwODM4MCwxNjE1MDM0MjQ3XX0=
 -->

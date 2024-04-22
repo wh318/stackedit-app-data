@@ -1009,7 +1009,7 @@ img:hover {
 </table>
 平面转换又叫**2D转换**
 
-- 移动效果：
+- 移动效果：![输入图片说明](/imgs/2024-04-22/2CHFWkqE6wq2plCN.gif =200x120)
  
 - 旋转效果: ![输入图片说明](/imgs/2024-04-22/iuDy5MvYMznUy2Ok.gif =100x100)
 
@@ -1123,8 +1123,8 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDkzNzMxMjYsOTUyMjA4MDQ5LDE5Nj
-cxNjU0MzAsNjg1MjQ1NjQwLC0yMzgzNzA5MDAsLTkxNTY0MTA3
-NiwtMzc2Njc4MjEzLDE5NDcyOTQzNTgsODU1ODA4MzgwLDE2MT
-UwMzQyNDddfQ==
+eyJoaXN0b3J5IjpbNjU2ODYyMzQ2LC0xODQ5MzczMTI2LDk1Mj
+IwODA0OSwxOTY3MTY1NDMwLDY4NTI0NTY0MCwtMjM4MzcwOTAw
+LC05MTU2NDEwNzYsLTM3NjY3ODIxMywxOTQ3Mjk0MzU4LDg1NT
+gwODM4MCwxNjE1MDM0MjQ3XX0=
 -->

@@ -996,8 +996,8 @@ img:hover {
 作用：为元素**添加动态效果**，一般与**过渡**配合使用
 概念：改变盒子在**平面**内的**形态**（位移、旋转、缩放、倾斜）
 <table width="900" border="2">
-<tr align="center"><th width="200" bgcolor="#ddAedd">属性名</th><th width="200" bgcolor="#ddAedd">属性值</th><th width="500" bgcolor="#ddAedd">效果</th></tr>
-<tr align="center"><td rowspan="9"><i>transfrom</i></td><td><i>translateX(x)</i></td><td><i>沿X轴移动x个单位</i></td></tr>
+<tr align="center"><th width="200" bgcolor="#ddAedd">属性名</th><th width="200" bgcolor="#ddAedd">属性值</th><th width="300" bgcolor="#ddAedd">效果</th><th width="200" bgcolor="#ddAedd">取值</th></tr>
+<tr align="center"><td rowspan="9"><i>transfrom</i></td><td><i>translateX(x)</i></td><td><i>沿X轴移动x个单位</i></td><td rowspan><i>translateY(y)</i></td></tr>
 <tr align="center"><td><i>translateY(y)</i></td><td><i>沿Y轴移动y个单位</i></td></tr>
 <tr align="center"><td><i>translate(x,y)</i></td><td><i>沿X轴和Y轴同时移动x和y个单位</i></td></tr>
 <tr align="center"><td><i>scaleX(x)</i></td><td><i>沿X轴缩放x倍</i></td></tr>
@@ -1118,6 +1118,6 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NzI5NDM1OCw4NTU4MDgzODAsMTYxNT
-AzNDI0N119
+eyJoaXN0b3J5IjpbMTcwNTUyOTk1MSwxOTQ3Mjk0MzU4LDg1NT
+gwODM4MCwxNjE1MDM0MjQ3XX0=
 -->

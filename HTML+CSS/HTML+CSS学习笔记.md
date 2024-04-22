@@ -997,7 +997,7 @@ img:hover {
 概念：改变盒子在**平面**内的**形态**（位移、旋转、缩放、倾斜）
 <table width="1000" border="2">
 <tr align="center"><th width="100" bgcolor="#ddAedd">属性名</th><th width="200" bgcolor="#ddAedd">属性值</th><th width="300" bgcolor="#ddAedd">效果</th><th width="400" bgcolor="#ddAedd">取值</th></tr>
-<tr align="center"><td rowspan="9"><i>transfrom</i></td><td><i>translateX(x)</i></td><td><i>沿X轴移动x个单位</i></td><td rowspan="3" align="left"><i>1. 像素单位数值<br>2. 百分比（参照<b>盒子自身尺寸</b>计算结果）<br>3. 正负均可</i></td></tr>
+<tr align="center"><td rowspan="9"><i>transfrom</i></td><td><i>translateX(x)</i></td><td><i>沿X轴移动x个单位</i></td><td rowspan="3" align="left"><i>&emsp;&emsp;1. 像素单位数值<br>&emsp;&emsp;2. 百分比（参照<b>盒子自身尺寸</b>计算结果）<br>&emsp;&emsp;3. 正负均可</i></td></tr>
 <tr align="center"><td><i>translateY(y)</i></td><td><i>沿Y轴移动y个单位</i></td></tr>
 <tr align="center"><td><i>translate(x,y)</i></td><td><i>沿X轴和Y轴同时移动x和y个单位</i></td></tr>
 <tr align="center"><td><i>scaleX(x)</i></td><td><i>沿X轴缩放x倍</i></td></tr>
@@ -1118,6 +1118,7 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNTY0MTA3NiwtMzc2Njc4MjEzLDE5ND
-cyOTQzNTgsODU1ODA4MzgwLDE2MTUwMzQyNDddfQ==
+eyJoaXN0b3J5IjpbLTIzODM3MDkwMCwtOTE1NjQxMDc2LC0zNz
+Y2NzgyMTMsMTk0NzI5NDM1OCw4NTU4MDgzODAsMTYxNTAzNDI0
+N119
 -->

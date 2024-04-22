@@ -1011,7 +1011,7 @@ img:hover {
 
 - 移动效果：![输入图片说明](/imgs/2024-04-22/2CHFWkqE6wq2plCN.gif =200x120)
  
-- 旋转效果: ![输入图片说明](/imgs/2024-04-22/iuDy5MvYMznUy2Ok.gif =100x100)
+- 旋转效果：![输入图片说明](/imgs/2024-04-22/iuDy5MvYMznUy2Ok.gif =100x100)
 	- **改变旋转中心**：
 	```
 	transform-origin: 水平原点位置，垂直原点位置
@@ -1024,8 +1024,8 @@ img:hover {
 
 - **多重转换**：
 	- **先平移再旋转**：`transfrom: translate() rotate()` 旋转会改变坐标轴向
-	- 先平移 再旋转
-	- 再旋转 先平移
+	- 先平移 再旋转：![输入图片说明](/imgs/2024-04-22/O5MjKn4JjqTlNTor.gif =x100)
+	- 再旋转 先平移：![输入图片说明](/imgs/2024-04-22/M3L8AvDUQVgxWVkJ.gif =x150)
 
 # 项目实践
 
@@ -1136,9 +1136,9 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMzYwMzMzMSwxNzkwMDE0OTAzLC04Nj
-Y1MTg1LDY1Njg2MjM0NiwtMTg0OTM3MzEyNiw5NTIyMDgwNDks
-MTk2NzE2NTQzMCw2ODUyNDU2NDAsLTIzODM3MDkwMCwtOTE1Nj
-QxMDc2LC0zNzY2NzgyMTMsMTk0NzI5NDM1OCw4NTU4MDgzODAs
-MTYxNTAzNDI0N119
+eyJoaXN0b3J5IjpbNTQ2MzA3MDQ0LDEwMDM2MDMzMzEsMTc5MD
+AxNDkwMywtODY2NTE4NSw2NTY4NjIzNDYsLTE4NDkzNzMxMjYs
+OTUyMjA4MDQ5LDE5NjcxNjU0MzAsNjg1MjQ1NjQwLC0yMzgzNz
+A5MDAsLTkxNTY0MTA3NiwtMzc2Njc4MjEzLDE5NDcyOTQzNTgs
+ODU1ODA4MzgwLDE2MTUwMzQyNDddfQ==
 -->

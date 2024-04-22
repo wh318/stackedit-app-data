@@ -1003,7 +1003,7 @@ img:hover {
 <tr align="center"><td><i>scaleX(x)</i></td><td><i>沿X轴缩放x倍</i></td></tr>
 <tr align="center"><td><i>scaleY(y)</i></td><td><i>沿Y轴缩放y倍</i></td></tr>
 <tr align="center"><td><i>scale(x,y)</i></td><td><i>沿X轴和Y轴同时缩放x和y倍</i></td></tr>
-<tr align="center"><td><i>rotate(angle)</i></td><td><i>旋转angle度</i></td></tr>
+<tr align="center"><td><i>rotate(angle)</i></td><td><i>旋转angle度</i></td><td rowspan="1" align="left"><i>&emsp;&emsp;1. 角度单位 <b>deg</b><br>&emsp;&emsp;2. 百分比（参照<b>盒子自身尺寸</b>计算结果）<br>&emsp;&emsp;2. 正负均可</i></td></tr>
 <tr align="center"><td><i>skewX(angle)</i></td><td><i>沿X轴倾斜angle度</i></td></tr>
 <tr align="center"><td><i>skewY(angle)</i></td><td><i>沿Y轴倾斜angle度</i></td></tr>
 </table>
@@ -1118,7 +1118,7 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzODM3MDkwMCwtOTE1NjQxMDc2LC0zNz
-Y2NzgyMTMsMTk0NzI5NDM1OCw4NTU4MDgzODAsMTYxNTAzNDI0
-N119
+eyJoaXN0b3J5IjpbNDgzMDM3OTIyLC0yMzgzNzA5MDAsLTkxNT
+Y0MTA3NiwtMzc2Njc4MjEzLDE5NDcyOTQzNTgsODU1ODA4Mzgw
+LDE2MTUwMzQyNDddfQ==
 -->

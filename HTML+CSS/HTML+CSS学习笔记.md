@@ -1009,7 +1009,7 @@ img:hover {
 </table>
 平面转换又叫**2D转换**
 
-
+![输入图片说明](/imgs/2024-04-22/iuDy5MvYMznUy2Ok.gif)
 # 项目实践
 
 ## 准备工作（创建目录）
@@ -1119,7 +1119,7 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NzE2NTQzMCw2ODUyNDU2NDAsLTIzOD
-M3MDkwMCwtOTE1NjQxMDc2LC0zNzY2NzgyMTMsMTk0NzI5NDM1
-OCw4NTU4MDgzODAsMTYxNTAzNDI0N119
+eyJoaXN0b3J5IjpbOTUyMjA4MDQ5LDE5NjcxNjU0MzAsNjg1Mj
+Q1NjQwLC0yMzgzNzA5MDAsLTkxNTY0MTA3NiwtMzc2Njc4MjEz
+LDE5NDcyOTQzNTgsODU1ODA4MzgwLDE2MTUwMzQyNDddfQ==
 -->

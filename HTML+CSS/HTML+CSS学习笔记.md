@@ -1023,8 +1023,9 @@ img:hover {
 	```
 
 - **多重转换**：
-	- **先平移在旋转**：`transfrom: translate() rotate()`
-	- 
+	- **先平移再旋转**：`transfrom: translate() rotate()` 旋转会改变坐标轴向
+	- 先平移 再旋转
+	- 再旋转 先平移
 
 # 项目实践
 
@@ -1135,9 +1136,9 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MDAxNDkwMywtODY2NTE4NSw2NTY4Nj
-IzNDYsLTE4NDkzNzMxMjYsOTUyMjA4MDQ5LDE5NjcxNjU0MzAs
-Njg1MjQ1NjQwLC0yMzgzNzA5MDAsLTkxNTY0MTA3NiwtMzc2Nj
-c4MjEzLDE5NDcyOTQzNTgsODU1ODA4MzgwLDE2MTUwMzQyNDdd
-fQ==
+eyJoaXN0b3J5IjpbMTAwMzYwMzMzMSwxNzkwMDE0OTAzLC04Nj
+Y1MTg1LDY1Njg2MjM0NiwtMTg0OTM3MzEyNiw5NTIyMDgwNDks
+MTk2NzE2NTQzMCw2ODUyNDU2NDAsLTIzODM3MDkwMCwtOTE1Nj
+QxMDc2LC0zNzY2NzgyMTMsMTk0NzI5NDM1OCw4NTU4MDgzODAs
+MTYxNTAzNDI0N119
 -->

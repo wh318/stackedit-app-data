@@ -1012,7 +1012,13 @@ img:hover {
 - 移动效果：![输入图片说明](/imgs/2024-04-22/2CHFWkqE6wq2plCN.gif =200x120)
  
 - 旋转效果: ![输入图片说明](/imgs/2024-04-22/iuDy5MvYMznUy2Ok.gif =100x100)
-	- **改变旋转中心**：```transform-origin: 水平原点位置
+	- **改变旋转中心**：
+	```
+	transform-origin: 水平原点位置，垂直原点位置
+	
+	取值：
+	1. 方位m
+	```
 
 
 # 项目实践
@@ -1124,7 +1130,7 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNjUwNjEyMiw2NTY4NjIzNDYsLTE4ND
+eyJoaXN0b3J5IjpbLTYxNDM1ODE5Nyw2NTY4NjIzNDYsLTE4ND
 kzNzMxMjYsOTUyMjA4MDQ5LDE5NjcxNjU0MzAsNjg1MjQ1NjQw
 LC0yMzgzNzA5MDAsLTkxNTY0MTA3NiwtMzc2Njc4MjEzLDE5ND
 cyOTQzNTgsODU1ODA4MzgwLDE2MTUwMzQyNDddfQ==

@@ -1022,7 +1022,8 @@ img:hover {
 	3. 百分比
 	```
 
-
+- **多重转换**：
+	- **先平移在旋转**：`transfrom: translate() 
 
 # 项目实践
 
@@ -1133,8 +1134,9 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NjUxODUsNjU2ODYyMzQ2LC0xODQ5Mz
-czMTI2LDk1MjIwODA0OSwxOTY3MTY1NDMwLDY4NTI0NTY0MCwt
-MjM4MzcwOTAwLC05MTU2NDEwNzYsLTM3NjY3ODIxMywxOTQ3Mj
-k0MzU4LDg1NTgwODM4MCwxNjE1MDM0MjQ3XX0=
+eyJoaXN0b3J5IjpbMTgzNjg1NzI2NCwtODY2NTE4NSw2NTY4Nj
+IzNDYsLTE4NDkzNzMxMjYsOTUyMjA4MDQ5LDE5NjcxNjU0MzAs
+Njg1MjQ1NjQwLC0yMzgzNzA5MDAsLTkxNTY0MTA3NiwtMzc2Nj
+c4MjEzLDE5NDcyOTQzNTgsODU1ODA4MzgwLDE2MTUwMzQyNDdd
+fQ==
 -->

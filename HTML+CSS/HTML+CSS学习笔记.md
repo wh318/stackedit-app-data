@@ -1023,7 +1023,8 @@ img:hover {
 	```
 
 - **多重转换**：
-	- **先平移在旋转**：`transfrom: translate() 
+	- **先平移在旋转**：`transfrom: translate() rotate()`
+	- 
 
 # 项目实践
 
@@ -1134,7 +1135,7 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNjg1NzI2NCwtODY2NTE4NSw2NTY4Nj
+eyJoaXN0b3J5IjpbMTc5MDAxNDkwMywtODY2NTE4NSw2NTY4Nj
 IzNDYsLTE4NDkzNzMxMjYsOTUyMjA4MDQ5LDE5NjcxNjU0MzAs
 Njg1MjQ1NjQwLC0yMzgzNzA5MDAsLTkxNTY0MTA3NiwtMzc2Nj
 c4MjEzLDE5NDcyOTQzNTgsODU1ODA4MzgwLDE2MTUwMzQyNDdd

@@ -1012,7 +1012,7 @@ img:hover {
 - 移动效果：![输入图片说明](/imgs/2024-04-22/2CHFWkqE6wq2plCN.gif =200x120)
  
 - 旋转效果: ![输入图片说明](/imgs/2024-04-22/iuDy5MvYMznUy2Ok.gif =100x100)
-- 
+	- **改变旋转中心**：```transform-origin: 水平原点位置
 
 
 # 项目实践
@@ -1124,8 +1124,8 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg0OTE3ODkzLDY1Njg2MjM0NiwtMTg0OT
-M3MzEyNiw5NTIyMDgwNDksMTk2NzE2NTQzMCw2ODUyNDU2NDAs
-LTIzODM3MDkwMCwtOTE1NjQxMDc2LC0zNzY2NzgyMTMsMTk0Nz
-I5NDM1OCw4NTU4MDgzODAsMTYxNTAzNDI0N119
+eyJoaXN0b3J5IjpbMTkwNjUwNjEyMiw2NTY4NjIzNDYsLTE4ND
+kzNzMxMjYsOTUyMjA4MDQ5LDE5NjcxNjU0MzAsNjg1MjQ1NjQw
+LC0yMzgzNzA5MDAsLTkxNTY0MTA3NiwtMzc2Njc4MjEzLDE5ND
+cyOTQzNTgsODU1ODA4MzgwLDE2MTUwMzQyNDddfQ==
 -->

@@ -1029,6 +1029,7 @@ img:hover {
 	- 先平移 再旋转：![输入图片说明](/imgs/2024-04-22/O5MjKn4JjqTlNTor.gif =x100)
 	- 再旋转 先平移：![输入图片说明](/imgs/2024-04-22/M3L8AvDUQVgxWVkJ.gif =x150)
 
+- 缩放效果
 	- 
 
 # 项目实践
@@ -1140,7 +1141,7 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDMxNDg5MzIsLTE3MDMxNDg5MzIsLT
+eyJoaXN0b3J5IjpbLTE0NTc4NTQyNTgsLTE3MDMxNDg5MzIsLT
 ExNzE3NTE1NDUsNTQ2MzA3MDQ0LDEwMDM2MDMzMzEsMTc5MDAx
 NDkwMywtODY2NTE4NSw2NTY4NjIzNDYsLTE4NDkzNzMxMjYsOT
 UyMjA4MDQ5LDE5NjcxNjU0MzAsNjg1MjQ1NjQwLC0yMzgzNzA5

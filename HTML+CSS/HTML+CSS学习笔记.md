@@ -1026,8 +1026,8 @@ img:hover {
 	- **先平移再旋转**：`transfrom: translate() rotate()` 
 		1. 旋转会改变坐标轴向
 		2. 以第一种转换形态的坐标轴为准
-		- 先平移 再旋转：![输入图片说明](/imgs/2024-04-22/O5MjKn4JjqTlNTor.gif =x100)
-		- 再旋转 先平移：![输入图片说明](/imgs/2024-04-22/M3L8AvDUQVgxWVkJ.gif =x150)
+	- 先平移 再旋转：![输入图片说明](/imgs/2024-04-22/O5MjKn4JjqTlNTor.gif =x100)
+	- 再旋转 先平移：![输入图片说明](/imgs/2024-04-22/M3L8AvDUQVgxWVkJ.gif =x150)
 
 	- 
 
@@ -1140,10 +1140,10 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MDg0MDY5MiwtMTcwMzE0ODkzMiwtMT
-E3MTc1MTU0NSw1NDYzMDcwNDQsMTAwMzYwMzMzMSwxNzkwMDE0
-OTAzLC04NjY1MTg1LDY1Njg2MjM0NiwtMTg0OTM3MzEyNiw5NT
-IyMDgwNDksMTk2NzE2NTQzMCw2ODUyNDU2NDAsLTIzODM3MDkw
-MCwtOTE1NjQxMDc2LC0zNzY2NzgyMTMsMTk0NzI5NDM1OCw4NT
-U4MDgzODAsMTYxNTAzNDI0N119
+eyJoaXN0b3J5IjpbLTE3MDMxNDg5MzIsLTE3MDMxNDg5MzIsLT
+ExNzE3NTE1NDUsNTQ2MzA3MDQ0LDEwMDM2MDMzMzEsMTc5MDAx
+NDkwMywtODY2NTE4NSw2NTY4NjIzNDYsLTE4NDkzNzMxMjYsOT
+UyMjA4MDQ5LDE5NjcxNjU0MzAsNjg1MjQ1NjQwLC0yMzgzNzA5
+MDAsLTkxNTY0MTA3NiwtMzc2Njc4MjEzLDE5NDcyOTQzNTgsOD
+U1ODA4MzgwLDE2MTUwMzQyNDddfQ==
 -->

@@ -991,7 +991,7 @@ img:hover {
 <tr align="center"><td><i>move</i></td><td><i>十字光标，提示用户可以移动</i></td></tr>
 </table>
 
-## 移动web
+## 变换效果
 ### 平面转换
 作用：为元素**添加动态效果**，一般与**过渡**配合使用
 概念：改变盒子在**平面**内的**形态**（位移、旋转、缩放、倾斜）
@@ -1040,7 +1040,9 @@ img:hover {
 
 
 
-## 渐变
+### 渐变
+渐变是**多个颜色**逐渐变化的效果，一般用于设置**盒子背景**
+
 
 
 
@@ -1157,11 +1159,11 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzY0NDQ4NjQsLTIyMzQ4NjQzNiwtMT
-g4NjMzNjU4MSwtNTc2NzAwODQ3LDcxODk5MTE4NywxODgzNDc3
-MDY3LDExNzU1NTkyMDYsLTE0NTc4NTQyNTgsLTE3MDMxNDg5Mz
-IsLTExNzE3NTE1NDUsNTQ2MzA3MDQ0LDEwMDM2MDMzMzEsMTc5
-MDAxNDkwMywtODY2NTE4NSw2NTY4NjIzNDYsLTE4NDkzNzMxMj
-YsOTUyMjA4MDQ5LDE5NjcxNjU0MzAsNjg1MjQ1NjQwLC0yMzgz
-NzA5MDBdfQ==
+eyJoaXN0b3J5IjpbNjU3MjA3NzE2LC0yMjM0ODY0MzYsLTE4OD
+YzMzY1ODEsLTU3NjcwMDg0Nyw3MTg5OTExODcsMTg4MzQ3NzA2
+NywxMTc1NTU5MjA2LC0xNDU3ODU0MjU4LC0xNzAzMTQ4OTMyLC
+0xMTcxNzUxNTQ1LDU0NjMwNzA0NCwxMDAzNjAzMzMxLDE3OTAw
+MTQ5MDMsLTg2NjUxODUsNjU2ODYyMzQ2LC0xODQ5MzczMTI2LD
+k1MjIwODA0OSwxOTY3MTY1NDMwLDY4NTI0NTY0MCwtMjM4Mzcw
+OTAwXX0=
 -->

@@ -1004,7 +1004,7 @@ img:hover {
 <tr align="center"><td><i>scaleY(y)</i></td><td><i>沿Y轴缩放y倍</i></td></tr>
 <tr align="center"><td><i>scale(x,y)</i></td><td><i>沿X轴和Y轴同时缩放x和y倍</i></td></tr>
 <tr align="center"><td><i>rotate(angle)</i></td><td><i>旋转angle度</i></td><td rowspan="1" align="left"><i>&emsp;&emsp;1. 角度单位 <b>deg</b><br>&emsp;&emsp;2. 正负均可<br>&emsp;&emsp;3. 取 <b>正</b> 为<b>顺时针</b>旋转<br>&emsp;&emsp;4. 取 <b>负</b> 为<b>逆时针</b>旋转</i></td></tr>
-<tr align="center"><td><i>skewX(angle)</i></td><td><i>沿X轴倾斜angle度</i></td></tr>
+<tr align="center"><td><i>skewX(angle)</i></td><td><i>沿X轴倾斜angle度</i></td><td rowspan="2" align="left"><i>&emsp;&emsp;1. 角度单位 <b>deg</b><br>&emsp;&emsp;2. 正负均可<br>&emsp;&emsp;3. 取 <b>正</b> 为<b>顺时针</b>旋转<br>&emsp;&emsp;4. 取 <b>负</b> 为<b>逆时针</b>旋转</i></td></tr>
 <tr align="center"><td><i>skewY(angle)</i></td><td><i>沿Y轴倾斜angle度</i></td></tr>
 </table>
 平面转换又叫**2D转换**
@@ -1140,10 +1140,11 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NTU1OTIwNiwtMTQ1Nzg1NDI1OCwtMT
-cwMzE0ODkzMiwtMTE3MTc1MTU0NSw1NDYzMDcwNDQsMTAwMzYw
-MzMzMSwxNzkwMDE0OTAzLC04NjY1MTg1LDY1Njg2MjM0NiwtMT
-g0OTM3MzEyNiw5NTIyMDgwNDksMTk2NzE2NTQzMCw2ODUyNDU2
-NDAsLTIzODM3MDkwMCwtOTE1NjQxMDc2LC0zNzY2NzgyMTMsMT
-k0NzI5NDM1OCw4NTU4MDgzODAsMTYxNTAzNDI0N119
+eyJoaXN0b3J5IjpbMTg4MzQ3NzA2NywxMTc1NTU5MjA2LC0xND
+U3ODU0MjU4LC0xNzAzMTQ4OTMyLC0xMTcxNzUxNTQ1LDU0NjMw
+NzA0NCwxMDAzNjAzMzMxLDE3OTAwMTQ5MDMsLTg2NjUxODUsNj
+U2ODYyMzQ2LC0xODQ5MzczMTI2LDk1MjIwODA0OSwxOTY3MTY1
+NDMwLDY4NTI0NTY0MCwtMjM4MzcwOTAwLC05MTU2NDEwNzYsLT
+M3NjY3ODIxMywxOTQ3Mjk0MzU4LDg1NTgwODM4MCwxNjE1MDM0
+MjQ3XX0=
 -->

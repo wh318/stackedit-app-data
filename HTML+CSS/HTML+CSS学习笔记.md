@@ -1043,8 +1043,8 @@ img:hover {
 ### 渐变
 渐变是**多个颜色**逐渐变化的效果，一般用于设置**盒子背景**
 <table width="1000" border="2">
-<tr align="center"><th width="100" bgcolor="#ddAedd">分类</th><th width="300" bgcolor="#ddAedd">属性</th><th width="300" bgcolor="#ddAedd">取值</th><th width="200" bgcolor="#ddAedd">效果</th></tr>[图片上传中...(image-4z2JuhoRIGoTIL6J)]
-<tr align="center"><td rowspan="3"><i>线性渐变</i></td><td align="left" rowspan="3"><code>background-image: linear-gradient(<br>渐变方向(例如：to bottom 或 45deg),<br>颜色1终点位置,<br>颜色2终点位置,<br>……)</code></td><td align="left" rowspan="3">渐变方向：可选<br>&emsp;&emsp;top等方向名词<br>&emsp;&emsp;角度度数<br><br>终点位置：可选<br>&emsp;&emsp;百分比</td><td><img src="" alt=""><br><i></i></td></tr>
+<tr align="center"><th width="100" bgcolor="#ddAedd">分类</th><th width="300" bgcolor="#ddAedd">属性</th><th width="300" bgcolor="#ddAedd">取值</th><th width="200" bgcolor="#ddAedd">效果</th></tr>
+<tr align="center"><td rowspan="3"><i>线性渐变</i></td><td align="left" rowspan="3"><code>background-image: linear-gradient(<br>渐变方向(例如：to bottom 或 45deg),<br>颜色1终点位置,<br>颜色2终点位置,<br>……)</code></td><td align="left" rowspan="3">渐变方向：可选<br>&emsp;&emsp;top等方向名词<br>&emsp;&emsp;角度度数<br><br>终点位置：可选<br>&emsp;&emsp;百分比</td><td><img src="/imgs/2024-04-24/g5ol30eJ7tjwitj4.png" alt="" width="100"><br><i>to </i></td></tr>
 <tr align="center"><td><img src="" alt=""><br><i></i></td></tr>
 <tr align="center"><td><img src="" alt=""><br><i></i></td></tr>
 <tr align="center"><td rowspan="3"><i>径向渐变</i></td><td align="left" rowspan="3"><code>background-image: radial-gradient(<br>半径 at 圆心位置,<br>颜色1终点位置,<br>颜色2终点位置,<br>……)</code></td><td align="left" rowspan="3">渐变方向：可选<br>&emsp;&emsp;半径（可以是2条，则为椭圆）<br>&emsp;&emsp;圆心位置：像素/百分比/方位名<br><br>词终点位置：可选<br>&emsp;&emsp;百分比</td><td><img src="" alt=""><br><i></i></td></tr>
@@ -1054,7 +1054,7 @@ img:hover {
 
 
 
-
+![输入图片说明](/imgs/2024-04-24/g5ol30eJ7tjwitj4.png)![输入图片说明](/imgs/2024-04-24/6H23tVNBnsX8BTJq.png)![输入图片说明](/imgs/2024-04-24/0mWr78fDBAkMSZPG.png)![输入图片说明](/imgs/2024-04-24/ik0ClmdquhVUaEX8.png)![输入图片说明](/imgs/2024-04-24/5cB5rD0YrWEwrqbe.png)![输入图片说明](/imgs/2024-04-24/72uFK1tSIK8jczMB.png)
 
 
 
@@ -1167,7 +1167,7 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NzI0ODQzOSwxNjA4NDY0MjQsNjU3Mj
+eyJoaXN0b3J5IjpbLTE3OTU3NTA4NSwxNjA4NDY0MjQsNjU3Mj
 A3NzE2LC0yMjM0ODY0MzYsLTE4ODYzMzY1ODEsLTU3NjcwMDg0
 Nyw3MTg5OTExODcsMTg4MzQ3NzA2NywxMTc1NTU5MjA2LC0xND
 U3ODU0MjU4LC0xNzAzMTQ4OTMyLC0xMTcxNzUxNTQ1LDU0NjMw

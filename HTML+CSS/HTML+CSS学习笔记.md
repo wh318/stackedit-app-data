@@ -1004,7 +1004,7 @@ img:hover {
 <tr align="center"><td><i>scaleY(y)</i></td><td><i>沿Y轴缩放y倍</i></td></tr>
 <tr align="center"><td><i>scale(x,y)</i></td><td><i>沿X轴和Y轴同时缩放x和y倍</i></td></tr>
 <tr align="center"><td><i>rotate(angle)</i></td><td><i>旋转angle度</i></td><td rowspan="1" align="left"><i>&emsp;&emsp;1. 角度单位 <b>deg</b><br>&emsp;&emsp;2. 正负均可<br>&emsp;&emsp;3. 取 <b>正</b> 为<b>顺时针</b>旋转<br>&emsp;&emsp;4. 取 <b>负</b> 为<b>逆时针</b>旋转</i></td></tr>
-<tr align="center"><td><i>skewX(angle)</i></td><td><i>沿X轴倾斜angle度</i></td><td rowspan="2" align="left"><i>&emsp;&emsp;1. 角度单位 <b>deg</b><br>&emsp;&emsp;2. 正负均可<br>&emsp;&emsp;3. 取 <b>负</b> 为<b>顺时针</b>旋转<br>&emsp;&emsp;4. 取 <b>正</b> 为<b>逆时针</b>旋转</i></td></tr>
+<tr align="center"><td><i>skewX(angle)</i></td><td><i>沿X轴倾斜angle度</i></td><td rowspan="2" align="left"><i>&emsp;&emsp;1. 角度单位 <b>deg</b><br>&emsp;&emsp;2. 正负均可</i></td></tr>
 <tr align="center"><td><i>skewY(angle)</i></td><td><i>沿Y轴倾斜angle度</i></td></tr>
 </table>
 平面转换又叫**2D转换**
@@ -1033,9 +1033,9 @@ img:hover {
 - 倾斜效果：
 	- X轴方向：
 		- **正数**角度：![输入图片说明](/imgs/2024-04-24/OvXnIkRWxrzEEAlP.gif =x100)
-		- **负数**角度：
+		- **负数**角度：![输入图片说明](/imgs/2024-04-24/13mpObPvLqf5hcsG.gif =x100)
 	- Y轴方向：
-		- **正数**角度：
+		- **正数**角度：![输入图片说明](/imgs/2024-04-24/VkRf5RNQySjQtFst.gif =x100)
 		- **负数**角度：![Y轴负数角度](/imgs/2024-04-24/GY7FHpoASlBS4Ke3.gif =x100) 
 
 # 项目实践
@@ -1147,11 +1147,11 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODYzMzY1ODEsLTU3NjcwMDg0Nyw3MT
-g5OTExODcsMTg4MzQ3NzA2NywxMTc1NTU5MjA2LC0xNDU3ODU0
-MjU4LC0xNzAzMTQ4OTMyLC0xMTcxNzUxNTQ1LDU0NjMwNzA0NC
-wxMDAzNjAzMzMxLDE3OTAwMTQ5MDMsLTg2NjUxODUsNjU2ODYy
-MzQ2LC0xODQ5MzczMTI2LDk1MjIwODA0OSwxOTY3MTY1NDMwLD
-Y4NTI0NTY0MCwtMjM4MzcwOTAwLC05MTU2NDEwNzYsLTM3NjY3
-ODIxM119
+eyJoaXN0b3J5IjpbLTIyMzQ4NjQzNiwtMTg4NjMzNjU4MSwtNT
+c2NzAwODQ3LDcxODk5MTE4NywxODgzNDc3MDY3LDExNzU1NTky
+MDYsLTE0NTc4NTQyNTgsLTE3MDMxNDg5MzIsLTExNzE3NTE1ND
+UsNTQ2MzA3MDQ0LDEwMDM2MDMzMzEsMTc5MDAxNDkwMywtODY2
+NTE4NSw2NTY4NjIzNDYsLTE4NDkzNzMxMjYsOTUyMjA4MDQ5LD
+E5NjcxNjU0MzAsNjg1MjQ1NjQwLC0yMzgzNzA5MDAsLTkxNTY0
+MTA3Nl19
 -->

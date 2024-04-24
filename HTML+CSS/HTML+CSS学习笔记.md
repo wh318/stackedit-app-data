@@ -1033,8 +1033,10 @@ img:hover {
 - 倾斜效果：
 	- X轴方向：
 		- **正数**角度：
-		- 
+		- **负数**角度：
 	- Y轴方向：
+		- **正数**角度：
+		- **负数**角度：
 
 # 项目实践
 
@@ -1145,7 +1147,7 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNjA1NTEzMiw3MTg5OTExODcsMTg4Mz
+eyJoaXN0b3J5IjpbLTU3NjcwMDg0Nyw3MTg5OTExODcsMTg4Mz
 Q3NzA2NywxMTc1NTU5MjA2LC0xNDU3ODU0MjU4LC0xNzAzMTQ4
 OTMyLC0xMTcxNzUxNTQ1LDU0NjMwNzA0NCwxMDAzNjAzMzMxLD
 E3OTAwMTQ5MDMsLTg2NjUxODUsNjU2ODYyMzQ2LC0xODQ5Mzcz

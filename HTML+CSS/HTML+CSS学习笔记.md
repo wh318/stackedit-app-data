@@ -1043,7 +1043,7 @@ img:hover {
 ### 渐变
 渐变是**多个颜色**逐渐变化的效果，一般用于设置**盒子背景**
 <table width="1000" border="2">
-<tr align="center"><th width="100" bgcolor="#ddAedd">分类</th><th width="300" bgcolor="#ddAedd">属性</th><th width="300" bgcolor="#ddAedd">取值</th><th width="200" bgcolor="#ddAedd">效果</th></tr>
+<tr align="center"><th width="100" bgcolor="#ddAedd">分类</th><th width="300" bgcolor="#ddAedd">属性</th><th width="300" bgcolor="#ddAedd">取值</th><th width="200" bgcolor="#ddAedd">效果</th></tr>[图片上传中...(image-4z2JuhoRIGoTIL6J)]
 <tr align="center"><td rowspan="3"><i>线性渐变</i></td><td align="left" rowspan="3"><code>background-image: linear-gradient(<br>渐变方向(例如：to bottom 或 45deg),<br>颜色1终点位置,<br>颜色2终点位置,<br>……)</code></td><td align="left" rowspan="3">渐变方向：可选<br>&emsp;&emsp;top等方向名词<br>&emsp;&emsp;角度度数<br><br>终点位置：可选<br>&emsp;&emsp;百分比</td><td><img src="" alt=""><br><i></i></td></tr>
 <tr align="center"><td><img src="" alt=""><br><i></i></td></tr>
 <tr align="center"><td><img src="" alt=""><br><i></i></td></tr>
@@ -1167,11 +1167,11 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwODQ2NDI0LDY1NzIwNzcxNiwtMjIzND
-g2NDM2LC0xODg2MzM2NTgxLC01NzY3MDA4NDcsNzE4OTkxMTg3
-LDE4ODM0NzcwNjcsMTE3NTU1OTIwNiwtMTQ1Nzg1NDI1OCwtMT
-cwMzE0ODkzMiwtMTE3MTc1MTU0NSw1NDYzMDcwNDQsMTAwMzYw
-MzMzMSwxNzkwMDE0OTAzLC04NjY1MTg1LDY1Njg2MjM0NiwtMT
-g0OTM3MzEyNiw5NTIyMDgwNDksMTk2NzE2NTQzMCw2ODUyNDU2
-NDBdfQ==
+eyJoaXN0b3J5IjpbMTg5NzI0ODQzOSwxNjA4NDY0MjQsNjU3Mj
+A3NzE2LC0yMjM0ODY0MzYsLTE4ODYzMzY1ODEsLTU3NjcwMDg0
+Nyw3MTg5OTExODcsMTg4MzQ3NzA2NywxMTc1NTU5MjA2LC0xND
+U3ODU0MjU4LC0xNzAzMTQ4OTMyLC0xMTcxNzUxNTQ1LDU0NjMw
+NzA0NCwxMDAzNjAzMzMxLDE3OTAwMTQ5MDMsLTg2NjUxODUsNj
+U2ODYyMzQ2LC0xODQ5MzczMTI2LDk1MjIwODA0OSwxOTY3MTY1
+NDMwXX0=
 -->

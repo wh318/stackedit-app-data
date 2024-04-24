@@ -1042,7 +1042,33 @@ img:hover {
 
 ### 渐变
 渐变是**多个颜色**逐渐变化的效果，一般用于设置**盒子背景**
+<table width="1000" border="2">
+<tr align="center"><th width="100" bgcolor="#ddAedd">分类</th><th width="200" bgcolor="#ddAedd">属性</th><th width="200" bgcolor="#ddAedd">取值</th><th width="200" bgcolor="#ddAedd">效果</th></tr>
+<tr align="center"><td rowspan="3"><i>线性渐变</i></td><td rowspan="3"><code>background-image: linear-gradient(
+渐变方向(例如：to bottom 或 45deg),
+颜色1终点位置,
+颜色2终点位置,
+……
+)</code></td><td rowspan="3"><code>渐变方向：可选
+top等方向名词
+角度度数
 
+终点位置：可选
+百分比</code></td><td><img src="" alt=""><br><i></i></td></tr>
+<tr align="center"><td><img src="" alt=""><br><i></i></td></tr>
+<tr align="center"><td><img src="" alt=""><br><i></i></td></tr>
+<tr align="center"><td rowspan="3"><i>径向渐变</i></td><td rowspan="3"><code>background-image: radial-gradient(
+半径 at 圆心位置，
+颜色1终点位置,
+颜色2终点位置,
+……
+)</code></td><td rowspan="3"><code>渐变方向：可选
+半径（可以是2条，则为椭圆）
+圆心位置：像素/百分比/方位名
+词终点位置：可选百分比</code></td><td><img src="" alt=""><br><i></i></td></tr>
+<tr align="center"><td><img src="" alt=""><br><i></i></td></tr>
+<tr align="center"><td><img src="" alt=""><br><i></i></td></tr>
+</table>
 
 
 
@@ -1159,11 +1185,11 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU3MjA3NzE2LC0yMjM0ODY0MzYsLTE4OD
-YzMzY1ODEsLTU3NjcwMDg0Nyw3MTg5OTExODcsMTg4MzQ3NzA2
-NywxMTc1NTU5MjA2LC0xNDU3ODU0MjU4LC0xNzAzMTQ4OTMyLC
-0xMTcxNzUxNTQ1LDU0NjMwNzA0NCwxMDAzNjAzMzMxLDE3OTAw
-MTQ5MDMsLTg2NjUxODUsNjU2ODYyMzQ2LC0xODQ5MzczMTI2LD
-k1MjIwODA0OSwxOTY3MTY1NDMwLDY4NTI0NTY0MCwtMjM4Mzcw
-OTAwXX0=
+eyJoaXN0b3J5IjpbLTIxMzg1MzUyNDQsNjU3MjA3NzE2LC0yMj
+M0ODY0MzYsLTE4ODYzMzY1ODEsLTU3NjcwMDg0Nyw3MTg5OTEx
+ODcsMTg4MzQ3NzA2NywxMTc1NTU5MjA2LC0xNDU3ODU0MjU4LC
+0xNzAzMTQ4OTMyLC0xMTcxNzUxNTQ1LDU0NjMwNzA0NCwxMDAz
+NjAzMzMxLDE3OTAwMTQ5MDMsLTg2NjUxODUsNjU2ODYyMzQ2LC
+0xODQ5MzczMTI2LDk1MjIwODA0OSwxOTY3MTY1NDMwLDY4NTI0
+NTY0MF19
 -->

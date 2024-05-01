@@ -1043,7 +1043,7 @@ img:hover {
 空间转换也叫 **3D转换**
 <table width="900" border="2">
 <tr align="center"><th width="100" bgcolor="#ddAedd">属性名</th><th width="200" bgcolor="#ddAedd">属性值</th><th width="300" bgcolor="#ddAedd">效果</th><th width="400" bgcolor="#ddAedd">取值</th></tr>
-<tr align="center"><td rowspan="8"><i>transfrom</i></td><td><i>translateZ(x)</i></td><td><i>沿Z轴移动z个单位</i></td><td rowspan="2" align="left"><i>&emsp;&emsp;1. 像素单位数值<br>&emsp;&emsp;2. 百分比（参照<b>盒子自身尺寸</b>计算结果）<br>&emsp;&emsp;3. 正负均可</i></td></tr>
+<tr align="center"><td rowspan="10"><i>transfrom</i></td><td><i>translateZ(x)</i></td><td><i>沿Z轴移动z个单位</i></td><td rowspan="2" align="left"><i>&emsp;&emsp;1. 像素单位数值<br>&emsp;&emsp;2. 百分比（参照<b>盒子自身尺寸</b>计算结果）<br>&emsp;&emsp;3. 正负均可</i></td></tr>
 <tr align="center"><td><i>translate3d(x, y, z)</i></td><td><i>沿X、Y、Z轴同时移动x、y、z个单位</i></td></tr>
 <tr align="center"><td><i>scaleZ(x)</i></td><td><i>沿Z轴缩放z倍</i></td></tr>
 <tr align="center"><td><i>scale3d(x, y, z)</i></td><td><i>沿X、Y、Z轴同时缩放x、y、z倍</i></td></tr>
@@ -1187,11 +1187,11 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNTA5OTYzMiwxNzM4NjM1MzMzLDEzND
-Q1MDkyMDYsLTIwMDYyNTM4OTQsMTY0NzY2MzU0NywtNDA4NDM3
-NTk0LDEzMDk5MTI5MDYsLTE1NDA0Mjk3NzMsLTYwODc3MTYwMC
-wxNjA4NDY0MjQsNjU3MjA3NzE2LC0yMjM0ODY0MzYsLTE4ODYz
-MzY1ODEsLTU3NjcwMDg0Nyw3MTg5OTExODcsMTg4MzQ3NzA2Ny
-wxMTc1NTU5MjA2LC0xNDU3ODU0MjU4LC0xNzAzMTQ4OTMyLC0x
-MTcxNzUxNTQ1XX0=
+eyJoaXN0b3J5IjpbLTE5NjcwMjA0MTEsMTczODYzNTMzMywxMz
+Q0NTA5MjA2LC0yMDA2MjUzODk0LDE2NDc2NjM1NDcsLTQwODQz
+NzU5NCwxMzA5OTEyOTA2LC0xNTQwNDI5NzczLC02MDg3NzE2MD
+AsMTYwODQ2NDI0LDY1NzIwNzcxNiwtMjIzNDg2NDM2LC0xODg2
+MzM2NTgxLC01NzY3MDA4NDcsNzE4OTkxMTg3LDE4ODM0NzcwNj
+csMTE3NTU1OTIwNiwtMTQ1Nzg1NDI1OCwtMTcwMzE0ODkzMiwt
+MTE3MTc1MTU0NV19
 -->

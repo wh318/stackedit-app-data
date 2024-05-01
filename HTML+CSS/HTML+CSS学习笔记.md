@@ -1059,12 +1059,18 @@ img:hover {
 <font size=5 color=red>添加到 <b><i><u>直接父级</u></i></b></font>
 <table width="900" border="2">
 <tr align="center"><th width="100" bgcolor="#ddAedd">属性名</th><th width="250" bgcolor="#ddAedd">语法</th><th width="250" bgcolor="#ddAedd">效果</th><th width="400" bgcolor="#ddAedd">取值</th></tr>
-<tr align="center"><td rowspan="9"><i>perspective</i></td><td><code>perspective: 视距;</code></td><td><i>实现透视效果</i></td><td rowspan="2" align="left"><i>&emsp;&emsp;800-1200</i></td></tr>
+<tr align="center"><td rowspan="1"><i>perspective</i></td><td><code>perspective: 视距;</code></td><td><i>实现透视效果</i></td><td rowspan="2" align="left"><i>&emsp;&emsp;800-1200</i></td></tr>
 </table>
 
 #### 立体呈现
 作用：设置元素的 **子** 元素是位于 **3D空间** 中还是 **平面** 中
 <font size=5 color=red>添加到 <b><i><u>直接父级</u></i></b></font>
+<table width="900" border="2">
+<tr align="center"><th width="100" bgcolor="#ddAedd">属性名</th><th width="250" bgcolor="#ddAedd">属性值</th><th width="250" bgcolor="#ddAedd">效果</th><th width="400" bgcolor="#ddAedd">取值</th></tr>
+<tr align="center"><td rowspan="9"><i>transform-style</i></td><td><i>perspective</i></td><td><i>实现透视效果</i></td><td rowspan="2" align="left"><i>&emsp;&emsp;800-1200</i></td></tr>
+</table>
+
+
 
 ### 渐变
 渐变是**多个颜色**逐渐变化的效果，一般用于设置**盒子背景**
@@ -1189,7 +1195,7 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NzE5MDc5MSw4NzQ3NjE2OTUsMTczOD
+eyJoaXN0b3J5IjpbLTEwOTE3MDM3NCw4NzQ3NjE2OTUsMTczOD
 YzNTMzMywxMzQ0NTA5MjA2LC0yMDA2MjUzODk0LDE2NDc2NjM1
 NDcsLTQwODQzNzU5NCwxMzA5OTEyOTA2LC0xNTQwNDI5NzczLC
 02MDg3NzE2MDAsMTYwODQ2NDI0LDY1NzIwNzcxNiwtMjIzNDg2

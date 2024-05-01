@@ -1058,7 +1058,7 @@ img:hover {
 ### 渐变
 渐变是**多个颜色**逐渐变化的效果，一般用于设置**盒子背景**
 <table width="1100" border="2">
-<tr align="center"><th width="100" bgcolor="#ddAedd">分类</th><th width="400" bgcolor="#ddAedd">属性</th><th width="300" bgcolor="#ddAedd">取值</th><th width="200" bgcolor="#ddAedd">效果</th></tr>
+<tr align="center"><th width="100" bgcolor="#ddAedd">分类</th><th width="300" bgcolor="#ddAedd">属性</th><th width="300" bgcolor="#ddAedd">取值</th><th width="200" bgcolor="#ddAedd">效果</th></tr>
 <tr align="center"><td rowspan="3"><i>线性渐变</i></td><td align="left" rowspan="3"><code>background-image: linear-gradient(<br>渐变方向(例如：to bottom 或 45deg),<br>颜色1终点位置,<br>颜色2终点位置,<br>……)</code></td><td align="left" rowspan="3">渐变方向：可选<br>&emsp;&emsp;top等方向名词<br>&emsp;&emsp;角度度数<br><br>终点位置：可选<br>&emsp;&emsp;百分比</td><td><img src="/imgs/2024-04-24/g5ol30eJ7tjwitj4.png" alt="to bottom/默认/0deg" width="100"><br><i>to bottom/默认/0deg</i></td></tr>
 <tr align="center"><td><img src="/imgs/2024-04-24/6H23tVNBnsX8BTJq.png" alt="to right bottom/-45deg" width="100"><br><i>to right bottom/-45deg</i></td></tr>
 <tr align="center"><td><img src="/imgs/2024-04-24/0mWr78fDBAkMSZPG.png" alt="blue 80%, red" width="100"><br><i>blue 80%, red</i></td></tr>
@@ -1178,7 +1178,7 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjM4MDEzMzAsMTY0NzY2MzU0NywtND
+eyJoaXN0b3J5IjpbLTEzNTYwNTcwMTEsMTY0NzY2MzU0NywtND
 A4NDM3NTk0LDEzMDk5MTI5MDYsLTE1NDA0Mjk3NzMsLTYwODc3
 MTYwMCwxNjA4NDY0MjQsNjU3MjA3NzE2LC0yMjM0ODY0MzYsLT
 E4ODYzMzY1ODEsLTU3NjcwMDg0Nyw3MTg5OTExODcsMTg4MzQ3

@@ -995,7 +995,7 @@ img:hover {
 ### 平面转换
 作用：为元素**添加动态效果**，一般与**过渡**配合使用
 概念：改变盒子在**平面**内的**形态**（位移、旋转、缩放、倾斜）
-<table width="10900" border="2">
+<table width="1000" border="2">
 <tr align="center"><th width="1200" bgcolor="#ddAedd">属性名</th><th width="200" bgcolor="#ddAedd">属性值</th><th width="3500" bgcolor="#ddAedd">效果</th><th width="400" bgcolor="#ddAedd">取值</th></tr>
 <tr align="center"><td rowspan="9"><i>transfrom</i></td><td><i>translateX(x)</i></td><td><i>沿X轴移动x个单位</i></td><td rowspan="3" align="left"><i>&emsp;&emsp;1. 像素单位数值<br>&emsp;&emsp;2. 百分比（参照<b>盒子自身尺寸</b>计算结果）<br>&emsp;&emsp;3. 正负均可</i></td></tr>
 <tr align="center"><td><i>translateY(y)</i></td><td><i>沿Y轴移动y个单位</i></td></tr>
@@ -1052,10 +1052,8 @@ img:hover {
 <tr align="center"><td><img src="/imgs/2024-04-24/72uFK1tSIK8jczMB.png" alt="100px 70px at left center" width="100"><br><i>100px 70px at left center</i></td></tr>
 </table>
 
-/tr>
-<tr align="center"><td><i>skewX(angle)</i></td><td><i>沿X轴倾斜angle度</i></td></tr>
-<tr align="center"><td><i>skewY(angle)</i></td><td><i>沿Y轴倾斜angle度</i></td></tr>
-</table>
+
+
 平面转换又叫**2D转换**
 
 # 项目实践
@@ -1167,11 +1165,11 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDA0Mjk3NzMsLTYwODc3MTYwMCwxNj
-A4NDY0MjQsNjU3MjA3NzE2LC0yMjM0ODY0MzYsLTE4ODYzMzY1
-ODEsLTU3NjcwMDg0Nyw3MTg5OTExODcsMTg4MzQ3NzA2NywxMT
-c1NTU5MjA2LC0xNDU3ODU0MjU4LC0xNzAzMTQ4OTMyLC0xMTcx
-NzUxNTQ1LDU0NjMwNzA0NCwxMDAzNjAzMzMxLDE3OTAwMTQ5MD
-MsLTg2NjUxODUsNjU2ODYyMzQ2LC0xODQ5MzczMTI2LDk1MjIw
-ODA0OV19
+eyJoaXN0b3J5IjpbLTE4MzA5OTQ5ODQsLTE1NDA0Mjk3NzMsLT
+YwODc3MTYwMCwxNjA4NDY0MjQsNjU3MjA3NzE2LC0yMjM0ODY0
+MzYsLTE4ODYzMzY1ODEsLTU3NjcwMDg0Nyw3MTg5OTExODcsMT
+g4MzQ3NzA2NywxMTc1NTU5MjA2LC0xNDU3ODU0MjU4LC0xNzAz
+MTQ4OTMyLC0xMTcxNzUxNTQ1LDU0NjMwNzA0NCwxMDAzNjAzMz
+MxLDE3OTAwMTQ5MDMsLTg2NjUxODUsNjU2ODYyMzQ2LC0xODQ5
+MzczMTI2XX0=
 -->

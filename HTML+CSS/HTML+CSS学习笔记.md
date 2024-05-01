@@ -1052,7 +1052,7 @@ img:hover {
 <tr align="center"><td><i>skewX(angle)</i></td><td><i>沿X轴倾斜angle度</i></td><td rowspan="2" align="left"><i>&emsp;&emsp;1. 角度单位 <b>deg</b><br>&emsp;&emsp;2. 正负均可</i></td></tr>
 <tr align="center"><td><i>skewY(angle)</i></td><td><i>沿Y轴倾斜angle度</i></td></tr>
 </table>
-<font size=5 color=red>电脑是平面，默认无法观察到Z轴平移效果</font>
+<font size=5 color=red>电脑是平面，默认无法观察到Z轴 <b><i><u>平移</u></i></b> 效果</font>
 
 
 ### 渐变
@@ -1178,11 +1178,11 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMzczNDcyOSwxNjQ3NjYzNTQ3LC00MD
-g0Mzc1OTQsMTMwOTkxMjkwNiwtMTU0MDQyOTc3MywtNjA4Nzcx
-NjAwLDE2MDg0NjQyNCw2NTcyMDc3MTYsLTIyMzQ4NjQzNiwtMT
-g4NjMzNjU4MSwtNTc2NzAwODQ3LDcxODk5MTE4NywxODgzNDc3
-MDY3LDExNzU1NTkyMDYsLTE0NTc4NTQyNTgsLTE3MDMxNDg5Mz
-IsLTExNzE3NTE1NDUsNTQ2MzA3MDQ0LDEwMDM2MDMzMzEsMTc5
-MDAxNDkwM119
+eyJoaXN0b3J5IjpbLTIxMjM4MDEzMzAsMTY0NzY2MzU0NywtND
+A4NDM3NTk0LDEzMDk5MTI5MDYsLTE1NDA0Mjk3NzMsLTYwODc3
+MTYwMCwxNjA4NDY0MjQsNjU3MjA3NzE2LC0yMjM0ODY0MzYsLT
+E4ODYzMzY1ODEsLTU3NjcwMDg0Nyw3MTg5OTExODcsMTg4MzQ3
+NzA2NywxMTc1NTU5MjA2LC0xNDU3ODU0MjU4LC0xNzAzMTQ4OT
+MyLC0xMTcxNzUxNTQ1LDU0NjMwNzA0NCwxMDAzNjAzMzMxLDE3
+OTAwMTQ5MDNdfQ==
 -->

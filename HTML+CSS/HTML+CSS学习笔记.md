@@ -1047,7 +1047,7 @@ img:hover {
 <tr align="center"><td><i>translate3d(x,y,z)</i></td><td><i>沿X、Y、Z轴同时移动x、y、z个单位</i></td></tr>
 <tr align="center"><td><i>scaleZ(x)</i></td><td><i>沿Z轴缩放z倍</i></td></tr>
 <tr align="center"><td><i>scale3d(x,y,z)</i></td><td><i>沿X、Y、Z轴同时缩放x、y、z倍</i></td></tr>
-<tr align="center"><td><i>rotate(angle)</i></td><td><i>旋转angle度</i></td><td rowspan="2" align="left"><i>&emsp;&emsp;1. 角度单位 <b>deg</b><br>&emsp;&emsp;2. 正负均可<br>&emsp;&emsp;3. 取 <b>正</b> 为<b>顺时针</b>旋转<br>&emsp;&emsp;4. 取 <b>负</b> 为<b>逆时针</b>旋转</i></td></tr>
+<tr align="center"><td><i>rotate3d(a,b,c,angle)</i></td><td><i>元素绕着3D向量  (a, b, c)  进行 angle 度的旋转</i></td><td rowspan="2" align="left"><i>&emsp;&emsp;1. 角度单位 <b>deg</b><br>&emsp;&emsp;2. 正负均可<br>&emsp;&emsp;3. 取 <b>正</b> 为<b>顺时针</b>旋转<br>&emsp;&emsp;4. 取 <b>负</b> 为<b>逆时针</b>旋转</i></td></tr>
 <tr align="center"><td><i>skewY(angle)</i></td><td><i>沿Y轴倾斜angle度</i></td></tr>
 <tr align="center"><td><i>skewX(angle)</i></td><td><i>沿X轴倾斜angle度</i></td><td rowspan="2" align="left"><i>&emsp;&emsp;1. 角度单位 <b>deg</b><br>&emsp;&emsp;2. 正负均可</i></td></tr>
 <tr align="center"><td><i>skewY(angle)</i></td><td><i>沿Y轴倾斜angle度</i></td></tr>
@@ -1178,11 +1178,11 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MzU4NDc3NywxNjQ3NjYzNTQ3LC00MD
-g0Mzc1OTQsMTMwOTkxMjkwNiwtMTU0MDQyOTc3MywtNjA4Nzcx
-NjAwLDE2MDg0NjQyNCw2NTcyMDc3MTYsLTIyMzQ4NjQzNiwtMT
-g4NjMzNjU4MSwtNTc2NzAwODQ3LDcxODk5MTE4NywxODgzNDc3
-MDY3LDExNzU1NTkyMDYsLTE0NTc4NTQyNTgsLTE3MDMxNDg5Mz
-IsLTExNzE3NTE1NDUsNTQ2MzA3MDQ0LDEwMDM2MDMzMzEsMTc5
-MDAxNDkwM119
+eyJoaXN0b3J5IjpbOTM1NTE0NjI5LDE2NDc2NjM1NDcsLTQwOD
+QzNzU5NCwxMzA5OTEyOTA2LC0xNTQwNDI5NzczLC02MDg3NzE2
+MDAsMTYwODQ2NDI0LDY1NzIwNzcxNiwtMjIzNDg2NDM2LC0xOD
+g2MzM2NTgxLC01NzY3MDA4NDcsNzE4OTkxMTg3LDE4ODM0Nzcw
+NjcsMTE3NTU1OTIwNiwtMTQ1Nzg1NDI1OCwtMTcwMzE0ODkzMi
+wtMTE3MTc1MTU0NSw1NDYzMDcwNDQsMTAwMzYwMzMzMSwxNzkw
+MDE0OTAzXX0=
 -->

@@ -1051,14 +1051,14 @@ img:hover {
 <tr align="center"><td><i>rotateZ(angle)</i></td><td><i>沿 Z 轴倾斜 angle 度</i></td></tr>
 <tr align="center"><td><i>skewX(angle)</i></td><td><i>沿X轴倾斜angle度</i></td><td rowspan="2" align="left"><i>&emsp;&emsp;1. 角度单位 <b>deg</b><br>&emsp;&emsp;2. 正负均可</i></td></tr>
 <tr align="center"><td><i>skewY(angle)</i></td><td><i>沿Y轴倾斜angle度</i></td></tr>
-<tr align="center"><td rowspan="9"><i>perspective</i></td><td><i>translateZ(x)</i></td><td><i>沿Z轴移动z个单位</i></td><td rowspan="2" align="left"><i>&emsp;&emsp;1. 像素单位数值<br>&emsp;&emsp;2. 百分比（参照<b>盒子自身尺寸</b>计算结果）<br>&emsp;&emsp;3. 正负均可</i></td></tr>
 </table>
 <font size=5 color=red>电脑是平面，默认无法观察到Z轴 <b><i><u>平移</u></i></b> 效果</font>
 
 #### 视距
-作用：指定了 **观察者** 与 **Z=0** 平面的距离，为yua
+作用：指定了 **观察者** 与 **Z=0** 平面的距离，为元素添加 **透视效果**
 <table width="900" border="2">
 <tr align="center"><th width="100" bgcolor="#ddAedd">属性名</th><th width="200" bgcolor="#ddAedd">属性值</th><th width="300" bgcolor="#ddAedd">效果</th><th width="400" bgcolor="#ddAedd">取值</th></tr>
+<tr align="center"><td rowspan="9"><i>perspective</i></td><td><i>translateZ(x)</i></td><td><i>沿Z轴移动z个单位</i></td><td rowspan="2" align="left"><i>&emsp;&emsp;1. 像素单位数值<br>&emsp;&emsp;2. 百分比（参照<b>盒子自身尺寸</b>计算结果）<br>&emsp;&emsp;3. 正负均可</i></td></tr>
 </table>
 
 ### 渐变
@@ -1184,11 +1184,11 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMDkxNDM5NCwtMjAwNjI1Mzg5NCwxNj
-Q3NjYzNTQ3LC00MDg0Mzc1OTQsMTMwOTkxMjkwNiwtMTU0MDQy
-OTc3MywtNjA4NzcxNjAwLDE2MDg0NjQyNCw2NTcyMDc3MTYsLT
-IyMzQ4NjQzNiwtMTg4NjMzNjU4MSwtNTc2NzAwODQ3LDcxODk5
-MTE4NywxODgzNDc3MDY3LDExNzU1NTkyMDYsLTE0NTc4NTQyNT
-gsLTE3MDMxNDg5MzIsLTExNzE3NTE1NDUsNTQ2MzA3MDQ0LDEw
-MDM2MDMzMzFdfQ==
+eyJoaXN0b3J5IjpbLTIxMzU0OTk4MTgsLTIwMDYyNTM4OTQsMT
+Y0NzY2MzU0NywtNDA4NDM3NTk0LDEzMDk5MTI5MDYsLTE1NDA0
+Mjk3NzMsLTYwODc3MTYwMCwxNjA4NDY0MjQsNjU3MjA3NzE2LC
+0yMjM0ODY0MzYsLTE4ODYzMzY1ODEsLTU3NjcwMDg0Nyw3MTg5
+OTExODcsMTg4MzQ3NzA2NywxMTc1NTU5MjA2LC0xNDU3ODU0Mj
+U4LC0xNzAzMTQ4OTMyLC0xMTcxNzUxNTQ1LDU0NjMwNzA0NCwx
+MDAzNjAzMzMxXX0=
 -->

@@ -1071,6 +1071,8 @@ img:hover {
 <tr align="center"><td><i>preserve-3d</i></td><td><i>子级处于 <b>3D空间</b> 中</i></td></tr>
 </table>
 
+**实现步骤**
+1. **父元素** 添加transform-style
 
 
 ### 渐变
@@ -1196,7 +1198,7 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NDY0MTEzOCw4NzQ3NjE2OTUsMTczOD
+eyJoaXN0b3J5IjpbMTIxMDc2MTc2Miw4NzQ3NjE2OTUsMTczOD
 YzNTMzMywxMzQ0NTA5MjA2LC0yMDA2MjUzODk0LDE2NDc2NjM1
 NDcsLTQwODQzNzU5NCwxMzA5OTEyOTA2LC0xNTQwNDI5NzczLC
 02MDg3NzE2MDAsMTYwODQ2NDI0LDY1NzIwNzcxNiwtMjIzNDg2

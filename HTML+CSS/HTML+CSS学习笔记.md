@@ -995,8 +995,8 @@ img:hover {
 ### 平面转换
 作用：为元素**添加动态效果**，一般与**过渡**配合使用
 概念：改变盒子在**平面**内的**形态**（位移、旋转、缩放、倾斜）
-<table width="1000" border="2">
-<tr align="center"><th width="1200" bgcolor="#ddAedd">属性名</th><th width="200" bgcolor="#ddAedd">属性值</th><th width="3500" bgcolor="#ddAedd">效果</th><th width="400" bgcolor="#ddAedd">取值</th></tr>
+<table width="900" border="2">
+<tr align="center"><th width="100" bgcolor="#ddAedd">属性名</th><th width="200" bgcolor="#ddAedd">属性值</th><th width="300" bgcolor="#ddAedd">效果</th><th width="400" bgcolor="#ddAedd">取值</th></tr>
 <tr align="center"><td rowspan="9"><i>transfrom</i></td><td><i>translateX(x)</i></td><td><i>沿X轴移动x个单位</i></td><td rowspan="3" align="left"><i>&emsp;&emsp;1. 像素单位数值<br>&emsp;&emsp;2. 百分比（参照<b>盒子自身尺寸</b>计算结果）<br>&emsp;&emsp;3. 正负均可</i></td></tr>
 <tr align="center"><td><i>translateY(y)</i></td><td><i>沿Y轴移动y个单位</i></td></tr>
 <tr align="center"><td><i>translate(x,y)</i></td><td><i>沿X轴和Y轴同时移动x和y个单位</i></td></tr>
@@ -1038,7 +1038,7 @@ img:hover {
 		- **正数**角度：![输入图片说明](/imgs/2024-04-24/VkRf5RNQySjQtFst.gif =x100)
 		- **负数**角度：![Y轴负数角度](/imgs/2024-04-24/GY7FHpoASlBS4Ke3.gif =x100) 
 
-
+### 空间转换
 
 ### 渐变
 渐变是**多个颜色**逐渐变化的效果，一般用于设置**盒子背景**
@@ -1053,8 +1053,6 @@ img:hover {
 </table>
 
 
-
-平面转换又叫**2D转换**
 
 # 项目实践
 
@@ -1165,11 +1163,11 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzA5OTQ5ODQsLTE1NDA0Mjk3NzMsLT
-YwODc3MTYwMCwxNjA4NDY0MjQsNjU3MjA3NzE2LC0yMjM0ODY0
-MzYsLTE4ODYzMzY1ODEsLTU3NjcwMDg0Nyw3MTg5OTExODcsMT
-g4MzQ3NzA2NywxMTc1NTU5MjA2LC0xNDU3ODU0MjU4LC0xNzAz
-MTQ4OTMyLC0xMTcxNzUxNTQ1LDU0NjMwNzA0NCwxMDAzNjAzMz
-MxLDE3OTAwMTQ5MDMsLTg2NjUxODUsNjU2ODYyMzQ2LC0xODQ5
-MzczMTI2XX0=
+eyJoaXN0b3J5IjpbMTMwOTkxMjkwNiwtMTU0MDQyOTc3MywtNj
+A4NzcxNjAwLDE2MDg0NjQyNCw2NTcyMDc3MTYsLTIyMzQ4NjQz
+NiwtMTg4NjMzNjU4MSwtNTc2NzAwODQ3LDcxODk5MTE4NywxOD
+gzNDc3MDY3LDExNzU1NTkyMDYsLTE0NTc4NTQyNTgsLTE3MDMx
+NDg5MzIsLTExNzE3NTE1NDUsNTQ2MzA3MDQ0LDEwMDM2MDMzMz
+EsMTc5MDAxNDkwMywtODY2NTE4NSw2NTY4NjIzNDYsLTE4NDkz
+NzMxMjZdfQ==
 -->

@@ -1056,7 +1056,7 @@ img:hover {
 
 #### 视距
 作用：指定了 **观察者** 与 **Z=0** 平面的距离，为元素添加 **透视效果**
-<font size=5 color=red>添加到 <b><i><u>父级</u></i></b></font>
+<font size=5 color=red>添加到 <b><i><u>直接父级</u></i></b></font>
 <table width="900" border="2">
 <tr align="center"><th width="100" bgcolor="#ddAedd">属性名</th><th width="250" bgcolor="#ddAedd">语法</th><th width="250" bgcolor="#ddAedd">效果</th><th width="400" bgcolor="#ddAedd">取值</th></tr>
 <tr align="center"><td rowspan="9"><i>perspective</i></td><td><code>perspective: 视距;</code></td><td><i>实现透视效果</i></td><td rowspan="2" align="left"><i>&emsp;&emsp;800-1200</i></td></tr>
@@ -1185,11 +1185,11 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NDUwOTIwNiwtMjAwNjI1Mzg5NCwxNj
-Q3NjYzNTQ3LC00MDg0Mzc1OTQsMTMwOTkxMjkwNiwtMTU0MDQy
-OTc3MywtNjA4NzcxNjAwLDE2MDg0NjQyNCw2NTcyMDc3MTYsLT
-IyMzQ4NjQzNiwtMTg4NjMzNjU4MSwtNTc2NzAwODQ3LDcxODk5
-MTE4NywxODgzNDc3MDY3LDExNzU1NTkyMDYsLTE0NTc4NTQyNT
-gsLTE3MDMxNDg5MzIsLTExNzE3NTE1NDUsNTQ2MzA3MDQ0LDEw
-MDM2MDMzMzFdfQ==
+eyJoaXN0b3J5IjpbMTczODYzNTMzMywxMzQ0NTA5MjA2LC0yMD
+A2MjUzODk0LDE2NDc2NjM1NDcsLTQwODQzNzU5NCwxMzA5OTEy
+OTA2LC0xNTQwNDI5NzczLC02MDg3NzE2MDAsMTYwODQ2NDI0LD
+Y1NzIwNzcxNiwtMjIzNDg2NDM2LC0xODg2MzM2NTgxLC01NzY3
+MDA4NDcsNzE4OTkxMTg3LDE4ODM0NzcwNjcsMTE3NTU1OTIwNi
+wtMTQ1Nzg1NDI1OCwtMTcwMzE0ODkzMiwtMTE3MTc1MTU0NSw1
+NDYzMDcwNDRdfQ==
 -->

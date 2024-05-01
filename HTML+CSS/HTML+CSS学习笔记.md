@@ -1041,7 +1041,17 @@ img:hover {
 ### 空间转换
 空间：是从坐标轴角度定义的 **X、Y 和 Z** 三条坐标轴构成了一个立体空间，**Z轴位置与视线方向相同**
 空间转换也叫 **3D转换**
-
+<table width="900" border="2">
+<tr align="center"><th width="100" bgcolor="#ddAedd">属性名</th><th width="200" bgcolor="#ddAedd">属性值</th><th width="300" bgcolor="#ddAedd">效果</th><th width="400" bgcolor="#ddAedd">取值</th></tr>
+<tr align="center"><td rowspan="9"><i>transfrom</i></td><td><i>translateZ(x)</i></td><td><i>沿X轴移动x个单位</i></td><td rowspan="2" align="left"><i>&emsp;&emsp;1. 像素单位数值<br>&emsp;&emsp;2. 百分比（参照<b>盒子自身尺寸</b>计算结果）<br>&emsp;&emsp;3. 正负均可</i></td></tr>
+<tr align="center"><td><i>translate3d(x,y,z)</i></td><td><i>沿X轴和Y轴同时移动x和y个单位</i></td></tr>
+<tr align="center"><td><i>scaleX(x)</i></td><td><i>沿X轴缩放x倍</i></td></tr>
+<tr align="center"><td><i>scaleY(y)</i></td><td><i>沿Y轴缩放y倍</i></td></tr>
+<tr align="center"><td><i>scale(x,y)</i></td><td><i>沿X轴和Y轴同时缩放x和y倍</i></td></tr>
+<tr align="center"><td><i>rotate(angle)</i></td><td><i>旋转angle度</i></td><td rowspan="1" align="left"><i>&emsp;&emsp;1. 角度单位 <b>deg</b><br>&emsp;&emsp;2. 正负均可<br>&emsp;&emsp;3. 取 <b>正</b> 为<b>顺时针</b>旋转<br>&emsp;&emsp;4. 取 <b>负</b> 为<b>逆时针</b>旋转</i></td></tr>
+<tr align="center"><td><i>skewX(angle)</i></td><td><i>沿X轴倾斜angle度</i></td><td rowspan="2" align="left"><i>&emsp;&emsp;1. 角度单位 <b>deg</b><br>&emsp;&emsp;2. 正负均可</i></td></tr>
+<tr align="center"><td><i>skewY(angle)</i></td><td><i>沿Y轴倾斜angle度</i></td></tr>
+</table>
 
 ### 渐变
 渐变是**多个颜色**逐渐变化的效果，一般用于设置**盒子背景**
@@ -1166,11 +1176,11 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NzY2MzU0NywtNDA4NDM3NTk0LDEzMD
-k5MTI5MDYsLTE1NDA0Mjk3NzMsLTYwODc3MTYwMCwxNjA4NDY0
-MjQsNjU3MjA3NzE2LC0yMjM0ODY0MzYsLTE4ODYzMzY1ODEsLT
-U3NjcwMDg0Nyw3MTg5OTExODcsMTg4MzQ3NzA2NywxMTc1NTU5
-MjA2LC0xNDU3ODU0MjU4LC0xNzAzMTQ4OTMyLC0xMTcxNzUxNT
-Q1LDU0NjMwNzA0NCwxMDAzNjAzMzMxLDE3OTAwMTQ5MDMsLTg2
-NjUxODVdfQ==
+eyJoaXN0b3J5IjpbLTE2Mzc2ODM5MzYsMTY0NzY2MzU0NywtND
+A4NDM3NTk0LDEzMDk5MTI5MDYsLTE1NDA0Mjk3NzMsLTYwODc3
+MTYwMCwxNjA4NDY0MjQsNjU3MjA3NzE2LC0yMjM0ODY0MzYsLT
+E4ODYzMzY1ODEsLTU3NjcwMDg0Nyw3MTg5OTExODcsMTg4MzQ3
+NzA2NywxMTc1NTU5MjA2LC0xNDU3ODU0MjU4LC0xNzAzMTQ4OT
+MyLC0xMTcxNzUxNTQ1LDU0NjMwNzA0NCwxMDAzNjAzMzMxLDE3
+OTAwMTQ5MDNdfQ==
 -->

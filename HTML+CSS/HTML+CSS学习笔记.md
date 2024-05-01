@@ -1099,8 +1099,10 @@ img:hover {
 		```
 2. 使用动画
 	```css
-	animation
+	animation: 动画名称 动画花费时长;
 	```
+
+
 
 ### 渐变
 渐变是**多个颜色**逐渐变化的效果，一般用于设置**盒子背景**
@@ -1225,7 +1227,7 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1OTgwMDEzMSwxNDUyMzQwMDcyLDg3ND
+eyJoaXN0b3J5IjpbMTU2MTgyMzQ3NCwxNDUyMzQwMDcyLDg3ND
 c2MTY5NSwxNzM4NjM1MzMzLDEzNDQ1MDkyMDYsLTIwMDYyNTM4
 OTQsMTY0NzY2MzU0NywtNDA4NDM3NTk0LDEzMDk5MTI5MDYsLT
 E1NDA0Mjk3NzMsLTYwODc3MTYwMCwxNjA4NDY0MjQsNjU3MjA3

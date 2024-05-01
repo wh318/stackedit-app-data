@@ -1062,6 +1062,10 @@ img:hover {
 <tr align="center"><td rowspan="9"><i>perspective</i></td><td><code>perspective: 视距;</code></td><td><i>实现透视效果</i></td><td rowspan="2" align="left"><i>&emsp;&emsp;800-1200</i></td></tr>
 </table>
 
+#### 立体呈现
+作用：设置元素的 **子** 元素是位于 **3D空间** 中还是 **平面** 中
+<font size=5 color=red>添加到 <b><i><u>直接父级</u></i></b></font>
+
 ### 渐变
 渐变是**多个颜色**逐渐变化的效果，一般用于设置**盒子背景**
 <table width="1100" border="2">
@@ -1185,11 +1189,11 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAxMTMxMzAzLDg3NDc2MTY5NSwxNzM4Nj
-M1MzMzLDEzNDQ1MDkyMDYsLTIwMDYyNTM4OTQsMTY0NzY2MzU0
-NywtNDA4NDM3NTk0LDEzMDk5MTI5MDYsLTE1NDA0Mjk3NzMsLT
-YwODc3MTYwMCwxNjA4NDY0MjQsNjU3MjA3NzE2LC0yMjM0ODY0
-MzYsLTE4ODYzMzY1ODEsLTU3NjcwMDg0Nyw3MTg5OTExODcsMT
-g4MzQ3NzA2NywxMTc1NTU5MjA2LC0xNDU3ODU0MjU4LC0xNzAz
-MTQ4OTMyXX0=
+eyJoaXN0b3J5IjpbMTg4NzE5MDc5MSw4NzQ3NjE2OTUsMTczOD
+YzNTMzMywxMzQ0NTA5MjA2LC0yMDA2MjUzODk0LDE2NDc2NjM1
+NDcsLTQwODQzNzU5NCwxMzA5OTEyOTA2LC0xNTQwNDI5NzczLC
+02MDg3NzE2MDAsMTYwODQ2NDI0LDY1NzIwNzcxNiwtMjIzNDg2
+NDM2LC0xODg2MzM2NTgxLC01NzY3MDA4NDcsNzE4OTkxMTg3LD
+E4ODM0NzcwNjcsMTE3NTU1OTIwNiwtMTQ1Nzg1NDI1OCwtMTcw
+MzE0ODkzMl19
 -->

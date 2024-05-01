@@ -1040,6 +1040,7 @@ img:hover {
 
 ### 空间转换
 空间：是从坐标轴角度定义的 **X、Y 和 Z** 三条坐标轴构成了一个立体空间，**Z轴位置与视线方向相同**
+空间转换也叫 **3D转换**
 
 
 ### 渐变
@@ -1165,7 +1166,7 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4OTU2NTgzOCwtNDA4NDM3NTk0LDEzMD
+eyJoaXN0b3J5IjpbMTY0NzY2MzU0NywtNDA4NDM3NTk0LDEzMD
 k5MTI5MDYsLTE1NDA0Mjk3NzMsLTYwODc3MTYwMCwxNjA4NDY0
 MjQsNjU3MjA3NzE2LC0yMjM0ODY0MzYsLTE4ODYzMzY1ODEsLT
 U3NjcwMDg0Nyw3MTg5OTExODcsMTg4MzQ3NzA2NywxMTc1NTU5

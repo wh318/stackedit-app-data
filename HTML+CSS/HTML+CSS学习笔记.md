@@ -1052,7 +1052,7 @@ img:hover {
 <tr align="center"><td><i>skewX(angle)</i></td><td><i>沿X轴倾斜angle度</i></td><td rowspan="2" align="left"><i>&emsp;&emsp;1. 角度单位 <b>deg</b><br>&emsp;&emsp;2. 正负均可</i></td></tr>
 <tr align="center"><td><i>skewY(angle)</i></td><td><i>沿Y轴倾斜angle度</i></td></tr>
 </table>
-<font size=4 
+<font size=5 color=red>电脑是平面，默认无法观察到Z轴平移效果</font>
 
 
 ### 渐变
@@ -1178,7 +1178,7 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMDMyMDY5MSwxNjQ3NjYzNTQ3LC00MD
+eyJoaXN0b3J5IjpbMTExMzczNDcyOSwxNjQ3NjYzNTQ3LC00MD
 g0Mzc1OTQsMTMwOTkxMjkwNiwtMTU0MDQyOTc3MywtNjA4Nzcx
 NjAwLDE2MDg0NjQyNCw2NTcyMDc3MTYsLTIyMzQ4NjQzNiwtMT
 g4NjMzNjU4MSwtNTc2NzAwODQ3LDcxODk5MTE4NywxODgzNDc3

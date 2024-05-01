@@ -1054,7 +1054,7 @@ img:hover {
 <tr align="center"><td><i>skewX(angle)</i></td><td><i>沿X轴倾斜angle度</i></td><td rowspan="2" align="left"><i>&emsp;&emsp;1. 角度单位 <b>deg</b><br>&emsp;&emsp;2. 正负均可</i></td></tr>
 <tr align="center"><td><i>skewY(angle)</i></td><td><i>沿Y轴倾斜angle度</i></td></tr>
 </table>
-<font size=5 color=red>电脑是平面，默认无法观察到Z轴 <b><i><u>平移</u></i></b> 效果</font>
+<font size=5 color=red>电脑是平面，默认无法观察到Z轴 <b><i><u>平移</u></i></b> 和效果</font>
 
 #### 视距
 作用：指定了 **观察者** 与 **Z=0** 平面的距离，为元素添加 **透视效果**
@@ -1187,7 +1187,7 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzYzOTg1NSwxNzM4NjM1MzMzLDEzND
+eyJoaXN0b3J5IjpbMTAxMjg3OTUxOSwxNzM4NjM1MzMzLDEzND
 Q1MDkyMDYsLTIwMDYyNTM4OTQsMTY0NzY2MzU0NywtNDA4NDM3
 NTk0LDEzMDk5MTI5MDYsLTE1NDA0Mjk3NzMsLTYwODc3MTYwMC
 wxNjA4NDY0MjQsNjU3MjA3NzE2LC0yMjM0ODY0MzYsLTE4ODYz

@@ -1066,8 +1066,9 @@ img:hover {
 作用：设置元素的 **子** 元素是位于 **3D空间** 中还是 **平面** 中
 <font size=5 color=red>添加到 <b><i><u>直接父级</u></i></b></font>
 <table width="900" border="2">
-<tr align="center"><th width="100" bgcolor="#ddAedd">属性名</th><th width="250" bgcolor="#ddAedd">属性值</th><th width="250" bgcolor="#ddAedd">效果</th><th width="400" bgcolor="#ddAedd">取值</th></tr>
-<tr align="center"><td rowspan="9"><i>transform-style</i></td><td><i>perspective</i></td><td><i>实现透视效果</i></td><td rowspan="2" align="left"><i>&emsp;&emsp;800-1200</i></td></tr>
+<tr align="center"><th width="150" bgcolor="#ddAedd">属性名</th><th width="250" bgcolor="#ddAedd">属性值</th><th width="250" bgcolor="#ddAedd">效果</th><th width="400" bgcolor="#ddAedd">取值</th></tr>
+<tr align="center"><td rowspan="2"><i>transform-style</i></td><td><i>flat</i></td><td><i>子级处于<b>平面</b>中</i></td><td rowspan="2" align="left"><i>&emsp;&emsp;800-1200</i></td></tr>
+<tr align="center"><td><i>preser</i></td><td><i>沿 Z 轴倾斜 angle 度</i></td></tr>
 </table>
 
 
@@ -1195,7 +1196,7 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTE3MDM3NCw4NzQ3NjE2OTUsMTczOD
+eyJoaXN0b3J5IjpbLTUwOTY3Njg2Myw4NzQ3NjE2OTUsMTczOD
 YzNTMzMywxMzQ0NTA5MjA2LC0yMDA2MjUzODk0LDE2NDc2NjM1
 NDcsLTQwODQzNzU5NCwxMzA5OTEyOTA2LC0xNTQwNDI5NzczLC
 02MDg3NzE2MDAsMTYwODQ2NDI0LDY1NzIwNzcxNiwtMjIzNDg2

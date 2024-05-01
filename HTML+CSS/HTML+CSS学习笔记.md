@@ -1072,9 +1072,11 @@ img:hover {
 </table>
 
 **实现步骤**
-1. **父元素** 添加transform-style
+1. **父元素** 添加 **transform-style: preserve-3d;**
+2. 子级 **定位**
+3. 调整子盒子的 **位置（位移或旋转）**
 
-
+，。
 ### 渐变
 渐变是**多个颜色**逐渐变化的效果，一般用于设置**盒子背景**
 <table width="1100" border="2">
@@ -1198,11 +1200,11 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMDc2MTc2Miw4NzQ3NjE2OTUsMTczOD
-YzNTMzMywxMzQ0NTA5MjA2LC0yMDA2MjUzODk0LDE2NDc2NjM1
-NDcsLTQwODQzNzU5NCwxMzA5OTEyOTA2LC0xNTQwNDI5NzczLC
-02MDg3NzE2MDAsMTYwODQ2NDI0LDY1NzIwNzcxNiwtMjIzNDg2
-NDM2LC0xODg2MzM2NTgxLC01NzY3MDA4NDcsNzE4OTkxMTg3LD
-E4ODM0NzcwNjcsMTE3NTU1OTIwNiwtMTQ1Nzg1NDI1OCwtMTcw
-MzE0ODkzMl19
+eyJoaXN0b3J5IjpbLTE1Mzc5NzE3MDgsODc0NzYxNjk1LDE3Mz
+g2MzUzMzMsMTM0NDUwOTIwNiwtMjAwNjI1Mzg5NCwxNjQ3NjYz
+NTQ3LC00MDg0Mzc1OTQsMTMwOTkxMjkwNiwtMTU0MDQyOTc3My
+wtNjA4NzcxNjAwLDE2MDg0NjQyNCw2NTcyMDc3MTYsLTIyMzQ4
+NjQzNiwtMTg4NjMzNjU4MSwtNTc2NzAwODQ3LDcxODk5MTE4Ny
+wxODgzNDc3MDY3LDExNzU1NTkyMDYsLTE0NTc4NTQyNTgsLTE3
+MDMxNDg5MzJdfQ==
 -->

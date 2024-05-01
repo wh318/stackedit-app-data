@@ -1055,6 +1055,11 @@ img:hover {
 </table>
 <font size=5 color=red>电脑是平面，默认无法观察到Z轴 <b><i><u>平移</u></i></b> 效果</font>
 
+#### 视距
+作用：指定了 **观察者** 与 **Z=0** 平面的距离，为yua
+<table width="900" border="2">
+<tr align="center"><th width="100" bgcolor="#ddAedd">属性名</th><th width="200" bgcolor="#ddAedd">属性值</th><th width="300" bgcolor="#ddAedd">效果</th><th width="400" bgcolor="#ddAedd">取值</th></tr>
+</table>
 
 ### 渐变
 渐变是**多个颜色**逐渐变化的效果，一般用于设置**盒子背景**
@@ -1179,11 +1184,11 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDYyNTM4OTQsMTY0NzY2MzU0NywtND
-A4NDM3NTk0LDEzMDk5MTI5MDYsLTE1NDA0Mjk3NzMsLTYwODc3
-MTYwMCwxNjA4NDY0MjQsNjU3MjA3NzE2LC0yMjM0ODY0MzYsLT
-E4ODYzMzY1ODEsLTU3NjcwMDg0Nyw3MTg5OTExODcsMTg4MzQ3
-NzA2NywxMTc1NTU5MjA2LC0xNDU3ODU0MjU4LC0xNzAzMTQ4OT
-MyLC0xMTcxNzUxNTQ1LDU0NjMwNzA0NCwxMDAzNjAzMzMxLDE3
-OTAwMTQ5MDNdfQ==
+eyJoaXN0b3J5IjpbMTEwMDkxNDM5NCwtMjAwNjI1Mzg5NCwxNj
+Q3NjYzNTQ3LC00MDg0Mzc1OTQsMTMwOTkxMjkwNiwtMTU0MDQy
+OTc3MywtNjA4NzcxNjAwLDE2MDg0NjQyNCw2NTcyMDc3MTYsLT
+IyMzQ4NjQzNiwtMTg4NjMzNjU4MSwtNTc2NzAwODQ3LDcxODk5
+MTE4NywxODgzNDc3MDY3LDExNzU1NTkyMDYsLTE0NTc4NTQyNT
+gsLTE3MDMxNDg5MzIsLTExNzE3NTE1NDUsNTQ2MzA3MDQ0LDEw
+MDM2MDMzMzFdfQ==
 -->

@@ -1047,7 +1047,7 @@ img:hover {
 <tr align="center"><td><i>translate3d(x, y, z)</i></td><td><i>沿X、Y、Z轴同时移动x、y、z个单位</i></td></tr>
 <tr align="center"><td><i>scaleZ(x)</i></td><td><i>沿Z轴缩放z倍</i></td></tr>
 <tr align="center"><td><i>scale3d(x, y, z)</i></td><td><i>沿X、Y、Z轴同时缩放x、y、z倍</i></td></tr>
-<tr align="center"><td><i>rotate3d(a, b, c, angle)</i></td><td><i>元素绕着3D向量  (a, b, c)  进行 angle 度的旋转</i></td><td rowspan="4" align="left"><i>&emsp;&emsp;1. 角度单位 <b>deg</b><br>&emsp;&emsp;2. 正负均可<br>&emsp;&emsp;3. 取 <b>正</b> 为<b>逆时针</b>旋转<br>&emsp;&emsp;4. 取 <b>负</b> 为<b>顺时针</b>旋转</i></td></tr>
+<tr align="center"><td><i>rotate3d(a, b, c, angle)</i></td><td><i>元素绕着3D向量  (a, b, c)  进行 angle 度的旋转</i></td><td rowspan="4" align="left"><i>&emsp;&emsp;1. 角度单位 <b>deg</b><br>&emsp;&emsp;2. 正负均可<br>&emsp;&emsp;3. 左手法则一根据旋转方向确定取值正负<br>&emsp;&emsp;左手握住旋转轴，拇指指向正值方向，其他四个手指弯曲方向为旋转正值方向</td></tr>
 <tr align="center"><td><i>rotateX(angle)</i></td><td><i>沿 X 轴倾斜 angle 度</i></td></tr>
 <tr align="center"><td><i>rotateY(angle)</i></td><td><i>沿 Y 轴倾斜 angle 度</i></td></tr>
 <tr align="center"><td><i>rotateZ(angle)</i></td><td><i>沿 Z 轴倾斜 angle 度</i></td></tr>
@@ -1187,11 +1187,11 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjcwMjA0MTEsMTczODYzNTMzMywxMz
-Q0NTA5MjA2LC0yMDA2MjUzODk0LDE2NDc2NjM1NDcsLTQwODQz
-NzU5NCwxMzA5OTEyOTA2LC0xNTQwNDI5NzczLC02MDg3NzE2MD
-AsMTYwODQ2NDI0LDY1NzIwNzcxNiwtMjIzNDg2NDM2LC0xODg2
-MzM2NTgxLC01NzY3MDA4NDcsNzE4OTkxMTg3LDE4ODM0NzcwNj
-csMTE3NTU1OTIwNiwtMTQ1Nzg1NDI1OCwtMTcwMzE0ODkzMiwt
-MTE3MTc1MTU0NV19
+eyJoaXN0b3J5IjpbNDExODMyNDc5LDE3Mzg2MzUzMzMsMTM0ND
+UwOTIwNiwtMjAwNjI1Mzg5NCwxNjQ3NjYzNTQ3LC00MDg0Mzc1
+OTQsMTMwOTkxMjkwNiwtMTU0MDQyOTc3MywtNjA4NzcxNjAwLD
+E2MDg0NjQyNCw2NTcyMDc3MTYsLTIyMzQ4NjQzNiwtMTg4NjMz
+NjU4MSwtNTc2NzAwODQ3LDcxODk5MTE4NywxODgzNDc3MDY3LD
+ExNzU1NTkyMDYsLTE0NTc4NTQyNTgsLTE3MDMxNDg5MzIsLTEx
+NzE3NTE1NDVdfQ==
 -->

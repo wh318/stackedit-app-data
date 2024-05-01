@@ -1043,15 +1043,14 @@ img:hover {
 空间转换也叫 **3D转换**
 <table width="900" border="2">
 <tr align="center"><th width="100" bgcolor="#ddAedd">属性名</th><th width="200" bgcolor="#ddAedd">属性值</th><th width="300" bgcolor="#ddAedd">效果</th><th width="400" bgcolor="#ddAedd">取值</th></tr>
-<tr align="center"><td rowspan="10"><i>transfrom</i></td><td><i>translateZ(x)</i></td><td><i>沿Z轴移动z个单位</i></td><td rowspan="2" align="left"><i>&emsp;&emsp;1. 像素单位数值<br>&emsp;&emsp;2. 百分比（参照<b>盒子自身尺寸</b>计算结果）<br>&emsp;&emsp;3. 正负均可</i></td></tr>
+<tr align="center"><td rowspan="8"><i>transfrom</i></td><td><i>translateZ(x)</i></td><td><i>沿Z轴移动z个单位</i></td><td rowspan="2" align="left"><i>&emsp;&emsp;1. 像素单位数值<br>&emsp;&emsp;2. 百分比（参照<b>盒子自身尺寸</b>计算结果）<br>&emsp;&emsp;3. 正负均可</i></td></tr>
 <tr align="center"><td><i>translate3d(x, y, z)</i></td><td><i>沿X、Y、Z轴同时移动x、y、z个单位</i></td></tr>
 <tr align="center"><td><i>scaleZ(x)</i></td><td><i>沿Z轴缩放z倍</i></td></tr>
 <tr align="center"><td><i>scale3d(x, y, z)</i></td><td><i>沿X、Y、Z轴同时缩放x、y、z倍</i></td></tr>
-<tr align="center"><td><i>rotate3d(a, b, c, angle)</i></td><td><i>元素绕着3D向量  (a, b, c)  进行 angle 度的旋转</i></td><td rowspan="4" align="left"><i>&emsp;&emsp;1. 角度单位 <b>deg</b><br>&emsp;&emsp;2. 正负均可<br>&emsp;&emsp;3. 左手法则一根据<b>旋转方向</b>确定取值<b>正负</b><br>&emsp;&emsp;<b>左手</b>握住旋转轴，<b>拇指指向正值方向</b>，其他四个手指<b>弯曲</b>方向为旋转<b>正值</b>方向</td></tr>
+<tr align="center"><td><i>rotate3d(a, b, c, angle)</i></td><td><i>元素绕着3D向量  (a, b, c)  进行 angle 度的旋转</i></td><td rowspan="4" align="left"><i>&emsp;&emsp;1. a、b、c取值为0~1，角度单位 <b>deg</b><br>&emsp;&emsp;2. 正负均可<br>&emsp;&emsp;3. 左手法则一根据<b>旋转方向</b>确定取值<b>正负</b><br>&emsp;&emsp;<b>左手</b>握住旋转轴，<b>拇指指向正值方向</b>，其他四个手指<b>弯曲</b>方向为旋转<b>正值</b>方向</td></tr>
 <tr align="center"><td><i>rotateX(angle)</i></td><td><i>沿 X 轴倾斜 angle 度</i></td></tr>
 <tr align="center"><td><i>rotateY(angle)</i></td><td><i>沿 Y 轴倾斜 angle 度</i></td></tr>
 <tr align="center"><td><i>rotateZ(angle)</i></td><td><i>沿 Z 轴倾斜 angle 度</i></td></tr>
-
 </table>
 <font size=5 color=red>电脑是平面，默认无法观察到Z轴 <b><i><u>平移</u></i></b> 效果和  <b><i><u>部分空间效果</u></i></b></font>
 
@@ -1186,11 +1185,11 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNTYxOTQwNyw4NzQ3NjE2OTUsMTczOD
-YzNTMzMywxMzQ0NTA5MjA2LC0yMDA2MjUzODk0LDE2NDc2NjM1
-NDcsLTQwODQzNzU5NCwxMzA5OTEyOTA2LC0xNTQwNDI5NzczLC
-02MDg3NzE2MDAsMTYwODQ2NDI0LDY1NzIwNzcxNiwtMjIzNDg2
-NDM2LC0xODg2MzM2NTgxLC01NzY3MDA4NDcsNzE4OTkxMTg3LD
-E4ODM0NzcwNjcsMTE3NTU1OTIwNiwtMTQ1Nzg1NDI1OCwtMTcw
-MzE0ODkzMl19
+eyJoaXN0b3J5IjpbODAxMTMxMzAzLDg3NDc2MTY5NSwxNzM4Nj
+M1MzMzLDEzNDQ1MDkyMDYsLTIwMDYyNTM4OTQsMTY0NzY2MzU0
+NywtNDA4NDM3NTk0LDEzMDk5MTI5MDYsLTE1NDA0Mjk3NzMsLT
+YwODc3MTYwMCwxNjA4NDY0MjQsNjU3MjA3NzE2LC0yMjM0ODY0
+MzYsLTE4ODYzMzY1ODEsLTU3NjcwMDg0Nyw3MTg5OTExODcsMT
+g4MzQ3NzA2NywxMTc1NTU5MjA2LC0xNDU3ODU0MjU4LC0xNzAz
+MTQ4OTMyXX0=
 -->

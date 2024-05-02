@@ -1247,13 +1247,17 @@ img:hover {
 
 
 
-
+| 属性名 | 属性值 | 具体属性值 | 作用 |
+|------------|-------------------------------|------------------------------------------|----------------------------------------------------| 
+| animation | 动画名称 | 无 | 规定 @keyframes 动画的名称，或者是由多个空格分隔的名称列表。 | 
+| | 动画时长 | 时间值 | 规定动画完成一个周期所花费的秒或毫秒。 | 
+| | 动画速度曲线 | ease | linear | ease-in | ease-out | cubic-bezier(n,n,n,n) | 规定动画的速度曲线。 | | | 动画延迟 | 时间值 | 规定动画何时开始。 | | | 动画次数 | 数字 | infinite | 规定动画应该播放的次数。如果使用 infinite，则动画将无限播放。 | | | 动画方向 | normal | reverse | alternate | alternate-reverse | 规定是否轮流反向播放动画。 | | | 动画填充模式 | none | forwards | backwards | both | 规定在动画之前和之后是否应用动画状态。 |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NDUwMzI0MiwxNTYxODIzNDc0LDE0NT
-IzNDAwNzIsODc0NzYxNjk1LDE3Mzg2MzUzMzMsMTM0NDUwOTIw
-NiwtMjAwNjI1Mzg5NCwxNjQ3NjYzNTQ3LC00MDg0Mzc1OTQsMT
-MwOTkxMjkwNiwtMTU0MDQyOTc3MywtNjA4NzcxNjAwLDE2MDg0
-NjQyNCw2NTcyMDc3MTYsLTIyMzQ4NjQzNiwtMTg4NjMzNjU4MS
-wtNTc2NzAwODQ3LDcxODk5MTE4NywxODgzNDc3MDY3LDExNzU1
-NTkyMDZdfQ==
+eyJoaXN0b3J5IjpbNDEwMzIxNzk5LDEwNjQ1MDMyNDIsMTU2MT
+gyMzQ3NCwxNDUyMzQwMDcyLDg3NDc2MTY5NSwxNzM4NjM1MzMz
+LDEzNDQ1MDkyMDYsLTIwMDYyNTM4OTQsMTY0NzY2MzU0NywtND
+A4NDM3NTk0LDEzMDk5MTI5MDYsLTE1NDA0Mjk3NzMsLTYwODc3
+MTYwMCwxNjA4NDY0MjQsNjU3MjA3NzE2LC0yMjM0ODY0MzYsLT
+E4ODYzMzY1ODEsLTU3NjcwMDg0Nyw3MTg5OTExODcsMTg4MzQ3
+NzA2N119
 -->

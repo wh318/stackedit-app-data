@@ -1080,8 +1080,8 @@ img:hover {
 
 ### 动画
 <table width="900" border="2">
-<tr align="center"><th width="150" bgcolor="#ddAedd">属性名</th><th width="250" bgcolor="#ddAedd">属性值</th><th width="250" bgcolor="#ddAedd">效果</th></tr>
-<tr align="center"><td rowspan="2"><i>animation</i></td><td><i>flat</i></td><td><i>子级处于 <b>平面</b> 中</i></td></tr>
+<tr align="center"><th width="150" bgcolor="#ddAedd">属性名</th><th width="250" bgcolor="#ddAedd">属性值</th><th width="250" bgcolor="#ddAedd">备注</th></tr>
+<tr align="center"><td rowspan="2"><i>animation</i></td><td><i>动画名称</i></td><td><i>必须赋值 <b>平面</b> 中</i></td></tr>
 <tr align="center"><td><i>preserve-3d</i></td><td><i>子级处于 <b>3D空间</b> 中</i></td></tr>
 </table>
 **实现步骤**
@@ -1232,11 +1232,11 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk0OTkyMzUzLDE1NjE4MjM0NzQsMTQ1Mj
-M0MDA3Miw4NzQ3NjE2OTUsMTczODYzNTMzMywxMzQ0NTA5MjA2
-LC0yMDA2MjUzODk0LDE2NDc2NjM1NDcsLTQwODQzNzU5NCwxMz
-A5OTEyOTA2LC0xNTQwNDI5NzczLC02MDg3NzE2MDAsMTYwODQ2
-NDI0LDY1NzIwNzcxNiwtMjIzNDg2NDM2LC0xODg2MzM2NTgxLC
-01NzY3MDA4NDcsNzE4OTkxMTg3LDE4ODM0NzcwNjcsMTE3NTU1
-OTIwNl19
+eyJoaXN0b3J5IjpbMTY0ODk0NDE4MywxNTYxODIzNDc0LDE0NT
+IzNDAwNzIsODc0NzYxNjk1LDE3Mzg2MzUzMzMsMTM0NDUwOTIw
+NiwtMjAwNjI1Mzg5NCwxNjQ3NjYzNTQ3LC00MDg0Mzc1OTQsMT
+MwOTkxMjkwNiwtMTU0MDQyOTc3MywtNjA4NzcxNjAwLDE2MDg0
+NjQyNCw2NTcyMDc3MTYsLTIyMzQ4NjQzNiwtMTg4NjMzNjU4MS
+wtNTc2NzAwODQ3LDcxODk5MTE4NywxODgzNDc3MDY3LDExNzU1
+NTkyMDZdfQ==
 -->

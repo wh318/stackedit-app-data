@@ -1080,7 +1080,7 @@ img:hover {
 
 ### 动画
 <table width="900" border="2">
-<tr align="center"><th width="150" bgcolor="#ddAedd">属性名</th><th width="250" bgcolor="#ddAedd">属性值</th><th width="250" bgcolor="#ddAedd">备注</th></tr>
+<tr align="center"><th width="150" bgcolor="#ddAedd">属性名</th><th width="250" bgcolor="#ddAedd" col>属性值</th><th width="250" bgcolor="#ddAedd">备注</th></tr>
 <tr align="center"><td rowspan="8"><i>animation</i></td><td><i>动画名称</i></td><td><i>必须赋值</i></td></tr>
 <tr align="center"><td><i>动画花费时长（s）</i></td><td><i>必须赋值</i></td></tr>
 <tr align="center"><td><i>速度曲线</i></td><td><i>/</i></td></tr>
@@ -1238,11 +1238,11 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTAyODY0NzMsMTU2MTgyMzQ3NCwxND
-UyMzQwMDcyLDg3NDc2MTY5NSwxNzM4NjM1MzMzLDEzNDQ1MDky
-MDYsLTIwMDYyNTM4OTQsMTY0NzY2MzU0NywtNDA4NDM3NTk0LD
-EzMDk5MTI5MDYsLTE1NDA0Mjk3NzMsLTYwODc3MTYwMCwxNjA4
-NDY0MjQsNjU3MjA3NzE2LC0yMjM0ODY0MzYsLTE4ODYzMzY1OD
-EsLTU3NjcwMDg0Nyw3MTg5OTExODcsMTg4MzQ3NzA2NywxMTc1
-NTU5MjA2XX0=
+eyJoaXN0b3J5IjpbNjE5ODA2MjMxLDE1NjE4MjM0NzQsMTQ1Mj
+M0MDA3Miw4NzQ3NjE2OTUsMTczODYzNTMzMywxMzQ0NTA5MjA2
+LC0yMDA2MjUzODk0LDE2NDc2NjM1NDcsLTQwODQzNzU5NCwxMz
+A5OTEyOTA2LC0xNTQwNDI5NzczLC02MDg3NzE2MDAsMTYwODQ2
+NDI0LDY1NzIwNzcxNiwtMjIzNDg2NDM2LC0xODg2MzM2NTgxLC
+01NzY3MDA4NDcsNzE4OTkxMTg3LDE4ODM0NzcwNjcsMTE3NTU1
+OTIwNl19
 -->

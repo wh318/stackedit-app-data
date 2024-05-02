@@ -1081,16 +1081,16 @@ img:hover {
 ### 动画
 <table width="1200" border="2">
 <tr align="center"><th width="100" bgcolor="#ddAedd">属性名</th><th width="500" bgcolor="#ddAedd" colspan="2">属性值</th><th width="300" bgcolor="#ddAedd">作用</th><th width="300" bgcolor="#ddAedd">备注</th></tr>
-<tr align="center"><td rowspan="22"><i>animation</i></td><td colspan="2"><i>动画名称</i></td><td><i>规定 @keyframes 动画的名称，或者是由多个空格分隔的名称列表。</i></td><td><i>必须赋值</i></td></tr>
-<tr align="center"><td colspan="2"><i>动画花费时长（s）</i></td><td><i>规定动画完成一个周期所花费的秒或毫秒。</i></td><td><i>必须赋值</i></td></tr>
-<tr align="center"><td rowspan="7"><i>速度曲线</i></td><td><i>linear</i></td><td><i>匀速</i></td><td rowspan="7"><i>/</i></td></tr>
+<tr align="center"><td rowspan="22"><i>animation</i></td><td colspan="2"><i>动画名称<br>animation-name</i></td><td><i>规定 @keyframes 动画的名称，或者是由多个空格分隔的名称列表。</i></td><td><i>必须赋值</i></td></tr>
+<tr align="center"><td colspan="2"><i>动画花费时长（s）<br>animation-duration</i></td><td><i>规定动画完成一个周期所花费的秒或毫秒。</i></td><td><i>必须赋值</i></td></tr>
+<tr align="center"><td rowspan="7"><i>速度曲线<br>animation-timing-function</i></td><td><i>linear</i></td><td><i>匀速</i></td><td rowspan="7"><i>/</i></td></tr>
 <tr align="center"><td><i>steps(n)</i></td><td><i>等距间隔的动画（逐帧）</i></td></tr>
 <tr align="center"><td><i>ease</i></td><td><i>缓入缓出（默认值）</i></td></tr>
 <tr align="center"><td><i>ease-in</i></td><td><i>缓入</i></td></tr>
 <tr align="center"><td><i>ease-out</i></td><td><i>缓出</i></td></tr>
 <tr align="center"><td><i>ease-in-out</i></td><td><i>缓入缓出</i></td></tr>
 <tr align="center"><td><i>cubic-bezier(x1, y1, x2, y2)</i></td><td><i>自定义曲线，x1,y1,x2,y2为四个控制点坐标，取值范围为0-1</i></td></tr>
-<tr align="center"><td colspan="2"><i>延迟时间</i></td><td><i>规定动画何时开始</i></td><td><i>有两个时间时，第一个表示动画时长，第二个表示延迟时间</i></td></tr>
+<tr align="center"><td colspan="2"><i>延迟时间<br>animation-delay</i></td><td><i>规定动画何时开始</i></td><td><i>有两个时间时，第一个表示动画时长，第二个表示延迟时间</i></td></tr>
 <tr align="center"><td rowspan="2"><i>重复次数</i></td><td><i>数字</i></td><td><i>规定动画应该播放的次数</i></td><td rowspan="2"><i>/</i></td></tr>
 <tr align="center"><td><i>infinite</i></td><td><i>无限循环</i></td></tr>
 <tr align="center"><td rowspan="4"><i>动画方向</i></td><td><i>normal</i></td><td><i>正常方向（默认值）</i></td><td rowspan="4"><i>/</i></td></tr>
@@ -1334,7 +1334,7 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODE1MDQ0MzEsMTA2NDUwMzI0MiwxNT
+eyJoaXN0b3J5IjpbLTE5NDM4MTIzNzAsMTA2NDUwMzI0MiwxNT
 YxODIzNDc0LDE0NTIzNDAwNzIsODc0NzYxNjk1LDE3Mzg2MzUz
 MzMsMTM0NDUwOTIwNiwtMjAwNjI1Mzg5NCwxNjQ3NjYzNTQ3LC
 00MDg0Mzc1OTQsMTMwOTkxMjkwNiwtMTU0MDQyOTc3MywtNjA4

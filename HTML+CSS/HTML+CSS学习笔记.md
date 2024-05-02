@@ -1149,7 +1149,9 @@ animation:
 </table>
 
 
-#
+# 移动端适配
+- rem
+- vw
 
 # 项目实践
 
@@ -1254,98 +1256,12 @@ animation:
 - 布局思路
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
-
-
-
-
-| 属性名 | 属性值 | 具体属性值 | 作用 |
-|------------|-------------------------------|------------------------------------------|----------------------------------------------------| 
-| animation | 动画名称 | 无 | 规定 @keyframes 动画的名称，或者是由多个空格分隔的名称列表。 | 
-| | 动画时长 | 时间值 | 规定动画完成一个周期所花费的秒或毫秒。 | 
-| | 动画速度曲线 | ease |
-| | | linear |
-| | | ease-in |
-| | | ease-out |
-| | | cubic-bezier(n,n,n,n) | 规定动画的速度曲线。 | 
-| | 动画延迟 | 时间值 | 规定动画何时开始。 | 
-| | 动画次数 | 数字 | infinite | 规定动画应该播放的次数。如果使用 infinite，则动画将无限播放。 | 
-| | 动画方向 | normal | reverse | alternate | alternate-reverse | 规定是否轮流反向播放动画。 | 
-| | 动画填充模式 | none | forwards | backwards | both | 规定在动画之前和之后是否应用动画状态。 |
-
-<table>
-  <tr>
-    <th>属性名</th>
-    <th>属性值</th>
-    <th>具体属性值</th>
-    <th>作用</th>
-  </tr>
-  <tr>
-    <td rowspan="7">animation</td>
-    <td>动画名称</td>
-    <td>无</td>
-    <td>规定 @keyframes 动画的名称，或者是由多个空格分隔的名称列表。</td>
-  </tr>
-  <tr>
-    <td>动画时长</td>
-    <td>时间值</td>
-    <td>规定动画完成一个周期所花费的秒或毫秒。</td>
-  </tr>
-  <tr>
-    <td>动画速度曲线</td>
-    <td>ease | linear | ease-in | ease-out | cubic-bezier(n,n,n,n)</td>
-    <td>规定动画的速度曲线。
-    <ul>
-      <li>ease：慢-快-慢（默认值）</li>
-      <li>linear：匀速</li>
-      <li>ease-in：慢开始</li>
-      <li>ease-out：慢结束</li>
-      <li>cubic-bezier(n,n,n,n)：自定义贝塞尔曲线</li>
-    </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>动画延迟</td>
-    <td>时间值</td>
-    <td>规定动画何时开始。</td>
-  </tr>
-  <tr>
-    <td>动画次数</td>
-    <td>数字 | infinite</td>
-    <td>规定动画应该播放的次数。如果使用 infinite，则动画将无限播放。</td>
-  </tr>
-  <tr>
-    <td>动画方向</td>
-    <td>normal | reverse | alternate | alternate-reverse</td>
-    <td>规定是否轮流反向播放动画。
-    <ul>
-      <li>normal：正常方向（默认值）</li>
-      <li>reverse：反向播放</li>
-      <li>alternate：动画在奇数次和偶数次之间来回反向播放</li>
-      <li>alternate-reverse：动画在奇数次和偶数次之间来回反向播放，初始状态为反向</li>
-    </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>动画填充模式</td>
-    <td>none | forwards | backwards | both</td>
-    <td>规定在动画之前和之后是否应用动画状态。
-    <ul>
-      <li>none：不应用任何状态（默认值）</li>
-      <li>forwards：在动画结束时应用最后一个关键帧的状态</li>
-      <li>backwards：在动画开始前应用第一个关键帧的状态</li>
-      <li>both：向前和向后都应用关键帧状态</li>
-    </ul>
-    </td>
-  </tr>
-</table>
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MjMxMDQwNSwxNjI3NzU5MzM4LC0xMD
-MxMDYyMDMzLDEwNjQ1MDMyNDIsMTU2MTgyMzQ3NCwxNDUyMzQw
-MDcyLDg3NDc2MTY5NSwxNzM4NjM1MzMzLDEzNDQ1MDkyMDYsLT
-IwMDYyNTM4OTQsMTY0NzY2MzU0NywtNDA4NDM3NTk0LDEzMDk5
-MTI5MDYsLTE1NDA0Mjk3NzMsLTYwODc3MTYwMCwxNjA4NDY0Mj
-QsNjU3MjA3NzE2LC0yMjM0ODY0MzYsLTE4ODYzMzY1ODEsLTU3
-NjcwMDg0N119
+eyJoaXN0b3J5IjpbLTExNjkwODE3NDQsMTYyNzc1OTMzOCwtMT
+AzMTA2MjAzMywxMDY0NTAzMjQyLDE1NjE4MjM0NzQsMTQ1MjM0
+MDA3Miw4NzQ3NjE2OTUsMTczODYzNTMzMywxMzQ0NTA5MjA2LC
+0yMDA2MjUzODk0LDE2NDc2NjM1NDcsLTQwODQzNzU5NCwxMzA5
+OTEyOTA2LC0xNTQwNDI5NzczLC02MDg3NzE2MDAsMTYwODQ2ND
+I0LDY1NzIwNzcxNiwtMjIzNDg2NDM2LC0xODg2MzM2NTgxLC01
+NzY3MDA4NDddfQ==
 -->

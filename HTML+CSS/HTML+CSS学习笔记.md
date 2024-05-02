@@ -1132,7 +1132,7 @@ img:hover {
 animation:
 	run 1s steps(12) infinite,
 	move 3s linear forwards
-	
+;
 ```
 
 
@@ -1340,7 +1340,7 @@ animation:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMDA1MDA0NywtMTAzMTA2MjAzMywxMD
+eyJoaXN0b3J5IjpbMTYyNzc1OTMzOCwtMTAzMTA2MjAzMywxMD
 Y0NTAzMjQyLDE1NjE4MjM0NzQsMTQ1MjM0MDA3Miw4NzQ3NjE2
 OTUsMTczODYzNTMzMywxMzQ0NTA5MjA2LC0yMDA2MjUzODk0LD
 E2NDc2NjM1NDcsLTQwODQzNzU5NCwxMzA5OTEyOTA2LC0xNTQw

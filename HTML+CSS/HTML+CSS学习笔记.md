@@ -1083,8 +1083,8 @@ img:hover {
 <tr align="center"><th width="150" bgcolor="#ddAedd">属性名</th><th width="250" bgcolor="#ddAedd" colspan="2">属性值</th><th width="250" bgcolor="#ddAedd">作用</th><th width="250" bgcolor="#ddAedd">备注</th></tr>
 <tr align="center"><td rowspan="18"><i>animation</i></td><td colspan="2"><i>动画名称</i></td><td><i>规定 @keyframes 动画的名称，或者是由多个空格分隔的名称列表。</i></td><td><i>必须赋值</i></td></tr>
 <tr align="center"><td colspan="2"><i>动画花费时长（s）</i></td><td><i>规定动画完成一个周期所花费的秒或毫秒。</i></td><td><i>必须赋值</i></td></tr>
-<tr align="center"><td rowspan="7"><i>速度曲线</i></td><td><i>linear: 匀速</i></td><td><i>-</i></td><td rowspan="7"><i>/</i></td></tr>
-<tr align="center"><td><i>steps(n): 等距间隔的动画</i></td><td><i>-</i></td></tr>
+<tr align="center"><td rowspan="7"><i>速度曲线</i></td><td><i>linear</i></td><td><i>匀速</i></td><td rowspan="7"><i>/</i></td></tr>
+<tr align="center"><td><i>steps(n)</i></td><td><i>等距间隔的动画</i></td></tr>
 <tr align="center"><td><i>ease: 缓入缓出</i></td><td><i>-</i></td></tr>
 <tr align="center"><td><i>ease-in: 缓入</i></td><td><i>-</i></td></tr>
 <tr align="center"><td><i>ease-out: 缓出</i></td><td><i>-</i></td></tr>
@@ -1330,11 +1330,11 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTIzODg5MjIsMTA2NDUwMzI0MiwxNT
-YxODIzNDc0LDE0NTIzNDAwNzIsODc0NzYxNjk1LDE3Mzg2MzUz
-MzMsMTM0NDUwOTIwNiwtMjAwNjI1Mzg5NCwxNjQ3NjYzNTQ3LC
-00MDg0Mzc1OTQsMTMwOTkxMjkwNiwtMTU0MDQyOTc3MywtNjA4
-NzcxNjAwLDE2MDg0NjQyNCw2NTcyMDc3MTYsLTIyMzQ4NjQzNi
-wtMTg4NjMzNjU4MSwtNTc2NzAwODQ3LDcxODk5MTE4NywxODgz
-NDc3MDY3XX0=
+eyJoaXN0b3J5IjpbMTc1ODczNjcxMCwxMDY0NTAzMjQyLDE1Nj
+E4MjM0NzQsMTQ1MjM0MDA3Miw4NzQ3NjE2OTUsMTczODYzNTMz
+MywxMzQ0NTA5MjA2LC0yMDA2MjUzODk0LDE2NDc2NjM1NDcsLT
+QwODQzNzU5NCwxMzA5OTEyOTA2LC0xNTQwNDI5NzczLC02MDg3
+NzE2MDAsMTYwODQ2NDI0LDY1NzIwNzcxNiwtMjIzNDg2NDM2LC
+0xODg2MzM2NTgxLC01NzY3MDA4NDcsNzE4OTkxMTg3LDE4ODM0
+NzcwNjddfQ==
 -->

@@ -1095,10 +1095,10 @@ img:hover {
 <tr align="center"><td><i>infinite</i></td><td><i>无限循环</i></td></tr>
 <tr align="center"><td rowspan="4"><i>动画方向</i></td><td><i>normal</i></td><td><i>正常方向（默认值）</i></td><td rowspan="4"><i>/</i></td></tr>
 <tr align="center"><td><i>reverse</i></td><td><i>反向播放</i></td></tr>
-<tr align="center"><td><i>alternate</i></td><td><i>反向播放</i></td></tr>
-<tr align="center"><td><i>reverse</i></td><td><i>反向播放</i></td></tr>
-<tr align="center"><td rowspan="4"><i>执行完毕时状态</i></td><td><i>none: 默认（不写）</i></td><td><i>-</i></td><td rowspan="4"><i>/</i></td></tr>
-<tr align="center"><td><i>backwards: 动画结束后保持第一帧（默认值，不写）</i></td><td><i>-</i></td></tr>
+<tr align="center"><td><i>alternate</i></td><td><i>动画在奇数次和偶数次之间来回反向播放</i></td></tr>
+<tr align="center"><td><i>alternate-reverse</i></td><td><i>动画在奇数次和偶数次之间来回反向播放，初始状态为反向</i></td></tr>
+<tr align="center"><td rowspan="4"><i>执行完毕时状态</i></td><td><i>none</i></td><td><i>不应用任何状态（默认值）</i></td><td rowspan="4"><i>/</i></td></tr>
+<tr align="center"><td><i>backwards: 动画结束后保持第一帧（默认值，不写）</i></td><td><i>在动画开始前应用第一个关键帧的状态</i></td></tr>
 <tr align="center"><td><i>forwards: 动画结束后保持最后一帧</i></td><td><i>-</i></td></tr>
 <tr align="center"><td><i>both: 动画结束后保持第一帧和最后一帧</i></td><td><i>-</i></td></tr>
 </table>
@@ -1332,11 +1332,11 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNjQ0NDMwMSwxMDY0NTAzMjQyLDE1Nj
-E4MjM0NzQsMTQ1MjM0MDA3Miw4NzQ3NjE2OTUsMTczODYzNTMz
-MywxMzQ0NTA5MjA2LC0yMDA2MjUzODk0LDE2NDc2NjM1NDcsLT
-QwODQzNzU5NCwxMzA5OTEyOTA2LC0xNTQwNDI5NzczLC02MDg3
-NzE2MDAsMTYwODQ2NDI0LDY1NzIwNzcxNiwtMjIzNDg2NDM2LC
-0xODg2MzM2NTgxLC01NzY3MDA4NDcsNzE4OTkxMTg3LDE4ODM0
-NzcwNjddfQ==
+eyJoaXN0b3J5IjpbMjQ4OTA5NDksMTA2NDUwMzI0MiwxNTYxOD
+IzNDc0LDE0NTIzNDAwNzIsODc0NzYxNjk1LDE3Mzg2MzUzMzMs
+MTM0NDUwOTIwNiwtMjAwNjI1Mzg5NCwxNjQ3NjYzNTQ3LC00MD
+g0Mzc1OTQsMTMwOTkxMjkwNiwtMTU0MDQyOTc3MywtNjA4Nzcx
+NjAwLDE2MDg0NjQyNCw2NTcyMDc3MTYsLTIyMzQ4NjQzNiwtMT
+g4NjMzNjU4MSwtNTc2NzAwODQ3LDcxODk5MTE4NywxODgzNDc3
+MDY3XX0=
 -->

@@ -1085,13 +1085,13 @@ img:hover {
 <tr align="center"><td colspan="2"><i>动画花费时长（s）</i></td><td><i>规定动画完成一个周期所花费的秒或毫秒。</i></td><td><i>必须赋值</i></td></tr>
 <tr align="center"><td rowspan="7"><i>速度曲线</i></td><td><i>linear</i></td><td><i>匀速</i></td><td rowspan="7"><i>/</i></td></tr>
 <tr align="center"><td><i>steps(n)</i></td><td><i>等距间隔的动画（逐帧）</i></td></tr>
-<tr align="center"><td><i>ease</i></td><td><i>慢-快-慢（默认值）</i></td></tr>
+<tr align="center"><td><i>ease</i></td><td><i>缓入缓出（默认值）</i></td></tr>
 <tr align="center"><td><i>ease-in</i></td><td><i>缓入</i></td></tr>
 <tr align="center"><td><i>ease-out</i></td><td><i>缓出</i></td></tr>
-<tr align="center"><td><i>ease-in-out: 缓入缓出</i></td><td><i>-</i></td></tr>
-<tr align="center"><td><i>cubic-bezier(x1, y1, x2, y2): 自定义曲线，x1,y1,x2,y2为四个控制点坐标，取值范围为0-1</i></td><td><i>-</i></td></tr>
-<tr align="center"><td colspan="2"><i>延迟时间</i></td><td><i>-</i></td><td><i>有两个时间时，第一个表示动画时长，第二个表示延迟时间</i></td></tr>
-<tr align="center"><td rowspan="2"><i>重复次数</i></td><td><i>num: 次数（默认为 1）</i></td><td><i>-</i></td><td rowspan="2"><i>/</i></td></tr>
+<tr align="center"><td><i>ease-in-out</i></td><td><i>缓入缓出</i></td></tr>
+<tr align="center"><td><i>cubic-bezier(x1, y1, x2, y2)</i></td><td><i>自定义曲线，x1,y1,x2,y2为四个控制点坐标，取值范围为0-1</i></td></tr>
+<tr align="center"><td colspan="2"><i>延迟时间</i></td><td><i>规定动画何时开始</i></td><td><i>有两个时间时，第一个表示动画时长，第二个表示延迟时间</i></td></tr>
+<tr align="center"><td rowspan="2"><i>重复次数</i></td><td><i>数字: 次数（默认为 1）</i></td><td><i>-</i></td><td rowspan="2"><i>/</i></td></tr>
 <tr align="center"><td><i>infinite: 无限循环</i></td><td><i>-</i></td></tr>
 <tr align="center"><td rowspan="2"><i>动画方向</i></td><td><i>normal: 默认（不写）</i></td><td><i>-</i></td><td rowspan="2"><i>/</i></td></tr>
 <tr align="center"><td><i>reverse: 反向播放</i></td><td><i>-</i></td></tr>
@@ -1330,11 +1330,11 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5OTg2OTExOCwxMDY0NTAzMjQyLDE1Nj
-E4MjM0NzQsMTQ1MjM0MDA3Miw4NzQ3NjE2OTUsMTczODYzNTMz
-MywxMzQ0NTA5MjA2LC0yMDA2MjUzODk0LDE2NDc2NjM1NDcsLT
-QwODQzNzU5NCwxMzA5OTEyOTA2LC0xNTQwNDI5NzczLC02MDg3
-NzE2MDAsMTYwODQ2NDI0LDY1NzIwNzcxNiwtMjIzNDg2NDM2LC
-0xODg2MzM2NTgxLC01NzY3MDA4NDcsNzE4OTkxMTg3LDE4ODM0
-NzcwNjddfQ==
+eyJoaXN0b3J5IjpbLTExMjAyMzY1MTUsMTA2NDUwMzI0MiwxNT
+YxODIzNDc0LDE0NTIzNDAwNzIsODc0NzYxNjk1LDE3Mzg2MzUz
+MzMsMTM0NDUwOTIwNiwtMjAwNjI1Mzg5NCwxNjQ3NjYzNTQ3LC
+00MDg0Mzc1OTQsMTMwOTkxMjkwNiwtMTU0MDQyOTc3MywtNjA4
+NzcxNjAwLDE2MDg0NjQyNCw2NTcyMDc3MTYsLTIyMzQ4NjQzNi
+wtMTg4NjMzNjU4MSwtNTc2NzAwODQ3LDcxODk5MTE4NywxODgz
+NDc3MDY3XX0=
 -->

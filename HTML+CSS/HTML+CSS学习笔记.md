@@ -1091,10 +1091,12 @@ img:hover {
 <tr align="center"><td><i>ease-in-out</i></td><td><i>缓入缓出</i></td></tr>
 <tr align="center"><td><i>cubic-bezier(x1, y1, x2, y2)</i></td><td><i>自定义曲线，x1,y1,x2,y2为四个控制点坐标，取值范围为0-1</i></td></tr>
 <tr align="center"><td colspan="2"><i>延迟时间</i></td><td><i>规定动画何时开始</i></td><td><i>有两个时间时，第一个表示动画时长，第二个表示延迟时间</i></td></tr>
-<tr align="center"><td rowspan="2"><i>重复次数</i></td><td><i>数字: 次数（默认为 1）</i></td><td><i>-</i></td><td rowspan="2"><i>/</i></td></tr>
-<tr align="center"><td><i>infinite: 无限循环</i></td><td><i>-</i></td></tr>
-<tr align="center"><td rowspan="2"><i>动画方向</i></td><td><i>normal: 默认（不写）</i></td><td><i>-</i></td><td rowspan="2"><i>/</i></td></tr>
-<tr align="center"><td><i>reverse: 反向播放</i></td><td><i>-</i></td></tr>
+<tr align="center"><td rowspan="2"><i>重复次数</i></td><td><i>数字</i></td><td><i>规定动画应该播放的次数</i></td><td rowspan="2"><i>/</i></td></tr>
+<tr align="center"><td><i>infinite</i></td><td><i>无限循环</i></td></tr>
+<tr align="center"><td rowspan="4"><i>动画方向</i></td><td><i>normal</i></td><td><i>正常方向（默认值）</i></td><td rowspan="4"><i>/</i></td></tr>
+<tr align="center"><td><i>reverse</i></td><td><i>反向播放</i></td></tr>
+<tr align="center"><td><i>alternate</i></td><td><i>反向播放</i></td></tr>
+<tr align="center"><td><i>reverse</i></td><td><i>反向播放</i></td></tr>
 <tr align="center"><td rowspan="4"><i>执行完毕时状态</i></td><td><i>none: 默认（不写）</i></td><td><i>-</i></td><td rowspan="4"><i>/</i></td></tr>
 <tr align="center"><td><i>backwards: 动画结束后保持第一帧（默认值，不写）</i></td><td><i>-</i></td></tr>
 <tr align="center"><td><i>forwards: 动画结束后保持最后一帧</i></td><td><i>-</i></td></tr>
@@ -1330,11 +1332,11 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjAyMzY1MTUsMTA2NDUwMzI0MiwxNT
-YxODIzNDc0LDE0NTIzNDAwNzIsODc0NzYxNjk1LDE3Mzg2MzUz
-MzMsMTM0NDUwOTIwNiwtMjAwNjI1Mzg5NCwxNjQ3NjYzNTQ3LC
-00MDg0Mzc1OTQsMTMwOTkxMjkwNiwtMTU0MDQyOTc3MywtNjA4
-NzcxNjAwLDE2MDg0NjQyNCw2NTcyMDc3MTYsLTIyMzQ4NjQzNi
-wtMTg4NjMzNjU4MSwtNTc2NzAwODQ3LDcxODk5MTE4NywxODgz
-NDc3MDY3XX0=
+eyJoaXN0b3J5IjpbMTUyNjQ0NDMwMSwxMDY0NTAzMjQyLDE1Nj
+E4MjM0NzQsMTQ1MjM0MDA3Miw4NzQ3NjE2OTUsMTczODYzNTMz
+MywxMzQ0NTA5MjA2LC0yMDA2MjUzODk0LDE2NDc2NjM1NDcsLT
+QwODQzNzU5NCwxMzA5OTEyOTA2LC0xNTQwNDI5NzczLC02MDg3
+NzE2MDAsMTYwODQ2NDI0LDY1NzIwNzcxNiwtMjIzNDg2NDM2LC
+0xODg2MzM2NTgxLC01NzY3MDA4NDcsNzE4OTkxMTg3LDE4ODM0
+NzcwNjddfQ==
 -->

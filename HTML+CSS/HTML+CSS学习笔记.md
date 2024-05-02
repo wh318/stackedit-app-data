@@ -1081,14 +1081,15 @@ img:hover {
 ### 动画
 <table width="900" border="2">
 <tr align="center"><th width="150" bgcolor="#ddAedd">属性名</th><th width="250" bgcolor="#ddAedd" colspan="2">属性值</th><th width="250" bgcolor="#ddAedd">备注</th></tr>
-<tr align="center"><td rowspan="8"><i>animation</i></td><td colspan="2"><i>动画名称</i></td><td><i>必须赋值</i></td></tr>
+<tr align="center"><td rowspan="13"><i>animation</i></td><td colspan="2"><i>动画名称</i></td><td><i>必须赋值</i></td></tr>
 <tr align="center"><td colspan="2"><i>动画花费时长（s）</i></td><td><i>必须赋值</i></td></tr>
-<tr align="center"><td rowspan="2"><i>速度曲线</i></td><td><i>linear: 匀速</i></td><td><i>/</i></td></tr>
+<tr align="center"><td rowspan="7"><i>速度曲线</i></td><td><i>linear: 匀速</i></td><td><i>/</i></td></tr>
 <tr align="center"><td><i>ease: 缓入缓出</i></td></tr>
 <tr align="center"><td><i>ease-in: 缓入</i></td></tr>
 <tr align="center"><td><i>ease-out: 缓出</i></td></tr>
 <tr align="center"><td><i>ease-in-out: 缓入缓出</i></td></tr>
-<tr align="center"><td><i>ease: 缓入缓出</i></td></tr>
+<tr align="center"><td><i>steps(n): 等距间隔的动画</i></td></tr>
+<tr align="center"><td><i>cubic-bezier(x1, y1, x2, y2): 自定义曲线，x1,y1,x2,y2为四个控制点坐标，取值范围为0-1</i></td></tr>
 <tr align="center"><td colspan="2"><i>延迟时间</i></td><td><i>有两个时间时，第一个表示动画时长，第二个表示延迟时间</i></td></tr>
 <tr align="center"><td><i>重复次数</i></td><td><i>/</i></td></tr>
 <tr align="center"><td><i>动画方向</i></td><td><i>/</i></td></tr>
@@ -1243,11 +1244,11 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE3MDk4Nzc2LDE1NjE4MjM0NzQsMTQ1Mj
-M0MDA3Miw4NzQ3NjE2OTUsMTczODYzNTMzMywxMzQ0NTA5MjA2
-LC0yMDA2MjUzODk0LDE2NDc2NjM1NDcsLTQwODQzNzU5NCwxMz
-A5OTEyOTA2LC0xNTQwNDI5NzczLC02MDg3NzE2MDAsMTYwODQ2
-NDI0LDY1NzIwNzcxNiwtMjIzNDg2NDM2LC0xODg2MzM2NTgxLC
-01NzY3MDA4NDcsNzE4OTkxMTg3LDE4ODM0NzcwNjcsMTE3NTU1
-OTIwNl19
+eyJoaXN0b3J5IjpbLTE3OTc1OTUyNjksMTU2MTgyMzQ3NCwxND
+UyMzQwMDcyLDg3NDc2MTY5NSwxNzM4NjM1MzMzLDEzNDQ1MDky
+MDYsLTIwMDYyNTM4OTQsMTY0NzY2MzU0NywtNDA4NDM3NTk0LD
+EzMDk5MTI5MDYsLTE1NDA0Mjk3NzMsLTYwODc3MTYwMCwxNjA4
+NDY0MjQsNjU3MjA3NzE2LC0yMjM0ODY0MzYsLTE4ODYzMzY1OD
+EsLTU3NjcwMDg0Nyw3MTg5OTExODcsMTg4MzQ3NzA2NywxMTc1
+NTU5MjA2XX0=
 -->

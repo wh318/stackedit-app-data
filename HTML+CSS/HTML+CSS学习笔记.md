@@ -1282,7 +1282,15 @@ img:hover {
   <tr>
     <td>动画速度曲线</td>
     <td>ease | linear | ease-in | ease-out | cubic-bezier(n,n,n,n)</td>
-    <td>规定动画的速度曲线。</td>
+    <td>规定动画的速度曲线。
+    <ul>
+      <li>ease：慢-快-慢（默认值）</li>
+      <li>linear：匀速</li>
+      <li>ease-in：慢开始</li>
+      <li>ease-out：慢结束</li>
+      <li>cubic-bezier(n,n,n,n)：自定义贝塞尔曲线</li>
+    </ul>
+    </td>
   </tr>
   <tr>
     <td>动画延迟</td>
@@ -1297,21 +1305,36 @@ img:hover {
   <tr>
     <td>动画方向</td>
     <td>normal | reverse | alternate | alternate-reverse</td>
-    <td>规定是否轮流反向播放动画。</td>
+    <td>规定是否轮流反向播放动画。
+    <ul>
+      <li>normal：正常方向（默认值）</li>
+      <li>reverse：反向播放</li>
+      <li>alternate：动画在奇数次和偶数次之间来回反向播放</li>
+      <li>alternate-reverse：动画在奇数次和偶数次之间来回反向播放，初始状态为反向</li>
+    </ul>
+    </td>
   </tr>
   <tr>
     <td>动画填充模式</td>
     <td>none | forwards | backwards | both</td>
-    <td>规定在动画之前和之后是否应用动画状态。</td>
+    <td>规定在动画之前和之后是否应用动画状态。
+    <ul>
+      <li>none：不应用任何状态（默认值）</li>
+      <li>forwards：在动画结束时应用最后一个关键帧的状态</li>
+      <li>backwards：在动画开始前应用第一个关键帧的状态</li>
+      <li>both：向前和向后都应用关键帧状态</li>
+    </ul>
+    </td>
   </tr>
 </table>
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNjM1NDUzNywxMDY0NTAzMjQyLDE1Nj
-E4MjM0NzQsMTQ1MjM0MDA3Miw4NzQ3NjE2OTUsMTczODYzNTMz
-MywxMzQ0NTA5MjA2LC0yMDA2MjUzODk0LDE2NDc2NjM1NDcsLT
-QwODQzNzU5NCwxMzA5OTEyOTA2LC0xNTQwNDI5NzczLC02MDg3
-NzE2MDAsMTYwODQ2NDI0LDY1NzIwNzcxNiwtMjIzNDg2NDM2LC
-0xODg2MzM2NTgxLC01NzY3MDA4NDcsNzE4OTkxMTg3LDE4ODM0
-NzcwNjddfQ==
+eyJoaXN0b3J5IjpbNzc4ODc0MDg0LDEwNjQ1MDMyNDIsMTU2MT
+gyMzQ3NCwxNDUyMzQwMDcyLDg3NDc2MTY5NSwxNzM4NjM1MzMz
+LDEzNDQ1MDkyMDYsLTIwMDYyNTM4OTQsMTY0NzY2MzU0NywtND
+A4NDM3NTk0LDEzMDk5MTI5MDYsLTE1NDA0Mjk3NzMsLTYwODc3
+MTYwMCwxNjA4NDY0MjQsNjU3MjA3NzE2LC0yMjM0ODY0MzYsLT
+E4ODYzMzY1ODEsLTU3NjcwMDg0Nyw3MTg5OTExODcsMTg4MzQ3
+NzA2N119
 -->

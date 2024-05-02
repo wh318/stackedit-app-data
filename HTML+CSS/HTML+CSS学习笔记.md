@@ -1082,23 +1082,23 @@ img:hover {
 <table width="900" border="2">
 <tr align="center"><th width="150" bgcolor="#ddAedd">属性名</th><th width="250" bgcolor="#ddAedd" colspan="2">属性值</th><th width="250" bgcolor="#ddAedd">作用</th><th width="250" bgcolor="#ddAedd">备注</th></tr>
 <tr align="center"><td rowspan="18"><i>animation</i></td><td colspan="2"><i>动画名称</i></td><td><i>-</i></td><td><i>必须赋值</i></td></tr>
-<tr align="center"><td colspan="2"><i>动画花费时长（s）</i></td><td><i>必须赋值</i></td></tr>
-<tr align="center"><td rowspan="7"><i>速度曲线</i></td><td><i>linear: 匀速</i></td><td rowspan="7"><i>/</i></td></tr>
-<tr align="center"><td><i>steps(n): 等距间隔的动画</i></td></tr>
-<tr align="center"><td><i>ease: 缓入缓出</i></td></tr>
-<tr align="center"><td><i>ease-in: 缓入</i></td></tr>
-<tr align="center"><td><i>ease-out: 缓出</i></td></tr>
-<tr align="center"><td><i>ease-in-out: 缓入缓出</i></td></tr>
-<tr align="center"><td><i>cubic-bezier(x1, y1, x2, y2): 自定义曲线，x1,y1,x2,y2为四个控制点坐标，取值范围为0-1</i></td></tr>
-<tr align="center"><td colspan="2"><i>延迟时间</i></td><td><i>有两个时间时，第一个表示动画时长，第二个表示延迟时间</i></td></tr>
-<tr align="center"><td rowspan="2"><i>重复次数</i></td><td><i>num: 次数（默认为 1）</i></td><td rowspan="2"><i>/</i></td></tr>
-<tr align="center"><td><i>infinite: 无限循环</i></td></tr>
-<tr align="center"><td rowspan="2"><i>动画方向</i></td><td><i>normal: 默认（不写）</i></td><td rowspan="2"><i>/</i></td></tr>
-<tr align="center"><td><i>reverse: 反向播放</i></td></tr>
-<tr align="center"><td rowspan="4"><i>执行完毕时状态</i></td><td><i>none: 默认（不写）</i></td><td rowspan="4"><i>/</i></td></tr>
-<tr align="center"><td><i>backwards: 动画结束后保持第一帧（默认值，不写）</i></td></tr>
-<tr align="center"><td><i>forwards: 动画结束后保持最后一帧</i></td></tr>
-<tr align="center"><td><i>both: 动画结束后保持第一帧和最后一帧</i></td></tr>
+<tr align="center"><td colspan="2"><i>动画花费时长（s）</i></td><td><i>-</i></td><td><i>必须赋值</i></td></tr>
+<tr align="center"><td rowspan="7"><i>速度曲线</i></td><td><i>linear: 匀速</i></td><td><i>-</i></td><td rowspan="7"><i>/</i></td></tr>
+<tr align="center"><td><i>steps(n): 等距间隔的动画</i></td><td><i>-</i></td></tr>
+<tr align="center"><td><i>ease: 缓入缓出</i></td><td><i>-</i></td></tr>
+<tr align="center"><td><i>ease-in: 缓入</i></td><td><i>-</i></td></tr>
+<tr align="center"><td><i>ease-out: 缓出</i></td><td><i>-</i></td></tr>
+<tr align="center"><td><i>ease-in-out: 缓入缓出</i></td><td><i>-</i></td></tr>
+<tr align="center"><td><i>cubic-bezier(x1, y1, x2, y2): 自定义曲线，x1,y1,x2,y2为四个控制点坐标，取值范围为0-1</i></td><td><i>-</i></td></tr>
+<tr align="center"><td colspan="2"><i>延迟时间</i></td><td><i>-</i></td><td><i>有两个时间时，第一个表示动画时长，第二个表示延迟时间</i></td></tr>
+<tr align="center"><td rowspan="2"><i>重复次数</i></td><td><i>num: 次数（默认为 1）</i></td><td><i>-</i></td><td rowspan="2"><i>/</i></td></tr>
+<tr align="center"><td><i>infinite: 无限循环</i></td><td><i>-</i></td></tr>
+<tr align="center"><td rowspan="2"><i>动画方向</i></td><td><i>normal: 默认（不写）</i></td><td><i>-</i></td><td rowspan="2"><i>/</i></td></tr>
+<tr align="center"><td><i>reverse: 反向播放</i></td><td><i>-</i></td></tr>
+<tr align="center"><td rowspan="4"><i>执行完毕时状态</i></td><td><i>none: 默认（不写）</i></td><td><i>-</i></td><td rowspan="4"><i>/</i></td></tr>
+<tr align="center"><td><i>backwards: 动画结束后保持第一帧（默认值，不写）</i></td><td><i>-</i></td></tr>
+<tr align="center"><td><i>forwards: 动画结束后保持最后一帧</i></td><td><i>-</i></td></tr>
+<tr align="center"><td><i>both: 动画结束后保持第一帧和最后一帧</i></td><td><i>-</i></td></tr>
 </table>
 
 **实现步骤**
@@ -1330,11 +1330,11 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYxODcwMDM0LDEwNjQ1MDMyNDIsMTU2MT
-gyMzQ3NCwxNDUyMzQwMDcyLDg3NDc2MTY5NSwxNzM4NjM1MzMz
-LDEzNDQ1MDkyMDYsLTIwMDYyNTM4OTQsMTY0NzY2MzU0NywtND
-A4NDM3NTk0LDEzMDk5MTI5MDYsLTE1NDA0Mjk3NzMsLTYwODc3
-MTYwMCwxNjA4NDY0MjQsNjU3MjA3NzE2LC0yMjM0ODY0MzYsLT
-E4ODYzMzY1ODEsLTU3NjcwMDg0Nyw3MTg5OTExODcsMTg4MzQ3
-NzA2N119
+eyJoaXN0b3J5IjpbLTEwODE3NDcyMDMsMTA2NDUwMzI0MiwxNT
+YxODIzNDc0LDE0NTIzNDAwNzIsODc0NzYxNjk1LDE3Mzg2MzUz
+MzMsMTM0NDUwOTIwNiwtMjAwNjI1Mzg5NCwxNjQ3NjYzNTQ3LC
+00MDg0Mzc1OTQsMTMwOTkxMjkwNiwtMTU0MDQyOTc3MywtNjA4
+NzcxNjAwLDE2MDg0NjQyNCw2NTcyMDc3MTYsLTIyMzQ4NjQzNi
+wtMTg4NjMzNjU4MSwtNTc2NzAwODQ3LDcxODk5MTE4NywxODgz
+NDc3MDY3XX0=
 -->

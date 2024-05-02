@@ -1081,7 +1081,7 @@ img:hover {
 ### 动画
 <table width="900" border="2">
 <tr align="center"><th width="150" bgcolor="#ddAedd">属性名</th><th width="250" bgcolor="#ddAedd" colspan="2">属性值</th><th width="250" bgcolor="#ddAedd">备注</th></tr>
-<tr align="center"><td rowspan="13"><i>animation</i></td><td colspan="2"><i>动画名称</i></td><td><i>必须赋值</i></td></tr>
+<tr align="center"><td rowspan="18"><i>animation</i></td><td colspan="2"><i>动画名称</i></td><td><i>必须赋值</i></td></tr>
 <tr align="center"><td colspan="2"><i>动画花费时长（s）</i></td><td><i>必须赋值</i></td></tr>
 <tr align="center"><td rowspan="7"><i>速度曲线</i></td><td><i>linear: 匀速</i></td><td rowspan="7"><i>/</i></td></tr>
 <tr align="center"><td><i>ease: 缓入缓出</i></td></tr>
@@ -1095,7 +1095,10 @@ img:hover {
 <tr align="center"><td><i>infinite: 无限循环</i></td></tr>
 <tr align="center"><td rowspan="2"><i>动画方向</i></td><td><i>normal: 默认（不写）</i></td><td rowspan="2"><i>/</i></td></tr>
 <tr align="center"><td><i>reverse: 反向播放</i></td></tr>
-<tr align="center"><td><i>执行完毕时状态</i></td><td><i>/</i></td></tr>
+<tr align="center"><td rowspan="4"><i>执行完毕时状态</i></td><td><i>none: 默认（不写）</i></td><td rowspan="4"><i>/</i></td></tr>
+<tr align="center"><td><i>forwards: 动画结束后保持最后一帧</i></td></tr>
+<tr align="center"><td><i>backwards: 动画结束后保持第一帧</i></td></tr>
+<tr align="center"><td><i>both: 动画结束后保持第一帧和最后一帧</i></td></tr>
 </table>
 
 **实现步骤**
@@ -1246,11 +1249,11 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTQ1NTkwOTgsMTU2MTgyMzQ3NCwxND
-UyMzQwMDcyLDg3NDc2MTY5NSwxNzM4NjM1MzMzLDEzNDQ1MDky
-MDYsLTIwMDYyNTM4OTQsMTY0NzY2MzU0NywtNDA4NDM3NTk0LD
-EzMDk5MTI5MDYsLTE1NDA0Mjk3NzMsLTYwODc3MTYwMCwxNjA4
-NDY0MjQsNjU3MjA3NzE2LC0yMjM0ODY0MzYsLTE4ODYzMzY1OD
-EsLTU3NjcwMDg0Nyw3MTg5OTExODcsMTg4MzQ3NzA2NywxMTc1
-NTU5MjA2XX0=
+eyJoaXN0b3J5IjpbLTQwMDE1Nzc5NiwxNTYxODIzNDc0LDE0NT
+IzNDAwNzIsODc0NzYxNjk1LDE3Mzg2MzUzMzMsMTM0NDUwOTIw
+NiwtMjAwNjI1Mzg5NCwxNjQ3NjYzNTQ3LC00MDg0Mzc1OTQsMT
+MwOTkxMjkwNiwtMTU0MDQyOTc3MywtNjA4NzcxNjAwLDE2MDg0
+NjQyNCw2NTcyMDc3MTYsLTIyMzQ4NjQzNiwtMTg4NjMzNjU4MS
+wtNTc2NzAwODQ3LDcxODk5MTE4NywxODgzNDc3MDY3LDExNzU1
+NTkyMDZdfQ==
 -->

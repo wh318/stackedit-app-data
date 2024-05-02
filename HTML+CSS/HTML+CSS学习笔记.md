@@ -1081,8 +1081,12 @@ img:hover {
 ### 动画
 <table width="900" border="2">
 <tr align="center"><th width="150" bgcolor="#ddAedd">属性名</th><th width="250" bgcolor="#ddAedd">属性值</th><th width="250" bgcolor="#ddAedd">备注</th></tr>
-<tr align="center"><td rowspan="2"><i>animation</i></td><td><i>动画名称</i></td><td><i>必须赋值 <b>平面</b> 中</i></td></tr>
-<tr align="center"><td><i>preserve-3d</i></td><td><i>子级处于 <b>3D空间</b> 中</i></td></tr>
+<tr align="center"><td rowspan="8"><i>animation</i></td><td><i>动画名称</i></td><td><i>必须赋值</i></td></tr>
+<tr align="center"><td><i>动画花费时长（s）</i></td><td><i>必须赋值</i></td></tr>
+<tr align="center"><td><i>速度曲线</i></td><td><i></i></td></tr>
+<tr align="center"><td><i>延迟时间</i></td><td><i>必须赋值</i></td></tr>
+<tr align="center"><td><i>动画花费时长</i></td><td><i>必须赋值</i></td></tr>
+<tr align="center"><td><i>动画花费时长</i></td><td><i>必须赋值</i></td></tr>
 </table>
 **实现步骤**
 1. 定义动画
@@ -1232,11 +1236,11 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0ODk0NDE4MywxNTYxODIzNDc0LDE0NT
-IzNDAwNzIsODc0NzYxNjk1LDE3Mzg2MzUzMzMsMTM0NDUwOTIw
-NiwtMjAwNjI1Mzg5NCwxNjQ3NjYzNTQ3LC00MDg0Mzc1OTQsMT
-MwOTkxMjkwNiwtMTU0MDQyOTc3MywtNjA4NzcxNjAwLDE2MDg0
-NjQyNCw2NTcyMDc3MTYsLTIyMzQ4NjQzNiwtMTg4NjMzNjU4MS
-wtNTc2NzAwODQ3LDcxODk5MTE4NywxODgzNDc3MDY3LDExNzU1
-NTkyMDZdfQ==
+eyJoaXN0b3J5IjpbOTMwNTEzMDMsMTU2MTgyMzQ3NCwxNDUyMz
+QwMDcyLDg3NDc2MTY5NSwxNzM4NjM1MzMzLDEzNDQ1MDkyMDYs
+LTIwMDYyNTM4OTQsMTY0NzY2MzU0NywtNDA4NDM3NTk0LDEzMD
+k5MTI5MDYsLTE1NDA0Mjk3NzMsLTYwODc3MTYwMCwxNjA4NDY0
+MjQsNjU3MjA3NzE2LC0yMjM0ODY0MzYsLTE4ODYzMzY1ODEsLT
+U3NjcwMDg0Nyw3MTg5OTExODcsMTg4MzQ3NzA2NywxMTc1NTU5
+MjA2XX0=
 -->

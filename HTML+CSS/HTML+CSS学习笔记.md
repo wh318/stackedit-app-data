@@ -1079,8 +1079,8 @@ img:hover {
 
 
 ### 动画
-<table width="1000" border="2">
-<tr align="center"><th width="100" bgcolor="#ddAedd">属性名</th><th width="300" bgcolor="#ddAedd" colspan="2">属性值</th><th width="300" bgcolor="#ddAedd">作用</th><th width="300" bgcolor="#ddAedd">备注</th></tr>
+<table width="1200" border="2">
+<tr align="center"><th width="100" bgcolor="#ddAedd">属性名</th><th width="500" bgcolor="#ddAedd" colspan="2">属性值</th><th width="300" bgcolor="#ddAedd">作用</th><th width="300" bgcolor="#ddAedd">备注</th></tr>
 <tr align="center"><td rowspan="22"><i>animation</i></td><td colspan="2"><i>动画名称</i></td><td><i>规定 @keyframes 动画的名称，或者是由多个空格分隔的名称列表。</i></td><td><i>必须赋值</i></td></tr>
 <tr align="center"><td colspan="2"><i>动画花费时长（s）</i></td><td><i>规定动画完成一个周期所花费的秒或毫秒。</i></td><td><i>必须赋值</i></td></tr>
 <tr align="center"><td rowspan="7"><i>速度曲线</i></td><td><i>linear</i></td><td><i>匀速</i></td><td rowspan="7"><i>/</i></td></tr>
@@ -1334,7 +1334,7 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTc0MjcyNDMsMTA2NDUwMzI0MiwxNT
+eyJoaXN0b3J5IjpbLTIwODE1MDQ0MzEsMTA2NDUwMzI0MiwxNT
 YxODIzNDc0LDE0NTIzNDAwNzIsODc0NzYxNjk1LDE3Mzg2MzUz
 MzMsMTM0NDUwOTIwNiwtMjAwNjI1Mzg5NCwxNjQ3NjYzNTQ3LC
 00MDg0Mzc1OTQsMTMwOTkxMjkwNiwtMTU0MDQyOTc3MywtNjA4

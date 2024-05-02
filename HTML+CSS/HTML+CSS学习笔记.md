@@ -1091,8 +1091,10 @@ img:hover {
 <tr align="center"><td><i>steps(n): 等距间隔的动画</i></td></tr>
 <tr align="center"><td><i>cubic-bezier(x1, y1, x2, y2): 自定义曲线，x1,y1,x2,y2为四个控制点坐标，取值范围为0-1</i></td></tr>
 <tr align="center"><td colspan="2"><i>延迟时间</i></td><td><i>有两个时间时，第一个表示动画时长，第二个表示延迟时间</i></td></tr>
-<tr align="center"><td rowspan="2"><i>重复次数</i></td><td><i>/</i></td><td rowspan="2"><i>/</i></td></tr>
+<tr align="center"><td rowspan="2"><i>重复次数</i></td><td><i>num: 次数（默认为 1）</i></td><td rowspan="2"><i>/</i></td></tr>
+<tr align="center"><td><i>infinite: 无限循环</i></td></tr>
 <tr align="center"><td><i>动画方向</i></td><td><i>/</i></td></tr>
+<tr align="center"><td><i>infinite: 无限循环</i></td></tr>
 <tr align="center"><td><i>执行完毕时状态</i></td><td><i>/</i></td></tr>
 </table>
 
@@ -1244,11 +1246,11 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDg2NzU2MjgsMTU2MTgyMzQ3NCwxND
-UyMzQwMDcyLDg3NDc2MTY5NSwxNzM4NjM1MzMzLDEzNDQ1MDky
-MDYsLTIwMDYyNTM4OTQsMTY0NzY2MzU0NywtNDA4NDM3NTk0LD
-EzMDk5MTI5MDYsLTE1NDA0Mjk3NzMsLTYwODc3MTYwMCwxNjA4
-NDY0MjQsNjU3MjA3NzE2LC0yMjM0ODY0MzYsLTE4ODYzMzY1OD
-EsLTU3NjcwMDg0Nyw3MTg5OTExODcsMTg4MzQ3NzA2NywxMTc1
-NTU5MjA2XX0=
+eyJoaXN0b3J5IjpbLTMzMTU0ODUzNiwxNTYxODIzNDc0LDE0NT
+IzNDAwNzIsODc0NzYxNjk1LDE3Mzg2MzUzMzMsMTM0NDUwOTIw
+NiwtMjAwNjI1Mzg5NCwxNjQ3NjYzNTQ3LC00MDg0Mzc1OTQsMT
+MwOTkxMjkwNiwtMTU0MDQyOTc3MywtNjA4NzcxNjAwLDE2MDg0
+NjQyNCw2NTcyMDc3MTYsLTIyMzQ4NjQzNiwtMTg4NjMzNjU4MS
+wtNTc2NzAwODQ3LDcxODk5MTE4NywxODgzNDc3MDY3LDExNzU1
+NTkyMDZdfQ==
 -->

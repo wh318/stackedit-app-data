@@ -1089,6 +1089,7 @@ img:hover {
 <tr align="center"><td><i>动画方向</i></td><td><i>/</i></td></tr>
 <tr align="center"><td><i>执行完毕时状态</i></td><td><i>/</i></td></tr>
 </table>
+
 **实现步骤**
 1. 定义动画
 	- 方法一
@@ -1237,11 +1238,11 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MDA2NzcwMywxNTYxODIzNDc0LDE0NT
-IzNDAwNzIsODc0NzYxNjk1LDE3Mzg2MzUzMzMsMTM0NDUwOTIw
-NiwtMjAwNjI1Mzg5NCwxNjQ3NjYzNTQ3LC00MDg0Mzc1OTQsMT
-MwOTkxMjkwNiwtMTU0MDQyOTc3MywtNjA4NzcxNjAwLDE2MDg0
-NjQyNCw2NTcyMDc3MTYsLTIyMzQ4NjQzNiwtMTg4NjMzNjU4MS
-wtNTc2NzAwODQ3LDcxODk5MTE4NywxODgzNDc3MDY3LDExNzU1
-NTkyMDZdfQ==
+eyJoaXN0b3J5IjpbLTExMTAyODY0NzMsMTU2MTgyMzQ3NCwxND
+UyMzQwMDcyLDg3NDc2MTY5NSwxNzM4NjM1MzMzLDEzNDQ1MDky
+MDYsLTIwMDYyNTM4OTQsMTY0NzY2MzU0NywtNDA4NDM3NTk0LD
+EzMDk5MTI5MDYsLTE1NDA0Mjk3NzMsLTYwODc3MTYwMCwxNjA4
+NDY0MjQsNjU3MjA3NzE2LC0yMjM0ODY0MzYsLTE4ODYzMzY1OD
+EsLTU3NjcwMDg0Nyw3MTg5OTExODcsMTg4MzQ3NzA2NywxMTc1
+NTU5MjA2XX0=
 -->

@@ -1079,6 +1079,11 @@ img:hover {
 
 
 ### 动画
+<table width="900" border="2">
+<tr align="center"><th width="150" bgcolor="#ddAedd">属性名</th><th width="250" bgcolor="#ddAedd">属性值</th><th width="250" bgcolor="#ddAedd">效果</th></tr>
+<tr align="center"><td rowspan="2"><i>animation</i></td><td><i>flat</i></td><td><i>子级处于 <b>平面</b> 中</i></td></tr>
+<tr align="center"><td><i>preserve-3d</i></td><td><i>子级处于 <b>3D空间</b> 中</i></td></tr>
+</table>
 **实现步骤**
 1. 定义动画
 	- 方法一
@@ -1099,7 +1104,7 @@ img:hover {
 		```
 2. 使用动画
 	```css
-	animation: 动画名称 动画花费时长;
+	animation: 动画名称 动画花费时长 速度曲线 延迟时间 重复次数 动画方向 执行完毕时状态;
 	```
 
 
@@ -1227,11 +1232,11 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MTgyMzQ3NCwxNDUyMzQwMDcyLDg3ND
-c2MTY5NSwxNzM4NjM1MzMzLDEzNDQ1MDkyMDYsLTIwMDYyNTM4
-OTQsMTY0NzY2MzU0NywtNDA4NDM3NTk0LDEzMDk5MTI5MDYsLT
-E1NDA0Mjk3NzMsLTYwODc3MTYwMCwxNjA4NDY0MjQsNjU3MjA3
-NzE2LC0yMjM0ODY0MzYsLTE4ODYzMzY1ODEsLTU3NjcwMDg0Ny
-w3MTg5OTExODcsMTg4MzQ3NzA2NywxMTc1NTU5MjA2LC0xNDU3
-ODU0MjU4XX0=
+eyJoaXN0b3J5IjpbNDk0OTkyMzUzLDE1NjE4MjM0NzQsMTQ1Mj
+M0MDA3Miw4NzQ3NjE2OTUsMTczODYzNTMzMywxMzQ0NTA5MjA2
+LC0yMDA2MjUzODk0LDE2NDc2NjM1NDcsLTQwODQzNzU5NCwxMz
+A5OTEyOTA2LC0xNTQwNDI5NzczLC02MDg3NzE2MDAsMTYwODQ2
+NDI0LDY1NzIwNzcxNiwtMjIzNDg2NDM2LC0xODg2MzM2NTgxLC
+01NzY3MDA4NDcsNzE4OTkxMTg3LDE4ODM0NzcwNjcsMTE3NTU1
+OTIwNl19
 -->

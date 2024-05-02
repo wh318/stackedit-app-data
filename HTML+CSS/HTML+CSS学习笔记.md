@@ -1081,7 +1081,7 @@ img:hover {
 ### 动画
 <table width="900" border="2">
 <tr align="center"><th width="150" bgcolor="#ddAedd">属性名</th><th width="250" bgcolor="#ddAedd" colspan="2">属性值</th><th width="250" bgcolor="#ddAedd">作用</th><th width="250" bgcolor="#ddAedd">备注</th></tr>
-<tr align="center"><td rowspan="18"><i>animation</i></td><td colspan="2"><i>动画名称</i></td><td><i>规定 @keyframes 动画的名称，或者是由多个空格分隔的名称列表。</i></td><td><i>必须赋值</i></td></tr>
+<tr align="center"><td rowspan="22"><i>animation</i></td><td colspan="2"><i>动画名称</i></td><td><i>规定 @keyframes 动画的名称，或者是由多个空格分隔的名称列表。</i></td><td><i>必须赋值</i></td></tr>
 <tr align="center"><td colspan="2"><i>动画花费时长（s）</i></td><td><i>规定动画完成一个周期所花费的秒或毫秒。</i></td><td><i>必须赋值</i></td></tr>
 <tr align="center"><td rowspan="7"><i>速度曲线</i></td><td><i>linear</i></td><td><i>匀速</i></td><td rowspan="7"><i>/</i></td></tr>
 <tr align="center"><td><i>steps(n)</i></td><td><i>等距间隔的动画（逐帧）</i></td></tr>
@@ -1098,9 +1098,11 @@ img:hover {
 <tr align="center"><td><i>alternate</i></td><td><i>动画在奇数次和偶数次之间来回反向播放</i></td></tr>
 <tr align="center"><td><i>alternate-reverse</i></td><td><i>动画在奇数次和偶数次之间来回反向播放，初始状态为反向</i></td></tr>
 <tr align="center"><td rowspan="4"><i>执行完毕时状态</i></td><td><i>none</i></td><td><i>不应用任何状态（默认值）</i></td><td rowspan="4"><i>/</i></td></tr>
-<tr align="center"><td><i>backwards: 动画结束后保持第一帧（默认值，不写）</i></td><td><i>在动画开始前应用第一个关键帧的状态</i></td></tr>
-<tr align="center"><td><i>forwards: 动画结束后保持最后一帧</i></td><td><i>-</i></td></tr>
-<tr align="center"><td><i>both: 动画结束后保持第一帧和最后一帧</i></td><td><i>-</i></td></tr>
+<tr align="center"><td><i>backwards</i></td><td><i>在动画开始前应用第一个关键帧的状态</i></td></tr>
+<tr align="center"><td><i>forwards</i></td><td><i>在动画结束时应用最后一个关键帧的状态</i></td></tr>
+<tr align="center"><td><i>both</i></td><td><i>向前和向后都应用关键帧状态</i></td></tr>
+<tr align="center"><td rowspan="2"><i>重复次数</i></td><td><i>数字</i></td><td><i>规定动画应该播放的次数</i></td><td rowspan="2"><i>/</i></td></tr>
+<tr align="center"><td><i>infinite</i></td><td><i>无限循环</i></td></tr>
 </table>
 
 **实现步骤**
@@ -1332,11 +1334,11 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ4OTA5NDksMTA2NDUwMzI0MiwxNTYxOD
-IzNDc0LDE0NTIzNDAwNzIsODc0NzYxNjk1LDE3Mzg2MzUzMzMs
-MTM0NDUwOTIwNiwtMjAwNjI1Mzg5NCwxNjQ3NjYzNTQ3LC00MD
-g0Mzc1OTQsMTMwOTkxMjkwNiwtMTU0MDQyOTc3MywtNjA4Nzcx
-NjAwLDE2MDg0NjQyNCw2NTcyMDc3MTYsLTIyMzQ4NjQzNiwtMT
-g4NjMzNjU4MSwtNTc2NzAwODQ3LDcxODk5MTE4NywxODgzNDc3
-MDY3XX0=
+eyJoaXN0b3J5IjpbLTM5OTIwNTkzMSwxMDY0NTAzMjQyLDE1Nj
+E4MjM0NzQsMTQ1MjM0MDA3Miw4NzQ3NjE2OTUsMTczODYzNTMz
+MywxMzQ0NTA5MjA2LC0yMDA2MjUzODk0LDE2NDc2NjM1NDcsLT
+QwODQzNzU5NCwxMzA5OTEyOTA2LC0xNTQwNDI5NzczLC02MDg3
+NzE2MDAsMTYwODQ2NDI0LDY1NzIwNzcxNiwtMjIzNDg2NDM2LC
+0xODg2MzM2NTgxLC01NzY3MDA4NDcsNzE4OTkxMTg3LDE4ODM0
+NzcwNjddfQ==
 -->

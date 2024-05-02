@@ -1091,17 +1091,17 @@ img:hover {
 <tr align="center"><td><i>ease-in-out</i></td><td><i>缓入缓出</i></td></tr>
 <tr align="center"><td><i>cubic-bezier(x1, y1, x2, y2)</i></td><td><i>自定义曲线，x1,y1,x2,y2为四个控制点坐标，取值范围为0-1</i></td></tr>
 <tr align="center"><td colspan="2"><i>延迟时间<br>animation-delay</i></td><td><i>规定动画何时开始</i></td><td><i>有两个时间时，第一个表示动画时长，第二个表示延迟时间</i></td></tr>
-<tr align="center"><td rowspan="2"><i>重复次数</i></td><td><i>数字</i></td><td><i>规定动画应该播放的次数</i></td><td rowspan="2"><i>/</i></td></tr>
+<tr align="center"><td rowspan="2"><i>重复次数<br>animation-iteration-count</i></td><td><i>数字</i></td><td><i>规定动画应该播放的次数</i></td><td rowspan="2"><i>/</i></td></tr>
 <tr align="center"><td><i>infinite</i></td><td><i>无限循环</i></td></tr>
-<tr align="center"><td rowspan="4"><i>动画方向</i></td><td><i>normal</i></td><td><i>正常方向（默认值）</i></td><td rowspan="4"><i>/</i></td></tr>
+<tr align="center"><td rowspan="4"><i>动画方向<br>animation-direction</i></td><td><i>normal</i></td><td><i>正常方向（默认值）</i></td><td rowspan="4"><i>/</i></td></tr>
 <tr align="center"><td><i>reverse</i></td><td><i>反向播放</i></td></tr>
 <tr align="center"><td><i>alternate</i></td><td><i>动画在奇数次和偶数次之间来回反向播放</i></td></tr>
 <tr align="center"><td><i>alternate-reverse</i></td><td><i>动画在奇数次和偶数次之间来回反向播放，初始状态为反向</i></td></tr>
-<tr align="center"><td rowspan="4"><i>执行完毕时状态</i></td><td><i>none</i></td><td><i>不应用任何状态（默认值）</i></td><td rowspan="4"><i>/</i></td></tr>
+<tr align="center"><td rowspan="4"><i>执行完毕时状态<br>animation-fill-mode</i></td><td><i>none</i></td><td><i>不应用任何状态（默认值）</i></td><td rowspan="4"><i>/</i></td></tr>
 <tr align="center"><td><i>backwards</i></td><td><i>在动画开始前应用第一个关键帧的状态</i></td></tr>
 <tr align="center"><td><i>forwards</i></td><td><i>在动画结束时应用最后一个关键帧的状态</i></td></tr>
 <tr align="center"><td><i>both</i></td><td><i>向前和向后都应用关键帧状态</i></td></tr>
-<tr align="center"><td rowspan="2"><i>动画播放状态</i></td><td><i>running</i></td><td><i>播放（默认）</i></td><td rowspan="2"><i>暂停动画通常配合 <font color=red><b>:hover</b></font> 使用</i></td></tr>
+<tr align="center"><td rowspan="2"><i>动画播放状态<br>animation-play-state</i></td><td><i>running</i></td><td><i>播放（默认）</i></td><td rowspan="2"><i>暂停动画通常配合 <font color=red><b>:hover</b></font> 使用</i></td></tr>
 <tr align="center"><td><i>paused</i></td><td><i>暂停动画</i></td></tr>
 </table>
 
@@ -1334,7 +1334,7 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDM4MTIzNzAsMTA2NDUwMzI0MiwxNT
+eyJoaXN0b3J5IjpbLTEwMzEwNjIwMzMsMTA2NDUwMzI0MiwxNT
 YxODIzNDc0LDE0NTIzNDAwNzIsODc0NzYxNjk1LDE3Mzg2MzUz
 MzMsMTM0NDUwOTIwNiwtMjAwNjI1Mzg5NCwxNjQ3NjYzNTQ3LC
 00MDg0Mzc1OTQsMTMwOTkxMjkwNiwtMTU0MDQyOTc3MywtNjA4

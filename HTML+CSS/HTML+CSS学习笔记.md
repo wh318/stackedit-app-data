@@ -1251,17 +1251,67 @@ img:hover {
 |------------|-------------------------------|------------------------------------------|----------------------------------------------------| 
 | animation | 动画名称 | 无 | 规定 @keyframes 动画的名称，或者是由多个空格分隔的名称列表。 | 
 | | 动画时长 | 时间值 | 规定动画完成一个周期所花费的秒或毫秒。 | 
-| | 动画速度曲线 | ease | linear | ease-in | ease-out | cubic-bezier(n,n,n,n) | 规定动画的速度曲线。 | 
+| | 动画速度曲线 | ease |
+| | | linear |
+| | | ease-in |
+| | | ease-out |
+| | | cubic-bezier(n,n,n,n) | 规定动画的速度曲线。 | 
 | | 动画延迟 | 时间值 | 规定动画何时开始。 | 
 | | 动画次数 | 数字 | infinite | 规定动画应该播放的次数。如果使用 infinite，则动画将无限播放。 | 
 | | 动画方向 | normal | reverse | alternate | alternate-reverse | 规定是否轮流反向播放动画。 | 
 | | 动画填充模式 | none | forwards | backwards | both | 规定在动画之前和之后是否应用动画状态。 |
+
+<table>
+  <tr>
+    <th>属性名</th>
+    <th>属性值</th>
+    <th>具体属性值</th>
+    <th>作用</th>
+  </tr>
+  <tr>
+    <td rowspan="7">animation</td>
+    <td>动画名称</td>
+    <td>无</td>
+    <td>规定 @keyframes 动画的名称，或者是由多个空格分隔的名称列表。</td>
+  </tr>
+  <tr>
+    <td>动画时长</td>
+    <td>时间值</td>
+    <td>规定动画完成一个周期所花费的秒或毫秒。</td>
+  </tr>
+  <tr>
+    <td>动画速度曲线</td>
+    <td>ease | linear | ease-in | ease-out | cubic-bezier(n,n,n,n)</td>
+    <td>规定动画的速度曲线。</td>
+  </tr>
+  <tr>
+    <td>动画延迟</td>
+    <td>时间值</td>
+    <td>规定动画何时开始。</td>
+  </tr>
+  <tr>
+    <td>动画次数</td>
+    <td>数字 | infinite</td>
+    <td>规定动画应该播放的次数。如果使用 infinite，则动画将无限播放。</td>
+  </tr>
+  <tr>
+    <td>动画方向</td>
+    <td>normal | reverse | alternate | alternate-reverse</td>
+    <td>规定是否轮流反向播放动画。</td>
+  </tr>
+  <tr>
+    <td>动画填充模式</td>
+    <td>none | forwards | backwards | both</td>
+    <td>规定在动画之前和之后是否应用动画状态。</td>
+  </tr>
+</table>
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTUwMzU4OTAsMTA2NDUwMzI0MiwxNT
-YxODIzNDc0LDE0NTIzNDAwNzIsODc0NzYxNjk1LDE3Mzg2MzUz
-MzMsMTM0NDUwOTIwNiwtMjAwNjI1Mzg5NCwxNjQ3NjYzNTQ3LC
-00MDg0Mzc1OTQsMTMwOTkxMjkwNiwtMTU0MDQyOTc3MywtNjA4
-NzcxNjAwLDE2MDg0NjQyNCw2NTcyMDc3MTYsLTIyMzQ4NjQzNi
-wtMTg4NjMzNjU4MSwtNTc2NzAwODQ3LDcxODk5MTE4NywxODgz
-NDc3MDY3XX0=
+eyJoaXN0b3J5IjpbLTMyNjM1NDUzNywxMDY0NTAzMjQyLDE1Nj
+E4MjM0NzQsMTQ1MjM0MDA3Miw4NzQ3NjE2OTUsMTczODYzNTMz
+MywxMzQ0NTA5MjA2LC0yMDA2MjUzODk0LDE2NDc2NjM1NDcsLT
+QwODQzNzU5NCwxMzA5OTEyOTA2LC0xNTQwNDI5NzczLC02MDg3
+NzE2MDAsMTYwODQ2NDI0LDY1NzIwNzcxNiwtMjIzNDg2NDM2LC
+0xODg2MzM2NTgxLC01NzY3MDA4NDcsNzE4OTkxMTg3LDE4ODM0
+NzcwNjddfQ==
 -->

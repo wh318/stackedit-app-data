@@ -1096,8 +1096,8 @@ img:hover {
 <tr align="center"><td rowspan="2"><i>动画方向</i></td><td><i>normal: 默认（不写）</i></td><td rowspan="2"><i>/</i></td></tr>
 <tr align="center"><td><i>reverse: 反向播放</i></td></tr>
 <tr align="center"><td rowspan="4"><i>执行完毕时状态</i></td><td><i>none: 默认（不写）</i></td><td rowspan="4"><i>/</i></td></tr>
+<tr align="center"><td><i>backwards: 动画结束后保持第一帧（默认值，不写）</i></td></tr>
 <tr align="center"><td><i>forwards: 动画结束后保持最后一帧</i></td></tr>
-<tr align="center"><td><i>backwards: 动画结束后保持第一帧</i></td></tr>
 <tr align="center"><td><i>both: 动画结束后保持第一帧和最后一帧</i></td></tr>
 </table>
 
@@ -1251,13 +1251,17 @@ img:hover {
 |------------|-------------------------------|------------------------------------------|----------------------------------------------------| 
 | animation | 动画名称 | 无 | 规定 @keyframes 动画的名称，或者是由多个空格分隔的名称列表。 | 
 | | 动画时长 | 时间值 | 规定动画完成一个周期所花费的秒或毫秒。 | 
-| | 动画速度曲线 | ease | linear | ease-in | ease-out | cubic-bezier(n,n,n,n) | 规定动画的速度曲线。 | | | 动画延迟 | 时间值 | 规定动画何时开始。 | | | 动画次数 | 数字 | infinite | 规定动画应该播放的次数。如果使用 infinite，则动画将无限播放。 | | | 动画方向 | normal | reverse | alternate | alternate-reverse | 规定是否轮流反向播放动画。 | | | 动画填充模式 | none | forwards | backwards | both | 规定在动画之前和之后是否应用动画状态。 |
+| | 动画速度曲线 | ease | linear | ease-in | ease-out | cubic-bezier(n,n,n,n) | 规定动画的速度曲线。 | 
+| | 动画延迟 | 时间值 | 规定动画何时开始。 | 
+| | 动画次数 | 数字 | infinite | 规定动画应该播放的次数。如果使用 infinite，则动画将无限播放。 | 
+| | 动画方向 | normal | reverse | alternate | alternate-reverse | 规定是否轮流反向播放动画。 | 
+| | 动画填充模式 | none | forwards | backwards | both | 规定在动画之前和之后是否应用动画状态。 |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEwMzIxNzk5LDEwNjQ1MDMyNDIsMTU2MT
-gyMzQ3NCwxNDUyMzQwMDcyLDg3NDc2MTY5NSwxNzM4NjM1MzMz
-LDEzNDQ1MDkyMDYsLTIwMDYyNTM4OTQsMTY0NzY2MzU0NywtND
-A4NDM3NTk0LDEzMDk5MTI5MDYsLTE1NDA0Mjk3NzMsLTYwODc3
-MTYwMCwxNjA4NDY0MjQsNjU3MjA3NzE2LC0yMjM0ODY0MzYsLT
-E4ODYzMzY1ODEsLTU3NjcwMDg0Nyw3MTg5OTExODcsMTg4MzQ3
-NzA2N119
+eyJoaXN0b3J5IjpbLTEwMTUwMzU4OTAsMTA2NDUwMzI0MiwxNT
+YxODIzNDc0LDE0NTIzNDAwNzIsODc0NzYxNjk1LDE3Mzg2MzUz
+MzMsMTM0NDUwOTIwNiwtMjAwNjI1Mzg5NCwxNjQ3NjYzNTQ3LC
+00MDg0Mzc1OTQsMTMwOTkxMjkwNiwtMTU0MDQyOTc3MywtNjA4
+NzcxNjAwLDE2MDg0NjQyNCw2NTcyMDc3MTYsLTIyMzQ4NjQzNi
+wtMTg4NjMzNjU4MSwtNTc2NzAwODQ3LDcxODk5MTE4NywxODgz
+NDc3MDY3XX0=
 -->

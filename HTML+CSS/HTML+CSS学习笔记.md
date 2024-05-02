@@ -1101,7 +1101,7 @@ img:hover {
 <tr align="center"><td><i>backwards</i></td><td><i>在动画开始前应用第一个关键帧的状态</i></td></tr>
 <tr align="center"><td><i>forwards</i></td><td><i>在动画结束时应用最后一个关键帧的状态</i></td></tr>
 <tr align="center"><td><i>both</i></td><td><i>向前和向后都应用关键帧状态</i></td></tr>
-<tr align="center"><td rowspan="2"><i>动画播放状态</i></td><td><i>running</i></td><td><i>播放（默认）</i></td><td rowspan="2"><i>暂停动画通常配合 </i></td></tr>
+<tr align="center"><td rowspan="2"><i>动画播放状态</i></td><td><i>running</i></td><td><i>播放（默认）</i></td><td rowspan="2"><i>暂停动画通常配合 <font color=red><b>:hover</b></font> 使用</i></td></tr>
 <tr align="center"><td><i>paused</i></td><td><i>暂停动画</i></td></tr>
 </table>
 
@@ -1334,11 +1334,11 @@ img:hover {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTE4NjU1NDgsMTA2NDUwMzI0MiwxNT
-YxODIzNDc0LDE0NTIzNDAwNzIsODc0NzYxNjk1LDE3Mzg2MzUz
-MzMsMTM0NDUwOTIwNiwtMjAwNjI1Mzg5NCwxNjQ3NjYzNTQ3LC
-00MDg0Mzc1OTQsMTMwOTkxMjkwNiwtMTU0MDQyOTc3MywtNjA4
-NzcxNjAwLDE2MDg0NjQyNCw2NTcyMDc3MTYsLTIyMzQ4NjQzNi
-wtMTg4NjMzNjU4MSwtNTc2NzAwODQ3LDcxODk5MTE4NywxODgz
-NDc3MDY3XX0=
+eyJoaXN0b3J5IjpbLTMyMDQ3ODY2NCwxMDY0NTAzMjQyLDE1Nj
+E4MjM0NzQsMTQ1MjM0MDA3Miw4NzQ3NjE2OTUsMTczODYzNTMz
+MywxMzQ0NTA5MjA2LC0yMDA2MjUzODk0LDE2NDc2NjM1NDcsLT
+QwODQzNzU5NCwxMzA5OTEyOTA2LC0xNTQwNDI5NzczLC02MDg3
+NzE2MDAsMTYwODQ2NDI0LDY1NzIwNzcxNiwtMjIzNDg2NDM2LC
+0xODg2MzM2NTgxLC01NzY3MDA4NDcsNzE4OTkxMTg3LDE4ODM0
+NzcwNjddfQ==
 -->

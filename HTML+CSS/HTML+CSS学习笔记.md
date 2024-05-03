@@ -1282,9 +1282,12 @@ animation:
 
 ## less-嵌套
 作用：快速生成 **后代** 选择器
-```css
+```less
 .父级选择器 {
-	
+	/* 父级样式 */
+	.子级选择器 {
+		/* 子级样式 */
+	}
 }
 ```
 
@@ -1395,11 +1398,11 @@ animation:
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE2NjQxMjMzLC0xMTI4NjUyNjg4LDIwMD
-g3NjcwNzcsMTY0NDM4MDExNiwxMzQyMTIyMzE0LDU3MTc5NTE2
-MSwtNTE3Mjg4ODM3LDk2MzcwMTA4MiwtMTQxMDU4ODgxNSw1Mj
-czMjk3ODEsMTU0NjE0ODE2NiwtMTE2OTA4MTc0NCwxNjI3NzU5
-MzM4LC0xMDMxMDYyMDMzLDEwNjQ1MDMyNDIsMTU2MTgyMzQ3NC
-wxNDUyMzQwMDcyLDg3NDc2MTY5NSwxNzM4NjM1MzMzLDEzNDQ1
-MDkyMDZdfQ==
+eyJoaXN0b3J5IjpbMTk0NjExODA2MCwtMTEyODY1MjY4OCwyMD
+A4NzY3MDc3LDE2NDQzODAxMTYsMTM0MjEyMjMxNCw1NzE3OTUx
+NjEsLTUxNzI4ODgzNyw5NjM3MDEwODIsLTE0MTA1ODg4MTUsNT
+I3MzI5NzgxLDE1NDYxNDgxNjYsLTExNjkwODE3NDQsMTYyNzc1
+OTMzOCwtMTAzMTA2MjAzMywxMDY0NTAzMjQyLDE1NjE4MjM0Nz
+QsMTQ1MjM0MDA3Miw4NzQ3NjE2OTUsMTczODYzNTMzMywxMzQ0
+NTA5MjA2XX0=
 -->

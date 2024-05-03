@@ -1275,10 +1275,10 @@ animation:
 	```
 - **除法** 需要添加 **小括号** 或 **.**
 	```css
-	width: (100 / 4px);
+	width: (100 / 4px); /* 推荐 */
 	height: 100 ./ 4px;
 	```
-
+- 
 
 
 
@@ -1389,11 +1389,11 @@ animation:
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjg2NTI2ODgsMjAwODc2NzA3NywxNj
-Q0MzgwMTE2LDEzNDIxMjIzMTQsNTcxNzk1MTYxLC01MTcyODg4
-MzcsOTYzNzAxMDgyLC0xNDEwNTg4ODE1LDUyNzMyOTc4MSwxNT
-Q2MTQ4MTY2LC0xMTY5MDgxNzQ0LDE2Mjc3NTkzMzgsLTEwMzEw
-NjIwMzMsMTA2NDUwMzI0MiwxNTYxODIzNDc0LDE0NTIzNDAwNz
-IsODc0NzYxNjk1LDE3Mzg2MzUzMzMsMTM0NDUwOTIwNiwtMjAw
-NjI1Mzg5NF19
+eyJoaXN0b3J5IjpbNDA2NjIxNzQxLC0xMTI4NjUyNjg4LDIwMD
+g3NjcwNzcsMTY0NDM4MDExNiwxMzQyMTIyMzE0LDU3MTc5NTE2
+MSwtNTE3Mjg4ODM3LDk2MzcwMTA4MiwtMTQxMDU4ODgxNSw1Mj
+czMjk3ODEsMTU0NjE0ODE2NiwtMTE2OTA4MTc0NCwxNjI3NzU5
+MzM4LC0xMDMxMDYyMDMzLDEwNjQ1MDMyNDIsMTU2MTgyMzQ3NC
+wxNDUyMzQwMDcyLDg3NDc2MTY5NSwxNzM4NjM1MzMzLDEzNDQ1
+MDkyMDZdfQ==
 -->

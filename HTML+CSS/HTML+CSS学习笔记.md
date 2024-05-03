@@ -1155,6 +1155,11 @@ animation:
 - **网页的宽度和逻辑分辨率尺寸相同**
 
 视口作用：**显示HTML网页的区域，用来约束HTML尺寸**
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="">
 ```
 
 
@@ -1266,7 +1271,7 @@ animation:
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5OTg3NDA3MCwtMTE2OTA4MTc0NCwxNj
+eyJoaXN0b3J5IjpbMTM0ODEyMTE2NiwtMTE2OTA4MTc0NCwxNj
 I3NzU5MzM4LC0xMDMxMDYyMDMzLDEwNjQ1MDMyNDIsMTU2MTgy
 MzQ3NCwxNDUyMzQwMDcyLDg3NDc2MTY5NSwxNzM4NjM1MzMzLD
 EzNDQ1MDkyMDYsLTIwMDYyNTM4OTQsMTY0NzY2MzU0NywtNDA4

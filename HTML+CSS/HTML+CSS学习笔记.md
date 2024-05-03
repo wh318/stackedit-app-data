@@ -1333,7 +1333,18 @@ animation:
 语法：
 - 定义变量：`@变量名: 数据;`
 - 使用变量：`CSS属性: @变量名;`
+	```less
+	// 定义变量
+	@myColor: pink;
 
+	// 使用变量
+	.box {
+		color: @myColor;
+	}
+
+	a {
+		color:
+	```
 
 
 # 项目实践
@@ -1440,11 +1451,11 @@ animation:
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjQ4NDY3NTMsLTEyNjk5NDkxMTYsMT
-k0NjExODA2MCwtMTEyODY1MjY4OCwyMDA4NzY3MDc3LDE2NDQz
-ODAxMTYsMTM0MjEyMjMxNCw1NzE3OTUxNjEsLTUxNzI4ODgzNy
-w5NjM3MDEwODIsLTE0MTA1ODg4MTUsNTI3MzI5NzgxLDE1NDYx
-NDgxNjYsLTExNjkwODE3NDQsMTYyNzc1OTMzOCwtMTAzMTA2Mj
-AzMywxMDY0NTAzMjQyLDE1NjE4MjM0NzQsMTQ1MjM0MDA3Miw4
-NzQ3NjE2OTVdfQ==
+eyJoaXN0b3J5IjpbLTQ5MTIxMDUxOSwtMTYyNDg0Njc1MywtMT
+I2OTk0OTExNiwxOTQ2MTE4MDYwLC0xMTI4NjUyNjg4LDIwMDg3
+NjcwNzcsMTY0NDM4MDExNiwxMzQyMTIyMzE0LDU3MTc5NTE2MS
+wtNTE3Mjg4ODM3LDk2MzcwMTA4MiwtMTQxMDU4ODgxNSw1Mjcz
+Mjk3ODEsMTU0NjE0ODE2NiwtMTE2OTA4MTc0NCwxNjI3NzU5Mz
+M4LC0xMDMxMDYyMDMzLDEwNjQ1MDMyNDIsMTU2MTgyMzQ3NCwx
+NDUyMzQwMDcyXX0=
 -->

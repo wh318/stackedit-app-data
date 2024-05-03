@@ -1181,6 +1181,11 @@ animation:
 概念：设计稿里面每一个元素的尺寸的 **倍数**
 作用：防止图片在高分辨率屏幕下模糊失真
 
+## 适配方案
+- 宽度适配：宽度自适应
+	- 百分比布局
+	- flexbu
+- 等比适配：宽高等比适配
 
 - rem
 - vw
@@ -1289,7 +1294,7 @@ animation:
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMwMjg1OTM0LDE1NDYxNDgxNjYsLTExNj
+eyJoaXN0b3J5IjpbODA2NDUyNjg5LDE1NDYxNDgxNjYsLTExNj
 kwODE3NDQsMTYyNzc1OTMzOCwtMTAzMTA2MjAzMywxMDY0NTAz
 MjQyLDE1NjE4MjM0NzQsMTQ1MjM0MDA3Miw4NzQ3NjE2OTUsMT
 czODYzNTMzMywxMzQ0NTA5MjA2LC0yMDA2MjUzODk0LDE2NDc2

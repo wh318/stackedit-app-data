@@ -1288,9 +1288,25 @@ animation:
 	.子级选择器 {
 		/* 子级样式 */
 	}
-	
 }
 ```
+
+示例：
+- less
+	```less
+	.father {
+color: red;
+.son {
+width: 100px;
+p {
+font-size: 20px;
+&:hover {
+font-size: 28px;
+}
+}
+}
+}
+	```
 
 
 
@@ -1399,7 +1415,7 @@ animation:
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNjA0MTAyNiwxOTQ2MTE4MDYwLC0xMT
+eyJoaXN0b3J5IjpbLTY4Nzc1NTc3NywxOTQ2MTE4MDYwLC0xMT
 I4NjUyNjg4LDIwMDg3NjcwNzcsMTY0NDM4MDExNiwxMzQyMTIy
 MzE0LDU3MTc5NTE2MSwtNTE3Mjg4ODM3LDk2MzcwMTA4MiwtMT
 QxMDU4ODgxNSw1MjczMjk3ODEsMTU0NjE0ODE2NiwtMTE2OTA4

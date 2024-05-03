@@ -1149,8 +1149,8 @@ animation:
 </table>
 
 
-# 移动端适配
-## 视口
+## 移动端适配
+### 视口
 - 手机屏幕尺寸不同，网页宽度均为100%
 - **网页的宽度和逻辑分辨率尺寸相同**
 
@@ -1177,11 +1177,11 @@ animation:
 
 - initial-scale=1.0: 缩放1倍（不缩放）
 
-## 二倍图
+### 二倍图
 概念：设计稿里面每一个元素的尺寸的 **倍数**
 作用：防止图片在高分辨率屏幕下模糊失真
 
-## 适配方案
+### 适配方案
 - 宽度适配：宽度自适应
 	- 百分比布局
 	- flex布局
@@ -1189,7 +1189,7 @@ animation:
 	- [rem](#rem)
 	- vw
 
-## rem
+### rem
 - rem单位，是 **相对单位**
 - rem单位是相对于 **HTML标签的字号** 计算结果
 - **1rem =1HTML字号大小**
@@ -1198,7 +1198,7 @@ animation:
 1. 给HTML标签加字号
 2. 使用rem单位书写尺寸
 
-### HTML标签设置字号
+#### HTML标签设置字号
 - 手机屏幕大小不同，分辨率不同，如何设置不同的HTML标签字号？
 	- 媒体查询
 		- 媒体查询能够 **检测视口的宽度**，然后编专差 **异化的CSS徉式**
@@ -1233,7 +1233,7 @@ animation:
 	}
 	```
 
-### flexible.js
+#### flexible.js
  - flexible.js是手淘开发出的一个用来 **适配移动端** 的 **js** 库。
 - 核心原理就是根据 **不同的视口宽度** 给网页中 **html根节点** 设置 **不同** 的 **font-size**。
 ```html
@@ -1243,7 +1243,7 @@ animation:
 </body>
 ```
 
-### rem单位尺寸
+#### rem单位尺寸
 1. 确定基准根字号
 	1. 查看 **设计稿宽度**
 	2. 确定参考 **设备宽度**（视口宽度）
@@ -1254,6 +1254,7 @@ animation:
 
 
 
+### LESS
 
 
 
@@ -1363,11 +1364,11 @@ animation:
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjE0NzA4MzYsMTM0MjEyMjMxNCw1Nz
-E3OTUxNjEsLTUxNzI4ODgzNyw5NjM3MDEwODIsLTE0MTA1ODg4
-MTUsNTI3MzI5NzgxLDE1NDYxNDgxNjYsLTExNjkwODE3NDQsMT
-YyNzc1OTMzOCwtMTAzMTA2MjAzMywxMDY0NTAzMjQyLDE1NjE4
-MjM0NzQsMTQ1MjM0MDA3Miw4NzQ3NjE2OTUsMTczODYzNTMzMy
-wxMzQ0NTA5MjA2LC0yMDA2MjUzODk0LDE2NDc2NjM1NDcsLTQw
-ODQzNzU5NF19
+eyJoaXN0b3J5IjpbNjI2OTQ0OTY4LDEzNDIxMjIzMTQsNTcxNz
+k1MTYxLC01MTcyODg4MzcsOTYzNzAxMDgyLC0xNDEwNTg4ODE1
+LDUyNzMyOTc4MSwxNTQ2MTQ4MTY2LC0xMTY5MDgxNzQ0LDE2Mj
+c3NTkzMzgsLTEwMzEwNjIwMzMsMTA2NDUwMzI0MiwxNTYxODIz
+NDc0LDE0NTIzNDAwNzIsODc0NzYxNjk1LDE3Mzg2MzUzMzMsMT
+M0NDUwOTIwNiwtMjAwNjI1Mzg5NCwxNjQ3NjYzNTQ3LC00MDg0
+Mzc1OTRdfQ==
 -->

@@ -1267,7 +1267,7 @@ animation:
 	- 语法：`/* 注释内容 */`
 	- 快捷键：`Shift + Alt + A`
 
-## 运算
+## less-运算
 - 加、减、乘直接书写计算表达式
 	```css
 	width: 100 + 50 - 20px;
@@ -1278,9 +1278,10 @@ animation:
 	width: (100 / 4px); /* 推荐 */
 	height: 100 ./ 4px;
 	```
-- 
+- **表达式中存在多个单位，最终以第一个为准**
 
-
+## less-嵌套
+作用：快速生成 **
 
 
 
@@ -1389,11 +1390,11 @@ animation:
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA2NjIxNzQxLC0xMTI4NjUyNjg4LDIwMD
-g3NjcwNzcsMTY0NDM4MDExNiwxMzQyMTIyMzE0LDU3MTc5NTE2
-MSwtNTE3Mjg4ODM3LDk2MzcwMTA4MiwtMTQxMDU4ODgxNSw1Mj
-czMjk3ODEsMTU0NjE0ODE2NiwtMTE2OTA4MTc0NCwxNjI3NzU5
-MzM4LC0xMDMxMDYyMDMzLDEwNjQ1MDMyNDIsMTU2MTgyMzQ3NC
-wxNDUyMzQwMDcyLDg3NDc2MTY5NSwxNzM4NjM1MzMzLDEzNDQ1
-MDkyMDZdfQ==
+eyJoaXN0b3J5IjpbLTE3OTE3MjYzOTQsLTExMjg2NTI2ODgsMj
+AwODc2NzA3NywxNjQ0MzgwMTE2LDEzNDIxMjIzMTQsNTcxNzk1
+MTYxLC01MTcyODg4MzcsOTYzNzAxMDgyLC0xNDEwNTg4ODE1LD
+UyNzMyOTc4MSwxNTQ2MTQ4MTY2LC0xMTY5MDgxNzQ0LDE2Mjc3
+NTkzMzgsLTEwMzEwNjIwMzMsMTA2NDUwMzI0MiwxNTYxODIzND
+c0LDE0NTIzNDAwNzIsODc0NzYxNjk1LDE3Mzg2MzUzMzMsMTM0
+NDUwOTIwNl19
 -->

@@ -1184,11 +1184,10 @@ animation:
 ## 适配方案
 - 宽度适配：宽度自适应
 	- 百分比布局
-	- flexbu
+	- flex布局
 - 等比适配：宽高等比适配
-
-- rem
-- vw
+	- rem
+	- vw
 
 # 项目实践
 
@@ -1294,7 +1293,7 @@ animation:
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA2NDUyNjg5LDE1NDYxNDgxNjYsLTExNj
+eyJoaXN0b3J5IjpbNTI3MzI5NzgxLDE1NDYxNDgxNjYsLTExNj
 kwODE3NDQsMTYyNzc1OTMzOCwtMTAzMTA2MjAzMywxMDY0NTAz
 MjQyLDE1NjE4MjM0NzQsMTQ1MjM0MDA3Miw4NzQ3NjE2OTUsMT
 czODYzNTMzMywxMzQ0NTA5MjA2LC0yMDA2MjUzODk0LDE2NDc2

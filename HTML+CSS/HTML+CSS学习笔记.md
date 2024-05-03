@@ -1161,6 +1161,9 @@ animation:
 <head>
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=egde">
+	
+	<!-- 视口标签 -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 ```
 
 
@@ -1272,11 +1275,11 @@ animation:
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjgzNTE5NTcsLTExNjkwODE3NDQsMT
-YyNzc1OTMzOCwtMTAzMTA2MjAzMywxMDY0NTAzMjQyLDE1NjE4
-MjM0NzQsMTQ1MjM0MDA3Miw4NzQ3NjE2OTUsMTczODYzNTMzMy
-wxMzQ0NTA5MjA2LC0yMDA2MjUzODk0LDE2NDc2NjM1NDcsLTQw
-ODQzNzU5NCwxMzA5OTEyOTA2LC0xNTQwNDI5NzczLC02MDg3Nz
-E2MDAsMTYwODQ2NDI0LDY1NzIwNzcxNiwtMjIzNDg2NDM2LC0x
-ODg2MzM2NTgxXX0=
+eyJoaXN0b3J5IjpbLTM1MzMxOTkzNiwtMTE2OTA4MTc0NCwxNj
+I3NzU5MzM4LC0xMDMxMDYyMDMzLDEwNjQ1MDMyNDIsMTU2MTgy
+MzQ3NCwxNDUyMzQwMDcyLDg3NDc2MTY5NSwxNzM4NjM1MzMzLD
+EzNDQ1MDkyMDYsLTIwMDYyNTM4OTQsMTY0NzY2MzU0NywtNDA4
+NDM3NTk0LDEzMDk5MTI5MDYsLTE1NDA0Mjk3NzMsLTYwODc3MT
+YwMCwxNjA4NDY0MjQsNjU3MjA3NzE2LC0yMjM0ODY0MzYsLTE4
+ODYzMzY1ODFdfQ==
 -->

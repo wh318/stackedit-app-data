@@ -1249,7 +1249,9 @@ animation:
 	2. 确定参考 **设备宽度**（视口宽度）
 	3. 确定 **基准根字号**（1/10视口宽度）
 2. rem单位的尺寸
-	- rem单位的
+	- rem单位的尺寸 = **px单位数值 / 基准根字号**
+
+
 # 项目实践
 
 ## 准备工作（创建目录）
@@ -1354,11 +1356,11 @@ animation:
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIyNDg5MjIxLDU3MTc5NTE2MSwtNTE3Mj
-g4ODM3LDk2MzcwMTA4MiwtMTQxMDU4ODgxNSw1MjczMjk3ODEs
-MTU0NjE0ODE2NiwtMTE2OTA4MTc0NCwxNjI3NzU5MzM4LC0xMD
-MxMDYyMDMzLDEwNjQ1MDMyNDIsMTU2MTgyMzQ3NCwxNDUyMzQw
-MDcyLDg3NDc2MTY5NSwxNzM4NjM1MzMzLDEzNDQ1MDkyMDYsLT
-IwMDYyNTM4OTQsMTY0NzY2MzU0NywtNDA4NDM3NTk0LDEzMDk5
-MTI5MDZdfQ==
+eyJoaXN0b3J5IjpbMTM0MjEyMjMxNCw1NzE3OTUxNjEsLTUxNz
+I4ODgzNyw5NjM3MDEwODIsLTE0MTA1ODg4MTUsNTI3MzI5Nzgx
+LDE1NDYxNDgxNjYsLTExNjkwODE3NDQsMTYyNzc1OTMzOCwtMT
+AzMTA2MjAzMywxMDY0NTAzMjQyLDE1NjE4MjM0NzQsMTQ1MjM0
+MDA3Miw4NzQ3NjE2OTUsMTczODYzNTMzMywxMzQ0NTA5MjA2LC
+0yMDA2MjUzODk0LDE2NDc2NjM1NDcsLTQwODQzNzU5NCwxMzA5
+OTEyOTA2XX0=
 -->

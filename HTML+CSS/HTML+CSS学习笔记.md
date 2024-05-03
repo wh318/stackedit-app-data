@@ -1233,9 +1233,12 @@ animation:
 	}
 	```
 
-### 
-
-
+### flexible.js
+ - flexible.js是手淘开发出的一个用来 **适配移动端** 的 **js** 库。
+- 核心原理就是根据 **不同的视口宽度** 给网页中 **html根节点** 设置 **不同** 的 **font-size**。
+```html
+<body>
+	.....
 
 # 项目实践
 
@@ -1341,11 +1344,11 @@ animation:
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NTM2MjE0LC01MTcyODg4MzcsOTYzNz
-AxMDgyLC0xNDEwNTg4ODE1LDUyNzMyOTc4MSwxNTQ2MTQ4MTY2
-LC0xMTY5MDgxNzQ0LDE2Mjc3NTkzMzgsLTEwMzEwNjIwMzMsMT
-A2NDUwMzI0MiwxNTYxODIzNDc0LDE0NTIzNDAwNzIsODc0NzYx
-Njk1LDE3Mzg2MzUzMzMsMTM0NDUwOTIwNiwtMjAwNjI1Mzg5NC
-wxNjQ3NjYzNTQ3LC00MDg0Mzc1OTQsMTMwOTkxMjkwNiwtMTU0
-MDQyOTc3M119
+eyJoaXN0b3J5IjpbMTY3Nzk1NjU4NSwtNTE3Mjg4ODM3LDk2Mz
+cwMTA4MiwtMTQxMDU4ODgxNSw1MjczMjk3ODEsMTU0NjE0ODE2
+NiwtMTE2OTA4MTc0NCwxNjI3NzU5MzM4LC0xMDMxMDYyMDMzLD
+EwNjQ1MDMyNDIsMTU2MTgyMzQ3NCwxNDUyMzQwMDcyLDg3NDc2
+MTY5NSwxNzM4NjM1MzMzLDEzNDQ1MDkyMDYsLTIwMDYyNTM4OT
+QsMTY0NzY2MzU0NywtNDA4NDM3NTk0LDEzMDk5MTI5MDYsLTE1
+NDA0Mjk3NzNdfQ==
 -->

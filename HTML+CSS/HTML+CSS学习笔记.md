@@ -1352,8 +1352,8 @@ animation:
 语法：导入：**`@import "文件路径"`**
 提示：如果是 **less 文件可以省略后缀**
 ```css
-@import './base.less'
-@import './common'
+@import './base.less';
+@import './common';
 ```
 
 
@@ -1464,11 +1464,11 @@ animation:
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NzUwNzYxMCw3NTcwODA1OTQsLTE2Mj
-Q4NDY3NTMsLTEyNjk5NDkxMTYsMTk0NjExODA2MCwtMTEyODY1
-MjY4OCwyMDA4NzY3MDc3LDE2NDQzODAxMTYsMTM0MjEyMjMxNC
-w1NzE3OTUxNjEsLTUxNzI4ODgzNyw5NjM3MDEwODIsLTE0MTA1
-ODg4MTUsNTI3MzI5NzgxLDE1NDYxNDgxNjYsLTExNjkwODE3ND
-QsMTYyNzc1OTMzOCwtMTAzMTA2MjAzMywxMDY0NTAzMjQyLDE1
-NjE4MjM0NzRdfQ==
+eyJoaXN0b3J5IjpbNzg3ODczODkyLDc1NzA4MDU5NCwtMTYyND
+g0Njc1MywtMTI2OTk0OTExNiwxOTQ2MTE4MDYwLC0xMTI4NjUy
+Njg4LDIwMDg3NjcwNzcsMTY0NDM4MDExNiwxMzQyMTIyMzE0LD
+U3MTc5NTE2MSwtNTE3Mjg4ODM3LDk2MzcwMTA4MiwtMTQxMDU4
+ODgxNSw1MjczMjk3ODEsMTU0NjE0ODE2NiwtMTE2OTA4MTc0NC
+wxNjI3NzU5MzM4LC0xMDMxMDYyMDMzLDEwNjQ1MDMyNDIsMTU2
+MTgyMzQ3NF19
 -->

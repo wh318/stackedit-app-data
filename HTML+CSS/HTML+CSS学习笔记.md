@@ -1207,6 +1207,8 @@ animation:
 		@media (媒体特性) {
 			选择器 {
 				CSS属性
+			}
+		}
 		```
 
 
@@ -1315,7 +1317,7 @@ animation:
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MzQxNjY2LC0xNDEwNTg4ODE1LDUyNz
+eyJoaXN0b3J5IjpbOTYzNzAxMDgyLC0xNDEwNTg4ODE1LDUyNz
 MyOTc4MSwxNTQ2MTQ4MTY2LC0xMTY5MDgxNzQ0LDE2Mjc3NTkz
 MzgsLTEwMzEwNjIwMzMsMTA2NDUwMzI0MiwxNTYxODIzNDc0LD
 E0NTIzNDAwNzIsODc0NzYxNjk1LDE3Mzg2MzUzMzMsMTM0NDUw

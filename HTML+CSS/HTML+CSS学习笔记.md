@@ -1220,7 +1220,17 @@ animation:
 		}
 	}
 
-	
+	@media (width:375px) { 
+		html {
+			font-size: 37.5px;
+		}
+	}
+
+	@media (width:414px) {
+		html {
+			font-size: 41.4px;
+		}
+	}
 	```
 
 # 项目实践
@@ -1327,11 +1337,11 @@ animation:
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzE2MzI2OTEsOTYzNzAxMDgyLC0xND
-EwNTg4ODE1LDUyNzMyOTc4MSwxNTQ2MTQ4MTY2LC0xMTY5MDgx
-NzQ0LDE2Mjc3NTkzMzgsLTEwMzEwNjIwMzMsMTA2NDUwMzI0Mi
-wxNTYxODIzNDc0LDE0NTIzNDAwNzIsODc0NzYxNjk1LDE3Mzg2
-MzUzMzMsMTM0NDUwOTIwNiwtMjAwNjI1Mzg5NCwxNjQ3NjYzNT
-Q3LC00MDg0Mzc1OTQsMTMwOTkxMjkwNiwtMTU0MDQyOTc3Mywt
-NjA4NzcxNjAwXX0=
+eyJoaXN0b3J5IjpbLTUxNzI4ODgzNyw5NjM3MDEwODIsLTE0MT
+A1ODg4MTUsNTI3MzI5NzgxLDE1NDYxNDgxNjYsLTExNjkwODE3
+NDQsMTYyNzc1OTMzOCwtMTAzMTA2MjAzMywxMDY0NTAzMjQyLD
+E1NjE4MjM0NzQsMTQ1MjM0MDA3Miw4NzQ3NjE2OTUsMTczODYz
+NTMzMywxMzQ0NTA5MjA2LC0yMDA2MjUzODk0LDE2NDc2NjM1ND
+csLTQwODQzNzU5NCwxMzA5OTEyOTA2LC0xNTQwNDI5NzczLC02
+MDg3NzE2MDBdfQ==
 -->

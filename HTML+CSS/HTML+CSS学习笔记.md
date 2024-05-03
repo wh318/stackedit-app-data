@@ -1357,14 +1357,15 @@ animation:
 ```
 
 ## less-导出（将生成的css文件存放到。。。）
-写法：在 less 文件的 **第一行** 添加 **// out: 存储URL
+写法：在 less 文件的 **第一行** 添加 **`// out: 存储URL`**
 提示：文件夹名称后面添加 /
 ```less
 // out: ./index.css
 // out: ./css/
 ```
 
-## less
+## less-禁止导出
+写法：在 less 文件 **第一行** 添加： **`// out: false`**
 
 
 # 项目实践
@@ -1471,11 +1472,11 @@ animation:
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTE1NjU5NjgsMTEyODg2ODE3NSw3NT
-cwODA1OTQsLTE2MjQ4NDY3NTMsLTEyNjk5NDkxMTYsMTk0NjEx
-ODA2MCwtMTEyODY1MjY4OCwyMDA4NzY3MDc3LDE2NDQzODAxMT
-YsMTM0MjEyMjMxNCw1NzE3OTUxNjEsLTUxNzI4ODgzNyw5NjM3
-MDEwODIsLTE0MTA1ODg4MTUsNTI3MzI5NzgxLDE1NDYxNDgxNj
-YsLTExNjkwODE3NDQsMTYyNzc1OTMzOCwtMTAzMTA2MjAzMywx
-MDY0NTAzMjQyXX0=
+eyJoaXN0b3J5IjpbMTU0OTQ2MDAyMiwxMTI4ODY4MTc1LDc1Nz
+A4MDU5NCwtMTYyNDg0Njc1MywtMTI2OTk0OTExNiwxOTQ2MTE4
+MDYwLC0xMTI4NjUyNjg4LDIwMDg3NjcwNzcsMTY0NDM4MDExNi
+wxMzQyMTIyMzE0LDU3MTc5NTE2MSwtNTE3Mjg4ODM3LDk2Mzcw
+MTA4MiwtMTQxMDU4ODgxNSw1MjczMjk3ODEsMTU0NjE0ODE2Ni
+wtMTE2OTA4MTc0NCwxNjI3NzU5MzM4LC0xMDMxMDYyMDMzLDEw
+NjQ1MDMyNDJdfQ==
 -->

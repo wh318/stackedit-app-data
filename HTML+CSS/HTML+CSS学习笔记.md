@@ -1212,9 +1212,16 @@ animation:
 		```
 
 - 设备宽度不同，HTML标签字号设置多少合适？
-	- 设备宽度大，元素尺寸大
-	- 设备宽度小，元素尺寸小
-	- 目前rm布局方案中，将网页等分成 **10** 份，HTML标签的字号为 **视口宽度** 的1/10
+	- 目前rm布局方案中，将网页等分成 **10** 份，HTML标签的字号为 **视口宽度** 的 **1/10**
+	```css
+	@media (width:320px) {
+		html {
+			font-size: 32px;
+		}
+	}
+
+	
+	```
 
 # 项目实践
 
@@ -1320,11 +1327,11 @@ animation:
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcwODgyNzQsOTYzNzAxMDgyLC0xNDEwNT
-g4ODE1LDUyNzMyOTc4MSwxNTQ2MTQ4MTY2LC0xMTY5MDgxNzQ0
-LDE2Mjc3NTkzMzgsLTEwMzEwNjIwMzMsMTA2NDUwMzI0MiwxNT
-YxODIzNDc0LDE0NTIzNDAwNzIsODc0NzYxNjk1LDE3Mzg2MzUz
-MzMsMTM0NDUwOTIwNiwtMjAwNjI1Mzg5NCwxNjQ3NjYzNTQ3LC
-00MDg0Mzc1OTQsMTMwOTkxMjkwNiwtMTU0MDQyOTc3MywtNjA4
-NzcxNjAwXX0=
+eyJoaXN0b3J5IjpbLTE4NzE2MzI2OTEsOTYzNzAxMDgyLC0xND
+EwNTg4ODE1LDUyNzMyOTc4MSwxNTQ2MTQ4MTY2LC0xMTY5MDgx
+NzQ0LDE2Mjc3NTkzMzgsLTEwMzEwNjIwMzMsMTA2NDUwMzI0Mi
+wxNTYxODIzNDc0LDE0NTIzNDAwNzIsODc0NzYxNjk1LDE3Mzg2
+MzUzMzMsMTM0NDUwOTIwNiwtMjAwNjI1Mzg5NCwxNjQ3NjYzNT
+Q3LC00MDg0Mzc1OTQsMTMwOTkxMjkwNiwtMTU0MDQyOTc3Mywt
+NjA4NzcxNjAwXX0=
 -->

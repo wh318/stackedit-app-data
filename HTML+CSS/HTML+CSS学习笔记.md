@@ -1164,6 +1164,10 @@ animation:
 	
 	<!-- 视口标签 -->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<title>Document</title>
+</head>
+<body>
 ```
 
 
@@ -1275,7 +1279,7 @@ animation:
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MzMxOTkzNiwtMTE2OTA4MTc0NCwxNj
+eyJoaXN0b3J5IjpbLTkyNDkxNjQzMywtMTE2OTA4MTc0NCwxNj
 I3NzU5MzM4LC0xMDMxMDYyMDMzLDEwNjQ1MDMyNDIsMTU2MTgy
 MzQ3NCwxNDUyMzQwMDcyLDg3NDc2MTY5NSwxNzM4NjM1MzMzLD
 EzNDQ1MDkyMDYsLTIwMDYyNTM4OTQsMTY0NzY2MzU0NywtNDA4

@@ -1351,6 +1351,9 @@ animation:
 作用：导入less公共样式文件
 语法：导入：**`@import "文件路径"`**
 提示：如果是 **less 文件可以省略后缀**
+```css
+@import './base.less'
+@import './common'
 ```
 
 
@@ -1461,7 +1464,7 @@ animation:
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNzA0MjMyNiw3NTcwODA1OTQsLTE2Mj
+eyJoaXN0b3J5IjpbMTcxMzUyMDQzNCw3NTcwODA1OTQsLTE2Mj
 Q4NDY3NTMsLTEyNjk5NDkxMTYsMTk0NjExODA2MCwtMTEyODY1
 MjY4OCwyMDA4NzY3MDc3LDE2NDQzODAxMTYsMTM0MjEyMjMxNC
 w1NzE3OTUxNjEsLTUxNzI4ODgzNyw5NjM3MDEwODIsLTE0MTA1

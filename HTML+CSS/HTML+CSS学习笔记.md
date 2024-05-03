@@ -1271,9 +1271,13 @@ animation:
 - 加、减、乘直接书写计算表达式
 	```css
 	width: 100 + 50 - 20px;
-	height
+	height: 5 * 32px;
 	```
-- 除法需要添加小括号或.
+- **除法** 需要添加 **小括号** 或 **.**
+	```css
+	width: (100 / 4px);
+	height: 100 
+	```
 
 
 
@@ -1385,11 +1389,11 @@ animation:
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIyNTg1MTg4LDIwMDg3NjcwNzcsMTY0ND
-M4MDExNiwxMzQyMTIyMzE0LDU3MTc5NTE2MSwtNTE3Mjg4ODM3
-LDk2MzcwMTA4MiwtMTQxMDU4ODgxNSw1MjczMjk3ODEsMTU0Nj
-E0ODE2NiwtMTE2OTA4MTc0NCwxNjI3NzU5MzM4LC0xMDMxMDYy
-MDMzLDEwNjQ1MDMyNDIsMTU2MTgyMzQ3NCwxNDUyMzQwMDcyLD
-g3NDc2MTY5NSwxNzM4NjM1MzMzLDEzNDQ1MDkyMDYsLTIwMDYy
-NTM4OTRdfQ==
+eyJoaXN0b3J5IjpbMTM5ODQ3MDU5OCwyMDA4NzY3MDc3LDE2ND
+QzODAxMTYsMTM0MjEyMjMxNCw1NzE3OTUxNjEsLTUxNzI4ODgz
+Nyw5NjM3MDEwODIsLTE0MTA1ODg4MTUsNTI3MzI5NzgxLDE1ND
+YxNDgxNjYsLTExNjkwODE3NDQsMTYyNzc1OTMzOCwtMTAzMTA2
+MjAzMywxMDY0NTAzMjQyLDE1NjE4MjM0NzQsMTQ1MjM0MDA3Mi
+w4NzQ3NjE2OTUsMTczODYzNTMzMywxMzQ0NTA5MjA2LC0yMDA2
+MjUzODk0XX0=
 -->

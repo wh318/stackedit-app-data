@@ -1203,7 +1203,10 @@ animation:
 	- 媒体查询
 		- 媒体查询能够 **检测视口的宽度**，然后编专差 **异化的CSS徉式**
 		- 当某个 **条件成立，执行对应的CSS样式**
-		- ```css
+		```css
+		@media (媒体特性) {
+			选择器 {
+				CSS属性
 		```
 
 
@@ -1312,11 +1315,11 @@ animation:
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjUwNjIyNzEsLTE0MTA1ODg4MTUsNT
-I3MzI5NzgxLDE1NDYxNDgxNjYsLTExNjkwODE3NDQsMTYyNzc1
-OTMzOCwtMTAzMTA2MjAzMywxMDY0NTAzMjQyLDE1NjE4MjM0Nz
-QsMTQ1MjM0MDA3Miw4NzQ3NjE2OTUsMTczODYzNTMzMywxMzQ0
-NTA5MjA2LC0yMDA2MjUzODk0LDE2NDc2NjM1NDcsLTQwODQzNz
-U5NCwxMzA5OTEyOTA2LC0xNTQwNDI5NzczLC02MDg3NzE2MDAs
-MTYwODQ2NDI0XX0=
+eyJoaXN0b3J5IjpbMTY4MzQxNjY2LC0xNDEwNTg4ODE1LDUyNz
+MyOTc4MSwxNTQ2MTQ4MTY2LC0xMTY5MDgxNzQ0LDE2Mjc3NTkz
+MzgsLTEwMzEwNjIwMzMsMTA2NDUwMzI0MiwxNTYxODIzNDc0LD
+E0NTIzNDAwNzIsODc0NzYxNjk1LDE3Mzg2MzUzMzMsMTM0NDUw
+OTIwNiwtMjAwNjI1Mzg5NCwxNjQ3NjYzNTQ3LC00MDg0Mzc1OT
+QsMTMwOTkxMjkwNiwtMTU0MDQyOTc3MywtNjA4NzcxNjAwLDE2
+MDg0NjQyNF19
 -->

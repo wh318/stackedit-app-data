@@ -1186,8 +1186,12 @@ animation:
 	- 百分比布局
 	- flex布局
 - 等比适配：宽高等比适配
-	- [rem](##rem)
+	- [rem](#rem)
 	- vw
+
+## rem
+- rem单位，是 **相对单位**
+- rem
 
 
 
@@ -1294,10 +1298,8 @@ animation:
 - 布局思路
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
-
-## rem
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNzQ2ODUwMiw1MjczMjk3ODEsMTU0Nj
+eyJoaXN0b3J5IjpbMTI3MzQ0MTAyNyw1MjczMjk3ODEsMTU0Nj
 E0ODE2NiwtMTE2OTA4MTc0NCwxNjI3NzU5MzM4LC0xMDMxMDYy
 MDMzLDEwNjQ1MDMyNDIsMTU2MTgyMzQ3NCwxNDUyMzQwMDcyLD
 g3NDc2MTY5NSwxNzM4NjM1MzMzLDEzNDQ1MDkyMDYsLTIwMDYy

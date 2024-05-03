@@ -1150,7 +1150,7 @@ animation:
 
 
 # 移动端适配
-### 视口
+## 视口
 - 手机屏幕尺寸不同，网页宽度均为100%
 - **网页的宽度和逻辑分辨率尺寸相同**
 
@@ -1174,7 +1174,9 @@ animation:
 ```
 - **width=device-width: 视口宽度=设备宽度**
 - initial-scale=1.0: 缩放1倍（不缩放）
-
+## 二倍图
+概念：设计稿里面每一个元素的尺寸的 **倍数**
+作用：
 
 
 - rem
@@ -1284,11 +1286,11 @@ animation:
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMDU3MzEzMCwxNTQ2MTQ4MTY2LC0xMT
-Y5MDgxNzQ0LDE2Mjc3NTkzMzgsLTEwMzEwNjIwMzMsMTA2NDUw
-MzI0MiwxNTYxODIzNDc0LDE0NTIzNDAwNzIsODc0NzYxNjk1LD
-E3Mzg2MzUzMzMsMTM0NDUwOTIwNiwtMjAwNjI1Mzg5NCwxNjQ3
-NjYzNTQ3LC00MDg0Mzc1OTQsMTMwOTkxMjkwNiwtMTU0MDQyOT
-c3MywtNjA4NzcxNjAwLDE2MDg0NjQyNCw2NTcyMDc3MTYsLTIy
-MzQ4NjQzNl19
+eyJoaXN0b3J5IjpbNjM5MDQ5Njk2LDE1NDYxNDgxNjYsLTExNj
+kwODE3NDQsMTYyNzc1OTMzOCwtMTAzMTA2MjAzMywxMDY0NTAz
+MjQyLDE1NjE4MjM0NzQsMTQ1MjM0MDA3Miw4NzQ3NjE2OTUsMT
+czODYzNTMzMywxMzQ0NTA5MjA2LC0yMDA2MjUzODk0LDE2NDc2
+NjM1NDcsLTQwODQzNzU5NCwxMzA5OTEyOTA2LC0xNTQwNDI5Nz
+czLC02MDg3NzE2MDAsMTYwODQ2NDI0LDY1NzIwNzcxNiwtMjIz
+NDg2NDM2XX0=
 -->

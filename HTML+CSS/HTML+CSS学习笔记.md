@@ -1262,7 +1262,18 @@ animation:
 ## 注释
 - 单行注释
 	- 语法：`// 注释内容`
-	- 快捷键：``
+	- 快捷键：`ctrl + /`
+- 块注释
+	- 语法：`/* 注释内容 */`
+	- 快捷键：`Shift + Alt + A`
+
+
+
+
+
+
+
+
 
 # 项目实践
 
@@ -1368,11 +1379,11 @@ animation:
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4OTE1NzI4LDE2NDQzODAxMTYsMTM0Mj
-EyMjMxNCw1NzE3OTUxNjEsLTUxNzI4ODgzNyw5NjM3MDEwODIs
-LTE0MTA1ODg4MTUsNTI3MzI5NzgxLDE1NDYxNDgxNjYsLTExNj
-kwODE3NDQsMTYyNzc1OTMzOCwtMTAzMTA2MjAzMywxMDY0NTAz
-MjQyLDE1NjE4MjM0NzQsMTQ1MjM0MDA3Miw4NzQ3NjE2OTUsMT
-czODYzNTMzMywxMzQ0NTA5MjA2LC0yMDA2MjUzODk0LDE2NDc2
-NjM1NDddfQ==
+eyJoaXN0b3J5IjpbMjAwODc2NzA3NywxNjQ0MzgwMTE2LDEzND
+IxMjIzMTQsNTcxNzk1MTYxLC01MTcyODg4MzcsOTYzNzAxMDgy
+LC0xNDEwNTg4ODE1LDUyNzMyOTc4MSwxNTQ2MTQ4MTY2LC0xMT
+Y5MDgxNzQ0LDE2Mjc3NTkzMzgsLTEwMzEwNjIwMzMsMTA2NDUw
+MzI0MiwxNTYxODIzNDc0LDE0NTIzNDAwNzIsODc0NzYxNjk1LD
+E3Mzg2MzUzMzMsMTM0NDUwOTIwNiwtMjAwNjI1Mzg5NCwxNjQ3
+NjYzNTQ3XX0=
 -->

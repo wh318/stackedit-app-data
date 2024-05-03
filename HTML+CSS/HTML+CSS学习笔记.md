@@ -1295,17 +1295,32 @@ animation:
 - less
 	```less
 	.father {
-color: red;
-.son {
-width: 100px;
-p {
-font-size: 20px;
-&:hover {
-font-size: 28px;
-}
-}
-}
-}
+		color: red;
+		.son {
+			width: 100px;
+			p {
+				font-size: 20px;
+				&:hover {
+					font-size: 28px;
+				}
+			}
+		}
+	}
+	```
+- 生成css
+	```css
+	.father {
+		color: red;
+	}
+	.father .son {
+		width: 100px;
+	}
+	.father .son p {
+		font-size: 20px;
+	}
+	.father .son p:hover {
+		font-size: 28px;
+	}
 	```
 
 
@@ -1415,11 +1430,11 @@ font-size: 28px;
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4Nzc1NTc3NywxOTQ2MTE4MDYwLC0xMT
-I4NjUyNjg4LDIwMDg3NjcwNzcsMTY0NDM4MDExNiwxMzQyMTIy
-MzE0LDU3MTc5NTE2MSwtNTE3Mjg4ODM3LDk2MzcwMTA4MiwtMT
-QxMDU4ODgxNSw1MjczMjk3ODEsMTU0NjE0ODE2NiwtMTE2OTA4
-MTc0NCwxNjI3NzU5MzM4LC0xMDMxMDYyMDMzLDEwNjQ1MDMyND
-IsMTU2MTgyMzQ3NCwxNDUyMzQwMDcyLDg3NDc2MTY5NSwxNzM4
-NjM1MzMzXX0=
+eyJoaXN0b3J5IjpbLTE2NzAyNDA0MTQsMTk0NjExODA2MCwtMT
+EyODY1MjY4OCwyMDA4NzY3MDc3LDE2NDQzODAxMTYsMTM0MjEy
+MjMxNCw1NzE3OTUxNjEsLTUxNzI4ODgzNyw5NjM3MDEwODIsLT
+E0MTA1ODg4MTUsNTI3MzI5NzgxLDE1NDYxNDgxNjYsLTExNjkw
+ODE3NDQsMTYyNzc1OTMzOCwtMTAzMTA2MjAzMywxMDY0NTAzMj
+QyLDE1NjE4MjM0NzQsMTQ1MjM0MDA3Miw4NzQ3NjE2OTUsMTcz
+ODYzNTMzM119
 -->

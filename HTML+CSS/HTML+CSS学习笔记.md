@@ -1198,7 +1198,17 @@ animation:
 1. 给HTML标签加字号
 2. 使用rem单位书写尺寸
 
+### HTML标签设置字号
+- 手机屏幕大小不同，分辨率不同
+	- 媒体查询
 
+
+
+如何设置不同的HTML标签字号？
+▣
+媒体查询
+媒体查询能够检测视口的宽度，然后编专差异化的CSS徉式
+当某个条件成立，执行对应的CSS样式
 
 # 项目实践
 
@@ -1304,7 +1314,7 @@ animation:
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMTU2NjIwMCwtMTQxMDU4ODgxNSw1Mj
+eyJoaXN0b3J5IjpbLTYwMTE5MTY0NiwtMTQxMDU4ODgxNSw1Mj
 czMjk3ODEsMTU0NjE0ODE2NiwtMTE2OTA4MTc0NCwxNjI3NzU5
 MzM4LC0xMDMxMDYyMDMzLDEwNjQ1MDMyNDIsMTU2MTgyMzQ3NC
 wxNDUyMzQwMDcyLDg3NDc2MTY5NSwxNzM4NjM1MzMzLDEzNDQ1

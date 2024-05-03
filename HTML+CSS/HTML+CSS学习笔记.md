@@ -1212,10 +1212,9 @@ animation:
 		```
 
 - 设备宽度不同，HTML标签字号设置多少合适？
-▣
-设备宽度大，元素尺寸大
-▣
-设备宽度小，元素尺寸小
+	- 设备宽度大，元素尺寸大
+	- 设备宽度小，元素尺寸小
+	- 目前rm布局方案中，将网页等分成 **10** 份，HTML标签的字号为 **视口宽度** 的1/10
 
 # 项目实践
 
@@ -1321,7 +1320,7 @@ animation:
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk4MzE1MDYsOTYzNzAxMDgyLC0xNDEwNT
+eyJoaXN0b3J5IjpbMjcwODgyNzQsOTYzNzAxMDgyLC0xNDEwNT
 g4ODE1LDUyNzMyOTc4MSwxNTQ2MTQ4MTY2LC0xMTY5MDgxNzQ0
 LDE2Mjc3NTkzMzgsLTEwMzEwNjIwMzMsMTA2NDUwMzI0MiwxNT
 YxODIzNDc0LDE0NTIzNDAwNzIsODc0NzYxNjk1LDE3Mzg2MzUz

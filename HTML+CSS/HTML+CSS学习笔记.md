@@ -1300,7 +1300,7 @@ animation:
 			width: 100px;
 			p {
 				font-size: 20px;
-				&:hover {
+				&:hover {			/*&表示的是当前选择器，代码写到谁的大括号里面就表示谁，不会生成后代选择器*/
 					font-size: 28px;
 				}
 			}
@@ -1430,7 +1430,7 @@ animation:
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzAyNDA0MTQsMTk0NjExODA2MCwtMT
+eyJoaXN0b3J5IjpbLTEyNjk5NDkxMTYsMTk0NjExODA2MCwtMT
 EyODY1MjY4OCwyMDA4NzY3MDc3LDE2NDQzODAxMTYsMTM0MjEy
 MjMxNCw1NzE3OTUxNjEsLTUxNzI4ODgzNyw5NjM3MDEwODIsLT
 E0MTA1ODg4MTUsNTI3MzI5NzgxLDE1NDYxNDgxNjYsLTExNjkw

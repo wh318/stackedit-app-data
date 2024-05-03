@@ -1255,9 +1255,9 @@ animation:
 
 
 ### LESS
-
-
-
+- Less是一个 **CSS预处理器**，Less文件后缀是 **.less**。扩充了CSS语言，使CSS具备一定的逻辑性、计算能力
+- **注意：浏览器不识别LesS代码，目前阶段，网页要引入对应的CSS文件**
+- VS Code插件：**Easy LESS**，保存less文件后 **自动** 生成对应的 **CSS文件**
 
 
 # 项目实践
@@ -1364,11 +1364,11 @@ animation:
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI2OTQ0OTY4LDEzNDIxMjIzMTQsNTcxNz
-k1MTYxLC01MTcyODg4MzcsOTYzNzAxMDgyLC0xNDEwNTg4ODE1
-LDUyNzMyOTc4MSwxNTQ2MTQ4MTY2LC0xMTY5MDgxNzQ0LDE2Mj
-c3NTkzMzgsLTEwMzEwNjIwMzMsMTA2NDUwMzI0MiwxNTYxODIz
-NDc0LDE0NTIzNDAwNzIsODc0NzYxNjk1LDE3Mzg2MzUzMzMsMT
-M0NDUwOTIwNiwtMjAwNjI1Mzg5NCwxNjQ3NjYzNTQ3LC00MDg0
-Mzc1OTRdfQ==
+eyJoaXN0b3J5IjpbMTE5NjEzODgyNSwxMzQyMTIyMzE0LDU3MT
+c5NTE2MSwtNTE3Mjg4ODM3LDk2MzcwMTA4MiwtMTQxMDU4ODgx
+NSw1MjczMjk3ODEsMTU0NjE0ODE2NiwtMTE2OTA4MTc0NCwxNj
+I3NzU5MzM4LC0xMDMxMDYyMDMzLDEwNjQ1MDMyNDIsMTU2MTgy
+MzQ3NCwxNDUyMzQwMDcyLDg3NDc2MTY5NSwxNzM4NjM1MzMzLD
+EzNDQ1MDkyMDYsLTIwMDYyNTM4OTQsMTY0NzY2MzU0NywtNDA4
+NDM3NTk0XX0=
 -->

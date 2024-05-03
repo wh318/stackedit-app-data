@@ -1325,6 +1325,9 @@ animation:
 	}
 	```
 
+## less-变量
+概念：**容器，存储数据**
+作用：存储数据，方便 **使用** 和 **修改**
 
 
 
@@ -1432,7 +1435,7 @@ animation:
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwODUzODk4MiwtMTI2OTk0OTExNiwxOT
+eyJoaXN0b3J5IjpbLTc3OTY3OTg1MSwtMTI2OTk0OTExNiwxOT
 Q2MTE4MDYwLC0xMTI4NjUyNjg4LDIwMDg3NjcwNzcsMTY0NDM4
 MDExNiwxMzQyMTIyMzE0LDU3MTc5NTE2MSwtNTE3Mjg4ODM3LD
 k2MzcwMTA4MiwtMTQxMDU4ODgxNSw1MjczMjk3ODEsMTU0NjE0

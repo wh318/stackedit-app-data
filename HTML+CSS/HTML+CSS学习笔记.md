@@ -1172,8 +1172,11 @@ animation:
 </body>
 </html>
 ```
+
 - **width=device-width: 视口宽度=设备宽度**
+
 - initial-scale=1.0: 缩放1倍（不缩放）
+
 ## 二倍图
 概念：设计稿里面每一个元素的尺寸的 **倍数**
 作用：防止图片在高分辨率屏幕下模糊失真
@@ -1286,11 +1289,11 @@ animation:
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjcwNjY0OTYsMTU0NjE0ODE2NiwtMT
-E2OTA4MTc0NCwxNjI3NzU5MzM4LC0xMDMxMDYyMDMzLDEwNjQ1
-MDMyNDIsMTU2MTgyMzQ3NCwxNDUyMzQwMDcyLDg3NDc2MTY5NS
-wxNzM4NjM1MzMzLDEzNDQ1MDkyMDYsLTIwMDYyNTM4OTQsMTY0
-NzY2MzU0NywtNDA4NDM3NTk0LDEzMDk5MTI5MDYsLTE1NDA0Mj
-k3NzMsLTYwODc3MTYwMCwxNjA4NDY0MjQsNjU3MjA3NzE2LC0y
-MjM0ODY0MzZdfQ==
+eyJoaXN0b3J5IjpbMzMwMjg1OTM0LDE1NDYxNDgxNjYsLTExNj
+kwODE3NDQsMTYyNzc1OTMzOCwtMTAzMTA2MjAzMywxMDY0NTAz
+MjQyLDE1NjE4MjM0NzQsMTQ1MjM0MDA3Miw4NzQ3NjE2OTUsMT
+czODYzNTMzMywxMzQ0NTA5MjA2LC0yMDA2MjUzODk0LDE2NDc2
+NjM1NDcsLTQwODQzNzU5NCwxMzA5OTEyOTA2LC0xNTQwNDI5Nz
+czLC02MDg3NzE2MDAsMTYwODQ2NDI0LDY1NzIwNzcxNiwtMjIz
+NDg2NDM2XX0=
 -->

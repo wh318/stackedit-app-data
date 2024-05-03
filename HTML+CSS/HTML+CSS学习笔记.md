@@ -1300,7 +1300,9 @@ animation:
 			width: 100px;
 			p {
 				font-size: 20px;
-				&:hover {			/*&表示的是当前选择器，代码写到谁的大括号里面就表示谁，不会生成后代选择器*/
+				/* & 表示的是当前选择器，代码写到谁的大括号里面就表示谁，不会生成后代选择器
+				应用：配合 hover伪类或 nth-child结构伪类使用 */
+				&:hover {
 					font-size: 28px;
 				}
 			}
@@ -1430,11 +1432,11 @@ animation:
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjk5NDkxMTYsMTk0NjExODA2MCwtMT
-EyODY1MjY4OCwyMDA4NzY3MDc3LDE2NDQzODAxMTYsMTM0MjEy
-MjMxNCw1NzE3OTUxNjEsLTUxNzI4ODgzNyw5NjM3MDEwODIsLT
-E0MTA1ODg4MTUsNTI3MzI5NzgxLDE1NDYxNDgxNjYsLTExNjkw
-ODE3NDQsMTYyNzc1OTMzOCwtMTAzMTA2MjAzMywxMDY0NTAzMj
-QyLDE1NjE4MjM0NzQsMTQ1MjM0MDA3Miw4NzQ3NjE2OTUsMTcz
-ODYzNTMzM119
+eyJoaXN0b3J5IjpbMTEwODUzODk4MiwtMTI2OTk0OTExNiwxOT
+Q2MTE4MDYwLC0xMTI4NjUyNjg4LDIwMDg3NjcwNzcsMTY0NDM4
+MDExNiwxMzQyMTIyMzE0LDU3MTc5NTE2MSwtNTE3Mjg4ODM3LD
+k2MzcwMTA4MiwtMTQxMDU4ODgxNSw1MjczMjk3ODEsMTU0NjE0
+ODE2NiwtMTE2OTA4MTc0NCwxNjI3NzU5MzM4LC0xMDMxMDYyMD
+MzLDEwNjQ1MDMyNDIsMTU2MTgyMzQ3NCwxNDUyMzQwMDcyLDg3
+NDc2MTY5NV19
 -->

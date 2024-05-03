@@ -1199,16 +1199,14 @@ animation:
 2. 使用rem单位书写尺寸
 
 ### HTML标签设置字号
-- 手机屏幕大小不同，分辨率不同
+- 手机屏幕大小不同，分辨率不同，如何设置不同的HTML标签字号？
 	- 媒体查询
+		- 媒体查询能够 **检测视口的宽度**，然后编专差 **异化的CSS徉式**
+		- 当某个 **条件成立，执行对应的CSS样式**
+		- ```css
+		```
 
 
-
-如何设置不同的HTML标签字号？
-▣
-媒体查询
-媒体查询能够检测视口的宽度，然后编专差异化的CSS徉式
-当某个条件成立，执行对应的CSS样式
 
 # 项目实践
 
@@ -1314,11 +1312,11 @@ animation:
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMTE5MTY0NiwtMTQxMDU4ODgxNSw1Mj
-czMjk3ODEsMTU0NjE0ODE2NiwtMTE2OTA4MTc0NCwxNjI3NzU5
-MzM4LC0xMDMxMDYyMDMzLDEwNjQ1MDMyNDIsMTU2MTgyMzQ3NC
-wxNDUyMzQwMDcyLDg3NDc2MTY5NSwxNzM4NjM1MzMzLDEzNDQ1
-MDkyMDYsLTIwMDYyNTM4OTQsMTY0NzY2MzU0NywtNDA4NDM3NT
-k0LDEzMDk5MTI5MDYsLTE1NDA0Mjk3NzMsLTYwODc3MTYwMCwx
-NjA4NDY0MjRdfQ==
+eyJoaXN0b3J5IjpbLTIwNjUwNjIyNzEsLTE0MTA1ODg4MTUsNT
+I3MzI5NzgxLDE1NDYxNDgxNjYsLTExNjkwODE3NDQsMTYyNzc1
+OTMzOCwtMTAzMTA2MjAzMywxMDY0NTAzMjQyLDE1NjE4MjM0Nz
+QsMTQ1MjM0MDA3Miw4NzQ3NjE2OTUsMTczODYzNTMzMywxMzQ0
+NTA5MjA2LC0yMDA2MjUzODk0LDE2NDc2NjM1NDcsLTQwODQzNz
+U5NCwxMzA5OTEyOTA2LC0xNTQwNDI5NzczLC02MDg3NzE2MDAs
+MTYwODQ2NDI0XX0=
 -->

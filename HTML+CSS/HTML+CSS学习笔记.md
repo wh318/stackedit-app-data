@@ -1253,7 +1253,11 @@ animation:
 
 
 ### vw
-什么是
+什么是vw
+- 相对单位
+- 相对 **视口的尺寸** 计算结果
+- vw：**v**iewport **w**idth
+- vh：**v**iewport **h**e
 
 
 # LESS（前期学习）
@@ -1477,7 +1481,7 @@ animation:
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwOTcxNzE1NCwxNTQ5NDYwMDIyLDExMj
+eyJoaXN0b3J5IjpbMTA4NDU2MTQzNywxNTQ5NDYwMDIyLDExMj
 g4NjgxNzUsNzU3MDgwNTk0LC0xNjI0ODQ2NzUzLC0xMjY5OTQ5
 MTE2LDE5NDYxMTgwNjAsLTExMjg2NTI2ODgsMjAwODc2NzA3Ny
 wxNjQ0MzgwMTE2LDEzNDIxMjIzMTQsNTcxNzk1MTYxLC01MTcy

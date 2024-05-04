@@ -1257,7 +1257,9 @@ animation:
 - 相对单位
 - 相对 **视口的尺寸** 计算结果
 - vw：**v**iewport **w**idth
-- vh：**v**iewport **h**e
+	- 1vw = **1/100** 视口宽度
+- vh：**v**iewport **h**eight
+	- 1vh = **1/100** 视口高度
 
 
 # LESS（前期学习）
@@ -1481,11 +1483,11 @@ animation:
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NDU2MTQzNywxNTQ5NDYwMDIyLDExMj
-g4NjgxNzUsNzU3MDgwNTk0LC0xNjI0ODQ2NzUzLC0xMjY5OTQ5
-MTE2LDE5NDYxMTgwNjAsLTExMjg2NTI2ODgsMjAwODc2NzA3Ny
-wxNjQ0MzgwMTE2LDEzNDIxMjIzMTQsNTcxNzk1MTYxLC01MTcy
-ODg4MzcsOTYzNzAxMDgyLC0xNDEwNTg4ODE1LDUyNzMyOTc4MS
-wxNTQ2MTQ4MTY2LC0xMTY5MDgxNzQ0LDE2Mjc3NTkzMzgsLTEw
-MzEwNjIwMzNdfQ==
+eyJoaXN0b3J5IjpbOTEzNjc5ODA1LDE1NDk0NjAwMjIsMTEyOD
+g2ODE3NSw3NTcwODA1OTQsLTE2MjQ4NDY3NTMsLTEyNjk5NDkx
+MTYsMTk0NjExODA2MCwtMTEyODY1MjY4OCwyMDA4NzY3MDc3LD
+E2NDQzODAxMTYsMTM0MjEyMjMxNCw1NzE3OTUxNjEsLTUxNzI4
+ODgzNyw5NjM3MDEwODIsLTE0MTA1ODg4MTUsNTI3MzI5NzgxLD
+E1NDYxNDgxNjYsLTExNjkwODE3NDQsMTYyNzc1OTMzOCwtMTAz
+MTA2MjAzM119
 -->

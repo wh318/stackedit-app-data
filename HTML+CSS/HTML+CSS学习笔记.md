@@ -1187,7 +1187,7 @@ animation:
 	- flex布局
 - 等比适配：宽高等比适配
 	- [rem](#rem)
-	- vw
+	- [vw](#vw)
 
 ### rem
 - rem单位，是 **相对单位**
@@ -1251,6 +1251,8 @@ animation:
 2. rem单位的尺寸
 	- rem单位的尺寸 = **px单位数值 / 基准根字号**
 
+
+### vw
 
 
 
@@ -1368,6 +1370,9 @@ animation:
 写法：在 less 文件 **第一行** 添加： **`// out: false`**
 
 
+
+
+
 # 项目实践
 
 ## 准备工作（创建目录）
@@ -1472,11 +1477,11 @@ animation:
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0OTQ2MDAyMiwxMTI4ODY4MTc1LDc1Nz
-A4MDU5NCwtMTYyNDg0Njc1MywtMTI2OTk0OTExNiwxOTQ2MTE4
-MDYwLC0xMTI4NjUyNjg4LDIwMDg3NjcwNzcsMTY0NDM4MDExNi
-wxMzQyMTIyMzE0LDU3MTc5NTE2MSwtNTE3Mjg4ODM3LDk2Mzcw
-MTA4MiwtMTQxMDU4ODgxNSw1MjczMjk3ODEsMTU0NjE0ODE2Ni
-wtMTE2OTA4MTc0NCwxNjI3NzU5MzM4LC0xMDMxMDYyMDMzLDEw
-NjQ1MDMyNDJdfQ==
+eyJoaXN0b3J5IjpbODgwMDUyMjEsMTU0OTQ2MDAyMiwxMTI4OD
+Y4MTc1LDc1NzA4MDU5NCwtMTYyNDg0Njc1MywtMTI2OTk0OTEx
+NiwxOTQ2MTE4MDYwLC0xMTI4NjUyNjg4LDIwMDg3NjcwNzcsMT
+Y0NDM4MDExNiwxMzQyMTIyMzE0LDU3MTc5NTE2MSwtNTE3Mjg4
+ODM3LDk2MzcwMTA4MiwtMTQxMDU4ODgxNSw1MjczMjk3ODEsMT
+U0NjE0ODE2NiwtMTE2OTA4MTc0NCwxNjI3NzU5MzM4LC0xMDMx
+MDYyMDMzXX0=
 -->

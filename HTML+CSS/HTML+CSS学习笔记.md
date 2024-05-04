@@ -1263,6 +1263,7 @@ animation:
 
 vw单位的尺寸 = px单位尺寸 / (1/100)视口的宽度或高度
 
+vw和vh **不能** 混用，vh是1/100视口高度，全面屏视口高度尺寸大，如果混用可能会导致盒子变形
 
 # LESS（前期学习）
 - Less是一个 **CSS预处理器**，Less文件后缀是 **.less**。扩充了CSS语言，使CSS具备一定的逻辑性、计算能力
@@ -1485,11 +1486,11 @@ vw单位的尺寸 = px单位尺寸 / (1/100)视口的宽度或高度
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MjEzMjIyLDkxMzY3OTgwNSwxNTQ5ND
-YwMDIyLDExMjg4NjgxNzUsNzU3MDgwNTk0LC0xNjI0ODQ2NzUz
-LC0xMjY5OTQ5MTE2LDE5NDYxMTgwNjAsLTExMjg2NTI2ODgsMj
-AwODc2NzA3NywxNjQ0MzgwMTE2LDEzNDIxMjIzMTQsNTcxNzk1
-MTYxLC01MTcyODg4MzcsOTYzNzAxMDgyLC0xNDEwNTg4ODE1LD
-UyNzMyOTc4MSwxNTQ2MTQ4MTY2LC0xMTY5MDgxNzQ0LDE2Mjc3
-NTkzMzhdfQ==
+eyJoaXN0b3J5IjpbLTQ0NTkyNDc5Myw5MTM2Nzk4MDUsMTU0OT
+Q2MDAyMiwxMTI4ODY4MTc1LDc1NzA4MDU5NCwtMTYyNDg0Njc1
+MywtMTI2OTk0OTExNiwxOTQ2MTE4MDYwLC0xMTI4NjUyNjg4LD
+IwMDg3NjcwNzcsMTY0NDM4MDExNiwxMzQyMTIyMzE0LDU3MTc5
+NTE2MSwtNTE3Mjg4ODM3LDk2MzcwMTA4MiwtMTQxMDU4ODgxNS
+w1MjczMjk3ODEsMTU0NjE0ODE2NiwtMTE2OTA4MTc0NCwxNjI3
+NzU5MzM4XX0=
 -->

@@ -1344,8 +1344,8 @@ Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大
 
 - 组件
 	1. 引入样式表（css）
-	2. 引入 js 文件
-	3. 复制结构，
+	2. 引入 js 文件（非必要，无动画时可以不引入）
+	3. 复制结构，修改内容
 
 
 
@@ -1571,7 +1571,7 @@ Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NjgyMTkxNSwtMTM0MjUzMjgwMCwtMT
+eyJoaXN0b3J5IjpbMTI0NTIxMzk5NSwtMTM0MjUzMjgwMCwtMT
 A4OTMwMDQ4MiwtMTI3ODE1NTQ4MSwyMjg1MjM3MjAsLTE4NzI3
 Mjk3OTMsLTM3MjU3MjM0MSwxNzk0NzY1NzM2LC0xMTA0MjYyNT
 E2LC05MzczMDAwMDAsLTEwMTYzODA3ODUsMTIxNjI1OTk3Nywt

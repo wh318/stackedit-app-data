@@ -1342,7 +1342,8 @@ Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大
 		<table><tr align="left"><th width="150" bgcolor="#ddAedd">Class</th><th width="150" bgcolor="#ddAedd">Heading</th><th width="150" bgcolor="#ddAedd">Heading</th></tr><tr align="left"><td><i><b>Default</b></i></td><td><i><b>cell</b></i></td><td><i><b>cell</b></i></td></tr><tr align="left" bgcolor="#0D6EFD"><td><i><b>primary</b></i></td><td><i><b>cell</b></i></td><td><i><b>cell</b></i></td></tr><tr align="left" bgcolor="#6C757D"><td><i><b>secondary</b></i></td><td><i><b>cell</b></i></td><td><i><b>cell</b></i></td></tr><tr align="left" bgcolor="#198754"><td><i><b>success</b></i></td><td><i><b>cell</b></i></td><td><i><b>cell</b></i></td></tr><tr align="left" bgcolor="#DC3545"><td><i><b>danger</b></i></td><td><i><b>cell</b></i></td><td><i><b>cell</b></i></td></tr><tr align="left" bgcolor="#FFC008"><td><i><b>warning</b></i></td><td><i><b>cell</b></i></td><td><i><b>cell</b></i></td></tr><tr align="left" bgcolor="#11CAF0"><td><i><b>info</b></i></td><td><i><b>cell</b></i></td><td><i><b>cell</b></i></td></tr><tr align="left" bgcolor="#F8F9FA"><td><i><b>light</b></i></td><td><i><b>cell</b></i></td><td><i><b>cell</b></i></td></tr><tr align="left" bgcolor="#212529"><td><font color="#ffffff"><i><b>dark</b></i></font></td><td><font color="#ffffff"><i><b>cell</b></i></font></td><td><font color="#ffffff"><i><b>cell</b></i></font></td></tr></table>
 	- ......
 
-- 
+- 组件
+	- 
 
 
 
@@ -1568,11 +1569,11 @@ Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MDg1MTc5NSwtMTM0MjUzMjgwMCwtMT
-A4OTMwMDQ4MiwtMTI3ODE1NTQ4MSwyMjg1MjM3MjAsLTE4NzI3
-Mjk3OTMsLTM3MjU3MjM0MSwxNzk0NzY1NzM2LC0xMTA0MjYyNT
-E2LC05MzczMDAwMDAsLTEwMTYzODA3ODUsMTIxNjI1OTk3Nywt
-MTU5OTQ4MDI1NywtNTY4NzI1NzYyLC05MzI5NDQ0NDIsLTE5Nz
-g2MTc0MSwtNjM4MzE4NTgzLDQ5MTQ2ODM1NiwtMTk4MjgyOTMz
-Miw5MTM2Nzk4MDVdfQ==
+eyJoaXN0b3J5IjpbLTExNTc2NjcwMDYsLTEzNDI1MzI4MDAsLT
+EwODkzMDA0ODIsLTEyNzgxNTU0ODEsMjI4NTIzNzIwLC0xODcy
+NzI5NzkzLC0zNzI1NzIzNDEsMTc5NDc2NTczNiwtMTEwNDI2Mj
+UxNiwtOTM3MzAwMDAwLC0xMDE2MzgwNzg1LDEyMTYyNTk5Nzcs
+LTE1OTk0ODAyNTcsLTU2ODcyNTc2MiwtOTMyOTQ0NDQyLC0xOT
+c4NjE3NDEsLTYzODMxODU4Myw0OTE0NjgzNTYsLTE5ODI4Mjkz
+MzIsOTEzNjc5ODA1XX0=
 -->

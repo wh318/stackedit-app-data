@@ -1271,7 +1271,11 @@ vw和vh **不能** 混用，vh是1/100视口高度，**全面屏视口高度尺�
 
 解决方案
 1. 媒体查询
+	- **max-width**：最大宽度
+	- **min-width**：最小宽度
+	```css
 	
+	```
 2. Bootstrap
 
 
@@ -1498,11 +1502,11 @@ vw和vh **不能** 混用，vh是1/100视口高度，**全面屏视口高度尺�
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgzNDExMDIsNDkxNDY4MzU2LC0xOTgyOD
-I5MzMyLDkxMzY3OTgwNSwxNTQ5NDYwMDIyLDExMjg4NjgxNzUs
-NzU3MDgwNTk0LC0xNjI0ODQ2NzUzLC0xMjY5OTQ5MTE2LDE5ND
-YxMTgwNjAsLTExMjg2NTI2ODgsMjAwODc2NzA3NywxNjQ0Mzgw
-MTE2LDEzNDIxMjIzMTQsNTcxNzk1MTYxLC01MTcyODg4MzcsOT
-YzNzAxMDgyLC0xNDEwNTg4ODE1LDUyNzMyOTc4MSwxNTQ2MTQ4
-MTY2XX0=
+eyJoaXN0b3J5IjpbLTYzODMxODU4Myw0OTE0NjgzNTYsLTE5OD
+I4MjkzMzIsOTEzNjc5ODA1LDE1NDk0NjAwMjIsMTEyODg2ODE3
+NSw3NTcwODA1OTQsLTE2MjQ4NDY3NTMsLTEyNjk5NDkxMTYsMT
+k0NjExODA2MCwtMTEyODY1MjY4OCwyMDA4NzY3MDc3LDE2NDQz
+ODAxMTYsMTM0MjEyMjMxNCw1NzE3OTUxNjEsLTUxNzI4ODgzNy
+w5NjM3MDEwODIsLTE0MTA1ODg4MTUsNTI3MzI5NzgxLDE1NDYx
+NDgxNjZdfQ==
 -->

@@ -1330,8 +1330,8 @@ Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大
 ### 全局样式
 - Button类
 	- btn：默认样式
-	- btn-success:成功
-	- btn-warning:警告
+	- btn-success：成功
+	- btn-warning：警告
 	- ......
 	- 按钮尺寸：btn-lg/btn-sm
 
@@ -1558,11 +1558,11 @@ Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzA1NjM1NzYsLTE4NzI3Mjk3OTMsLT
-M3MjU3MjM0MSwxNzk0NzY1NzM2LC0xMTA0MjYyNTE2LC05Mzcz
-MDAwMDAsLTEwMTYzODA3ODUsMTIxNjI1OTk3NywtMTU5OTQ4MD
-I1NywtNTY4NzI1NzYyLC05MzI5NDQ0NDIsLTE5Nzg2MTc0MSwt
-NjM4MzE4NTgzLDQ5MTQ2ODM1NiwtMTk4MjgyOTMzMiw5MTM2Nz
-k4MDUsMTU0OTQ2MDAyMiwxMTI4ODY4MTc1LDc1NzA4MDU5NCwt
-MTYyNDg0Njc1M119
+eyJoaXN0b3J5IjpbMjI4NTIzNzIwLC0xODcyNzI5NzkzLC0zNz
+I1NzIzNDEsMTc5NDc2NTczNiwtMTEwNDI2MjUxNiwtOTM3MzAw
+MDAwLC0xMDE2MzgwNzg1LDEyMTYyNTk5NzcsLTE1OTk0ODAyNT
+csLTU2ODcyNTc2MiwtOTMyOTQ0NDQyLC0xOTc4NjE3NDEsLTYz
+ODMxODU4Myw0OTE0NjgzNTYsLTE5ODI4MjkzMzIsOTEzNjc5OD
+A1LDE1NDk0NjAwMjIsMTEyODg2ODE3NSw3NTcwODA1OTQsLTE2
+MjQ4NDY3NTNdfQ==
 -->

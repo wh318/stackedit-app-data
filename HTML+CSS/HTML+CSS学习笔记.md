@@ -1339,6 +1339,7 @@ Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大
 	- table：默认样式
 	- table-striped：隔行变色
 	- table-success：表格颜色
+		- 
 	- ......
 
 
@@ -1563,11 +1564,11 @@ Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA5MzUwMjI2LDIyODUyMzcyMCwtMTg3Mj
-cyOTc5MywtMzcyNTcyMzQxLDE3OTQ3NjU3MzYsLTExMDQyNjI1
-MTYsLTkzNzMwMDAwMCwtMTAxNjM4MDc4NSwxMjE2MjU5OTc3LC
-0xNTk5NDgwMjU3LC01Njg3MjU3NjIsLTkzMjk0NDQ0MiwtMTk3
-ODYxNzQxLC02MzgzMTg1ODMsNDkxNDY4MzU2LC0xOTgyODI5Mz
-MyLDkxMzY3OTgwNSwxNTQ5NDYwMDIyLDExMjg4NjgxNzUsNzU3
-MDgwNTk0XX0=
+eyJoaXN0b3J5IjpbLTEyNzgxNTU0ODEsMjI4NTIzNzIwLC0xOD
+cyNzI5NzkzLC0zNzI1NzIzNDEsMTc5NDc2NTczNiwtMTEwNDI2
+MjUxNiwtOTM3MzAwMDAwLC0xMDE2MzgwNzg1LDEyMTYyNTk5Nz
+csLTE1OTk0ODAyNTcsLTU2ODcyNTc2MiwtOTMyOTQ0NDQyLC0x
+OTc4NjE3NDEsLTYzODMxODU4Myw0OTE0NjgzNTYsLTE5ODI4Mj
+kzMzIsOTEzNjc5ODA1LDE1NDk0NjAwMjIsMTEyODg2ODE3NSw3
+NTcwODA1OTRdfQ==
 -->

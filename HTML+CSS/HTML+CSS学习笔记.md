@@ -1286,6 +1286,8 @@ vw和vh **不能** 混用，vh是1/100视口高度，**全面屏视口高度尺�
 		```css
 		@media 关键词 媒体类型 and (媒体特性) { css代码 }
 		```
+	- 媒体类型：
+		- yong
 2. Bootstrap
 
 
@@ -1512,11 +1514,11 @@ vw和vh **不能** 混用，vh是1/100视口高度，**全面屏视口高度尺�
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTczMDQyNjEsLTE5Nzg2MTc0MSwtNj
-M4MzE4NTgzLDQ5MTQ2ODM1NiwtMTk4MjgyOTMzMiw5MTM2Nzk4
-MDUsMTU0OTQ2MDAyMiwxMTI4ODY4MTc1LDc1NzA4MDU5NCwtMT
-YyNDg0Njc1MywtMTI2OTk0OTExNiwxOTQ2MTE4MDYwLC0xMTI4
-NjUyNjg4LDIwMDg3NjcwNzcsMTY0NDM4MDExNiwxMzQyMTIyMz
-E0LDU3MTc5NTE2MSwtNTE3Mjg4ODM3LDk2MzcwMTA4MiwtMTQx
-MDU4ODgxNV19
+eyJoaXN0b3J5IjpbLTQzMTMzNzM1OSwtMTk3ODYxNzQxLC02Mz
+gzMTg1ODMsNDkxNDY4MzU2LC0xOTgyODI5MzMyLDkxMzY3OTgw
+NSwxNTQ5NDYwMDIyLDExMjg4NjgxNzUsNzU3MDgwNTk0LC0xNj
+I0ODQ2NzUzLC0xMjY5OTQ5MTE2LDE5NDYxMTgwNjAsLTExMjg2
+NTI2ODgsMjAwODc2NzA3NywxNjQ0MzgwMTE2LDEzNDIxMjIzMT
+QsNTcxNzk1MTYxLC01MTcyODg4MzcsOTYzNzAxMDgyLC0xNDEw
+NTg4ODE1XX0=
 -->

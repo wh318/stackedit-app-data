@@ -1320,14 +1320,8 @@ Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大
 ### 栅格系统
 栅格化是指将整个网页的宽度分成 **12** 等份，每个盒子占用的对应的份数
 例如：一行排 **4** 个盒子，则每个盒子占 **3份** 即可（12/4=3)
-Breakpoint|Class infix|Dimensions
-:-:|:-:|:-:
-Extra small|None|<576px
-Small|sm|≥576px
-Medium|md|≥768px
-Large|lg|≥992px
-Extra large|xl|≥1200px
-Extra extra large|xxl|≥1400px
+<table><tr align="center"><th width="150" bgcolor="#ddAedd">网页大小</th><th width="150" bgcolor="#ddAedd">类中插值</th><th width="250" bgcolor="#ddAedd">宽度尺寸</th></tr><tr align="center"><td><i>Extra small</i></td><td><i>None</i></td><td><i><576px</i></td></tr><tr align="center"><td><i>Small</i></td><td><i>sm</i></td><td><i>≥576px and <768px</i></td></tr><tr align="center"><td><i>Medium</i></td><td><i>md</i></td><td><i>≥768px and <992px</i></td></tr><tr align="center"><td><i>Large</i></td><td><i>lg</i></td><td><i>≥992px and <1200px</i></td></tr><tr align="center"><td><i>Extra large</i></td><td><i>xl</i></td><td><i>≥1200px <1400px</i></td></tr><tr align="center"><td><i>Extra extra large</i></td><td><i>xxl</i></td><td><i>≥1400px</i></td></tr></table>
+
 
 # LESS（前期学习）
 - Less是一个 **CSS预处理器**，Less文件后缀是 **.less**。扩充了CSS语言，使CSS具备一定的逻辑性、计算能力
@@ -1550,11 +1544,11 @@ Extra extra large|xxl|≥1400px
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNzMwMDAwMCwtMTAxNjM4MDc4NSwxMj
-E2MjU5OTc3LC0xNTk5NDgwMjU3LC01Njg3MjU3NjIsLTkzMjk0
-NDQ0MiwtMTk3ODYxNzQxLC02MzgzMTg1ODMsNDkxNDY4MzU2LC
-0xOTgyODI5MzMyLDkxMzY3OTgwNSwxNTQ5NDYwMDIyLDExMjg4
-NjgxNzUsNzU3MDgwNTk0LC0xNjI0ODQ2NzUzLC0xMjY5OTQ5MT
-E2LDE5NDYxMTgwNjAsLTExMjg2NTI2ODgsMjAwODc2NzA3Nywx
-NjQ0MzgwMTE2XX0=
+eyJoaXN0b3J5IjpbNzU5NTgzNDkyLC05MzczMDAwMDAsLTEwMT
+YzODA3ODUsMTIxNjI1OTk3NywtMTU5OTQ4MDI1NywtNTY4NzI1
+NzYyLC05MzI5NDQ0NDIsLTE5Nzg2MTc0MSwtNjM4MzE4NTgzLD
+Q5MTQ2ODM1NiwtMTk4MjgyOTMzMiw5MTM2Nzk4MDUsMTU0OTQ2
+MDAyMiwxMTI4ODY4MTc1LDc1NzA4MDU5NCwtMTYyNDg0Njc1My
+wtMTI2OTk0OTExNiwxOTQ2MTE4MDYwLC0xMTI4NjUyNjg4LDIw
+MDg3NjcwNzddfQ==
 -->

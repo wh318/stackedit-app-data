@@ -1318,8 +1318,8 @@ Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大
 	直接在元素中添加相应的 class
 
 ### 栅格系统
-
-
+栅格化是指将整个网页的宽度分成 **12** 等份，每个盒子占用的对应的份数
+例如：一行排 **4** 个盒子，则每个盒子占 **3份** 即可（12/4=3)
 
 
 # LESS（前期学习）
@@ -1543,7 +1543,7 @@ Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjYxMjUwNjEsMTIxNjI1OTk3NywtMT
+eyJoaXN0b3J5IjpbLTEwMTYzODA3ODUsMTIxNjI1OTk3NywtMT
 U5OTQ4MDI1NywtNTY4NzI1NzYyLC05MzI5NDQ0NDIsLTE5Nzg2
 MTc0MSwtNjM4MzE4NTgzLDQ5MTQ2ODM1NiwtMTk4MjgyOTMzMi
 w5MTM2Nzk4MDUsMTU0OTQ2MDAyMiwxMTI4ODY4MTc1LDc1NzA4

@@ -1332,25 +1332,25 @@ Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大
 
 
 <table>
-  <tr style="align:left; background-color:#ddAedd;">
-    <th style="width:150px;"></th>
-    <th style="width:100px;">xs<br><576px</th>
-    <th style="width:100px;">sm</th>
-    <th style="width:100px;">md</th>
-    <th style="width:100px;">lg</th>
-    <th style="width:100px;">xl</th>
-    <th style="width:100px;">xxl</th>
-  </tr>
-  <tr style="align:left;">
-    <td><i>版心 <span style="font-size:small; color:red;">max-width</span></i></td>
+<tr align="left" bgcolor="#ddAedd">
+    <th width="150" style="font-size: 8px;"></th>
+    <th width="100" style="font-size: smaller;">xs<br><576px</th>
+    <th width="100" style="font-size: smaller;">sm</th>
+    <th width="100" style="font-size: smaller;">md</th>
+    <th width="100" style="font-size: smaller;">lg</th>
+    <th width="100" style="font-size: smaller;">xl</th>
+    <th width="100" style="font-size: smaller;">xxl</th>
+</tr>
+<tr align="left">
+    <td><i>版心 <font size="2" color="red">max-width</font></i></td>
     <td><i>None(auto)</i></td>
     <td><i>540px</i></td>
     <td><i>720px</i></td>
     <td><i>960px</i></td>
     <td><i>1140px</i></td>
     <td><i>1320px</i></td>
-  </tr>
-  <tr style="align:left;">
+</tr>
+<tr align="left">
     <td><i>类前缀</i></td>
     <td><i>.col-</i></td>
     <td><i>.col-sm-</i></td>
@@ -1358,8 +1358,9 @@ Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大
     <td><i>.col-lg-</i></td>
     <td><i>.col-xl-</i></td>
     <td><i>.col-xxl-</i></td>
-  </tr>
+</tr>
 </table>
+
 
 
 # LESS（前期学习）
@@ -1583,11 +1584,11 @@ Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MjU3MjM0MSwxNzk0NzY1NzM2LC0xMT
-A0MjYyNTE2LC05MzczMDAwMDAsLTEwMTYzODA3ODUsMTIxNjI1
-OTk3NywtMTU5OTQ4MDI1NywtNTY4NzI1NzYyLC05MzI5NDQ0ND
-IsLTE5Nzg2MTc0MSwtNjM4MzE4NTgzLDQ5MTQ2ODM1NiwtMTk4
-MjgyOTMzMiw5MTM2Nzk4MDUsMTU0OTQ2MDAyMiwxMTI4ODY4MT
-c1LDc1NzA4MDU5NCwtMTYyNDg0Njc1MywtMTI2OTk0OTExNiwx
-OTQ2MTE4MDYwXX0=
+eyJoaXN0b3J5IjpbLTEyMDA3MjEyNTgsLTM3MjU3MjM0MSwxNz
+k0NzY1NzM2LC0xMTA0MjYyNTE2LC05MzczMDAwMDAsLTEwMTYz
+ODA3ODUsMTIxNjI1OTk3NywtMTU5OTQ4MDI1NywtNTY4NzI1Nz
+YyLC05MzI5NDQ0NDIsLTE5Nzg2MTc0MSwtNjM4MzE4NTgzLDQ5
+MTQ2ODM1NiwtMTk4MjgyOTMzMiw5MTM2Nzk4MDUsMTU0OTQ2MD
+AyMiwxMTI4ODY4MTc1LDc1NzA4MDU5NCwtMTYyNDg0Njc1Mywt
+MTI2OTk0OTExNl19
 -->

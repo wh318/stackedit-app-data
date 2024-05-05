@@ -1325,7 +1325,7 @@ Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大
 
 - 版心
 <table>
-<tr onresize="4" align="left"><th width="150" bgcolor="#ddAedd"></th><th width="100" bgcolor="#ddAedd">xs<br>&lt;576px</th><th width="100" bgcolor="#ddAedd">sm<br>&lt;576px</th><th width="100" bgcolor="#ddAedd">md<br>&;576px</th><th width="100" bgcolor="#ddAedd">lg<br>&lt;576px</th><th width="100" bgcolor="#ddAedd">xl<br>&lt;576px</th><th width="100" bgcolor="#ddAedd">xxl<br>&lt;576px</th></tr>
+<tr onresize="4" align="left"><th width="150" bgcolor="#ddAedd"></th><th width="100" bgcolor="#ddAedd">xs<br>&lt;576px</th><th width="100" bgcolor="#ddAedd">sm<br>&gt;576px</th><th width="100" bgcolor="#ddAedd">md<br>&lt;576px</th><th width="100" bgcolor="#ddAedd">lg<br>&lt;576px</th><th width="100" bgcolor="#ddAedd">xl<br>&lt;576px</th><th width="100" bgcolor="#ddAedd">xxl<br>&lt;576px</th></tr>
 <tr align="left"><td><i>版心 <font size="2" color="red">max-width</font></i></td><td><i>None(auto)</i></td><td><i>540px</i></td><td><i>720px</i></td><td><i>960px</i></td><td><i>1140px</i></td><td><i>1320px</i></td></tr>
 <tr align="left"><td><i>类前缀</i></td><td><i>.col-</i></td><td><i>.col-sm-</i></td><td><i>.col-md-</i></td><td><i>.col-lg-</i></td><td><i>.col-xl-</i></td><td><i>.col-xxl-</i></td></tr>
 </table>
@@ -1554,11 +1554,11 @@ Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQwNTU3Mzk0LC0zNzI1NzIzNDEsMTc5ND
-c2NTczNiwtMTEwNDI2MjUxNiwtOTM3MzAwMDAwLC0xMDE2Mzgw
-Nzg1LDEyMTYyNTk5NzcsLTE1OTk0ODAyNTcsLTU2ODcyNTc2Mi
-wtOTMyOTQ0NDQyLC0xOTc4NjE3NDEsLTYzODMxODU4Myw0OTE0
-NjgzNTYsLTE5ODI4MjkzMzIsOTEzNjc5ODA1LDE1NDk0NjAwMj
-IsMTEyODg2ODE3NSw3NTcwODA1OTQsLTE2MjQ4NDY3NTMsLTEy
-Njk5NDkxMTZdfQ==
+eyJoaXN0b3J5IjpbLTExODA2Mjg0NzUsLTM3MjU3MjM0MSwxNz
+k0NzY1NzM2LC0xMTA0MjYyNTE2LC05MzczMDAwMDAsLTEwMTYz
+ODA3ODUsMTIxNjI1OTk3NywtMTU5OTQ4MDI1NywtNTY4NzI1Nz
+YyLC05MzI5NDQ0NDIsLTE5Nzg2MTc0MSwtNjM4MzE4NTgzLDQ5
+MTQ2ODM1NiwtMTk4MjgyOTMzMiw5MTM2Nzk4MDUsMTU0OTQ2MD
+AyMiwxMTI4ODY4MTc1LDc1NzA4MDU5NCwtMTYyNDg0Njc1Mywt
+MTI2OTk0OTExNl19
 -->

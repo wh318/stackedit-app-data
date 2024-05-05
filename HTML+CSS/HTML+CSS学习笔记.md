@@ -1293,6 +1293,7 @@ vw和vh **不能** 混用，vh是1/100视口高度，**全面屏视口高度尺�
 	- 媒体特性
 		- 媒体特性主要用来描述 **媒体类型的具体特征**，如当前屏幕的宽高、分辨率、横屏或竖屏等
 		- <table><tr align="center"><th width="200" bgcolor="#ddAedd">特性名称</th><th width="250" bgcolor="#ddAedd">属性</th><th width="250" bgcolor="#ddAedd">值</th></tr><tr align="center"><td><i>视口的宽和高</i></td><td><i>width、height</i></td><td><i>数值</i></td></tr><tr align="center"><td><i><font color=red>视口最大宽或高</font></i></td><td><i><font color=red>max-width</font>、max-height</i></td><td><i>数值</i></td></tr><tr align="center"><td><i>视口最小宽或高</i></td><td><i><font color=red>min-width</font>、min-height</i></td><td><i>数值</i></td></tr><tr align="center"><td><i>屏幕方向</i></td><td><i>orientation</i></td><td><i>portrait:竖屏<br>landscape:横屏</i></td></tr></table>
+	- wai'bu
 2. Bootstrap
 
 
@@ -1519,7 +1520,7 @@ vw和vh **不能** 混用，vh是1/100视口高度，**全面屏视口高度尺�
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNzQ5ODI1NywtNTY4NzI1NzYyLC05Mz
+eyJoaXN0b3J5IjpbMTc2NjAxNzE2MSwtNTY4NzI1NzYyLC05Mz
 I5NDQ0NDIsLTE5Nzg2MTc0MSwtNjM4MzE4NTgzLDQ5MTQ2ODM1
 NiwtMTk4MjgyOTMzMiw5MTM2Nzk4MDUsMTU0OTQ2MDAyMiwxMT
 I4ODY4MTc1LDc1NzA4MDU5NCwtMTYyNDg0Njc1MywtMTI2OTk0

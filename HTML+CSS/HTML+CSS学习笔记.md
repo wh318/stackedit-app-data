@@ -1292,7 +1292,7 @@ vw和vh **不能** 混用，vh是1/100视口高度，**全面屏视口高度尺�
 		- <table><tr align="center"><th width="150" bgcolor="#ddAedd">类型名称</th><th width="150" bgcolor="#ddAedd">值</th><th width="250" bgcolor="#ddAedd">描述</th></tr><tr align="center"><td><i>屏幕</i></td><td><i>screen</i></td><td><i>带屏幕的设备</i></td></tr><tr align="center"><td><i>打印预览</i></td><td><i>print</i></td><td><i>打印预览模式</i></td></tr><tr align="center"><td><i>阅读器</i></td><td><i>speech</i></td><td><i>屏幕阅读模式</i></td></tr><tr align="center"><td><i>不区分类型</i></td><td><i>all</i></td><td><i>默认值，包括以上3种情形</i></td></tr></table>
 	- 媒体特性
 		- 媒体特性主要用来描述 **媒体类型的具体特征**，如当前屏幕的宽高、分辨率、横屏或竖屏等
-		- 
+		- <table><tr align="center"><th width="200" bgcolor="#ddAedd">特性名称</th><th width="250" bgcolor="#ddAedd">属性</th><th width="250" bgcolor="#ddAedd">值</th></tr><tr align="center"><td><i>视口的宽和高</i></td><td><i>width、height</i></td><td><i>数值</i></td></tr><tr align="center"><td><i><font color=red>视口最大宽或高</font></i></td><td><i><font color=red>max-width</font>、max-height</i></td><td><i>数值</i></td></tr><tr align="center"><td><i>视口最小宽或高</i></td><td><i><font color=red>min-width</font>、min-height</i></td><td><i>数值</i></td></tr><tr align="center"><td><i>屏幕方向</i></td><td><i>orientation</i></td><td><i>portrait:竖屏<br>landscape:横屏</i></td></tr></table>
 2. Bootstrap
 
 
@@ -1519,11 +1519,11 @@ vw和vh **不能** 混用，vh是1/100视口高度，**全面屏视口高度尺�
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2ODcyNTc2MiwtOTMyOTQ0NDQyLC0xOT
-c4NjE3NDEsLTYzODMxODU4Myw0OTE0NjgzNTYsLTE5ODI4Mjkz
-MzIsOTEzNjc5ODA1LDE1NDk0NjAwMjIsMTEyODg2ODE3NSw3NT
-cwODA1OTQsLTE2MjQ4NDY3NTMsLTEyNjk5NDkxMTYsMTk0NjEx
-ODA2MCwtMTEyODY1MjY4OCwyMDA4NzY3MDc3LDE2NDQzODAxMT
-YsMTM0MjEyMjMxNCw1NzE3OTUxNjEsLTUxNzI4ODgzNyw5NjM3
-MDEwODJdfQ==
+eyJoaXN0b3J5IjpbMTAzNzQ5ODI1NywtNTY4NzI1NzYyLC05Mz
+I5NDQ0NDIsLTE5Nzg2MTc0MSwtNjM4MzE4NTgzLDQ5MTQ2ODM1
+NiwtMTk4MjgyOTMzMiw5MTM2Nzk4MDUsMTU0OTQ2MDAyMiwxMT
+I4ODY4MTc1LDc1NzA4MDU5NCwtMTYyNDg0Njc1MywtMTI2OTk0
+OTExNiwxOTQ2MTE4MDYwLC0xMTI4NjUyNjg4LDIwMDg3NjcwNz
+csMTY0NDM4MDExNiwxMzQyMTIyMzE0LDU3MTc5NTE2MSwtNTE3
+Mjg4ODM3XX0=
 -->

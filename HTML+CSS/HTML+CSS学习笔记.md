@@ -1299,9 +1299,35 @@ vw和vh **不能** 混用，vh是1/100视口高度，**全面屏视口高度尺�
 			```
 
 2. Bootstrap
-	
+	- Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大量 **编写好的CSS样式**，允许开发者结合一定HTML结构及JavaScript，**快速** 编写功能完善的 **网页** 及 **常见交互效果**。
 
+1. 媒体查询
+	- **max-width**：最大宽度
+	- **min-width**：最小宽度
+	- 简单写法：
+		```css
+		@media (min-width: 1920px) {
+			body {
+				background-color: red;
+			}
+		}
+		```
+	- 完整写法
+		-关键词(逻辑符)：and、only、not
+		```css
+		@media 关键词(逻辑符) 媒体类型 and (媒体特性) { css代码 }
+		```
+	- 媒体类型：
+		- 媒体类型是用来 **区分设备类型** 的，如屏幕设备、打印设备等，其中手机、电脑、平板都属于屏幕设备
 
+		- <table><tr align="center"><th width="150" bgcolor="#ddAedd">类型名称</th><th width="150" bgcolor="#ddAedd">值</th><th width="250" bgcolor="#ddAedd">描述</th></tr><tr align="center"><td><i>屏幕</i></td><td><i>screen</i></td><td><i>带屏幕的设备</i></td></tr><tr align="center"><td><i>打印预览</i></td><td><i>print</i></td><td><i>打印预览模式</i></td></tr><tr align="center"><td><i>阅读器</i></td><td><i>speech</i></td><td><i>屏幕阅读模式</i></td></tr><tr align="center"><td><i>不区分类型</i></td><td><i>all</i></td><td><i>默认值，包括以上3种情形</i></td></tr></table>
+	- 媒体特性
+		- 媒体特性主要用来描述 **媒体类型的具体特征**，如当前屏幕的宽高、分辨率、横屏或竖屏等
+		- <table><tr align="center"><th width="200" bgcolor="#ddAedd">特性名称</th><th width="250" bgcolor="#ddAedd">属性</th><th width="250" bgcolor="#ddAedd">值</th></tr><tr align="center"><td><i>视口的宽和高</i></td><td><i>width、height</i></td><td><i>数值</i></td></tr><tr align="center"><td><i><font color=red>视口最大宽或高</font></i></td><td><i><font color=red>max-width</font>、max-height</i></td><td><i>数值</i></td></tr><tr align="center"><td><i>视口最小宽或高</i></td><td><i><font color=red>min-width</font>、min-height</i></td><td><i>数值</i></td></tr><tr align="center"><td><i>屏幕方向</i></td><td><i>orientation</i></td><td><i>portrait:竖屏<br>landscape:横屏</i></td></tr></table>
+	- 外部CSS
+		- ```html
+			<link rel="stylesheet" media="逻辑符 媒体类型 and (媒体特性)" href="xx.css">
+			```
 
 # LESS（前期学习）
 - Less是一个 **CSS预处理器**，Less文件后缀是 **.less**。扩充了CSS语言，使CSS具备一定的逻辑性、计算能力
@@ -1524,11 +1550,11 @@ vw和vh **不能** 混用，vh是1/100视口高度，**全面屏视口高度尺�
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzQ0OTMxNjEsLTE1OTk0ODAyNTcsLT
-U2ODcyNTc2MiwtOTMyOTQ0NDQyLC0xOTc4NjE3NDEsLTYzODMx
-ODU4Myw0OTE0NjgzNTYsLTE5ODI4MjkzMzIsOTEzNjc5ODA1LD
-E1NDk0NjAwMjIsMTEyODg2ODE3NSw3NTcwODA1OTQsLTE2MjQ4
-NDY3NTMsLTEyNjk5NDkxMTYsMTk0NjExODA2MCwtMTEyODY1Mj
-Y4OCwyMDA4NzY3MDc3LDE2NDQzODAxMTYsMTM0MjEyMjMxNCw1
-NzE3OTUxNjFdfQ==
+eyJoaXN0b3J5IjpbMTQ0NjE3MzY0NiwtMTU5OTQ4MDI1NywtNT
+Y4NzI1NzYyLC05MzI5NDQ0NDIsLTE5Nzg2MTc0MSwtNjM4MzE4
+NTgzLDQ5MTQ2ODM1NiwtMTk4MjgyOTMzMiw5MTM2Nzk4MDUsMT
+U0OTQ2MDAyMiwxMTI4ODY4MTc1LDc1NzA4MDU5NCwtMTYyNDg0
+Njc1MywtMTI2OTk0OTExNiwxOTQ2MTE4MDYwLC0xMTI4NjUyNj
+g4LDIwMDg3NjcwNzcsMTY0NDM4MDExNiwxMzQyMTIyMzE0LDU3
+MTc5NTE2MV19
 -->

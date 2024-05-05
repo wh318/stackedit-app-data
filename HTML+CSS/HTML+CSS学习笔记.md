@@ -1282,8 +1282,9 @@ vw和vh **不能** 混用，vh是1/100视口高度，**全面屏视口高度尺�
 		}
 		```
 	- 完整写法
+		- 逻辑符：and、only、not
 		```css
-		@media guan'j
+		@media 关键词 媒体类型 and (媒体特性) { css代码 }
 		```
 2. Bootstrap
 
@@ -1511,7 +1512,7 @@ vw和vh **不能** 混用，vh是1/100视口高度，**全面屏视口高度尺�
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjQyMzA4MTMsLTE5Nzg2MTc0MSwtNj
+eyJoaXN0b3J5IjpbLTIwOTczMDQyNjEsLTE5Nzg2MTc0MSwtNj
 M4MzE4NTgzLDQ5MTQ2ODM1NiwtMTk4MjgyOTMzMiw5MTM2Nzk4
 MDUsMTU0OTQ2MDAyMiwxMTI4ODY4MTc1LDc1NzA4MDU5NCwtMT
 YyNDg0Njc1MywtMTI2OTk0OTExNiwxOTQ2MTE4MDYwLC0xMTI4

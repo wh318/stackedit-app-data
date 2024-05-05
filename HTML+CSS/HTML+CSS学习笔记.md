@@ -1339,24 +1339,12 @@ Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大
 	- table：默认样式
 	- table-striped：隔行变色
 	- table-success：表格颜色
-		- 
+		<table><tr align="left"><th width="150" bgcolor="#ddAedd">Class</th><th width="150" bgcolor="#ddAedd">Heading</th><th width="150" bgcolor="#ddAedd">Heading</th></tr><tr align="left"><td><i><b>Default</b></i></td><td><i><b>cell</b></i></td><td><i><b>cell</b></i></td></tr><tr align="left" bgcolor="#0D6EFD"><td><i><b>primary</b></i></td><td><i><b>cell</b></i></td><td><i><b>cell</b></i></td></tr><tr align="left" bgcolor="#6C757D"><td><i><b>secondary</b></i></td><td><i><b>cell</b></i></td><td><i><b>cell</b></i></td></tr><tr align="left" bgcolor="#198754"><td><i><b>success</b></i></td><td><i><b>cell</b></i></td><td><i><b>cell</b></i></td></tr><tr align="left" bgcolor="#DC3545"><td><i><b>danger</b></i></td><td><i><b>cell</b></i></td><td><i><b>cell</b></i></td></tr><tr align="left" bgcolor="#FFC008"><td><i><b>warning</b></i></td><td><i><b>cell</b></i></td><td><i><b>cell</b></i></td></tr><tr align="left" bgcolor="#11CAF0"><td><i><b>info</b></i></td><td><i><b>cell</b></i></td><td><i><b>cell</b></i></td></tr><tr align="left" bgcolor="#F8F9FA"><td><i><b>light</b></i></td><td><i><b>cell</b></i></td><td><i><b>cell</b></i></td></tr><tr align="left" bgcolor="#212529"><td><font color="#ffffff"><i><b>dark</b></i></font></td><td><font color="#ffffff"><i><b>cell</b></i></font></td><td><font color="#ffffff"><i><b>cell</b></i></font></td></tr></table>
 	- ......
 
-<table>
-	<tr align="left"><th width="150" bgcolor="#ddAedd">Class</th><th width="150" bgcolor="#ddAedd">Heading</th><th width="150" bgcolor="#ddAedd">Heading</th></tr>
-	<tr align="left"><td><i>Default</i></td><td><i>cell</i></td><td><i>cell</i></td></tr>
-	<tr align="left" bgcolor="#0D6EFD"><td><i>primary</i></td><td><i>cell</i></td><td><i>cell</i></td></tr>
-	<tr align="left" bgcolor="#6C757D"><td><i>secondary</i></td><td><i>cell</i></td><td><i>cell</i></td></tr>
-	<tr align="left" bgcolor="#198754"><td><i>success</i></td><td><i>cell</i></td><td><i>cell</i></td></tr>
-	<tr align="left" bgcolor="#DC3545"><td><i>danger</i></td><td><i>cell</i></td><td><i>cell</i></td></tr>
-	<tr align="left" bgcolor="#FFC008"><td><i>warning</i></td><td><i>cell</i></td><td><i>cell</i></td></tr>
-	<tr align="left" bgcolor="#11CAF0"><td><i>info</i></td><td><i>cell</i></td><td><i>cell</i></td></tr>
-	<tr align="left" bgcolor="#F8F9FA"><td><i>light</i></td><td><i>cell</i></td><td><i>cell</i></td></tr>
-	<tr align="left" bgcolor="#212529"><td><i><font color="#ffffff">dark</font></i></td><td><i>cell</i></td><td><i>cell</i></td></tr>
-</table>
 
-<font color="#ffffff>
-</font>
+
+
 
 
 # LESS（前期学习）
@@ -1580,11 +1568,11 @@ Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODkzMDA0ODIsLTEyNzgxNTU0ODEsMj
-I4NTIzNzIwLC0xODcyNzI5NzkzLC0zNzI1NzIzNDEsMTc5NDc2
-NTczNiwtMTEwNDI2MjUxNiwtOTM3MzAwMDAwLC0xMDE2MzgwNz
-g1LDEyMTYyNTk5NzcsLTE1OTk0ODAyNTcsLTU2ODcyNTc2Miwt
-OTMyOTQ0NDQyLC0xOTc4NjE3NDEsLTYzODMxODU4Myw0OTE0Nj
-gzNTYsLTE5ODI4MjkzMzIsOTEzNjc5ODA1LDE1NDk0NjAwMjIs
-MTEyODg2ODE3NV19
+eyJoaXN0b3J5IjpbLTEzNDI1MzI4MDAsLTEwODkzMDA0ODIsLT
+EyNzgxNTU0ODEsMjI4NTIzNzIwLC0xODcyNzI5NzkzLC0zNzI1
+NzIzNDEsMTc5NDc2NTczNiwtMTEwNDI2MjUxNiwtOTM3MzAwMD
+AwLC0xMDE2MzgwNzg1LDEyMTYyNTk5NzcsLTE1OTk0ODAyNTcs
+LTU2ODcyNTc2MiwtOTMyOTQ0NDQyLC0xOTc4NjE3NDEsLTYzOD
+MxODU4Myw0OTE0NjgzNTYsLTE5ODI4MjkzMzIsOTEzNjc5ODA1
+LDE1NDk0NjAwMjJdfQ==
 -->

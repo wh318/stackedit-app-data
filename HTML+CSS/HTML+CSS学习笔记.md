@@ -1321,11 +1321,11 @@ Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大
 栅格化是指将整个网页的宽度分成 **12** 等份，每个盒子占用的对应的份数
 例如：一行排 **4** 个盒子，则每个盒子占 **3份** 即可（12/4=3)
 Breakpoint|Class infix|Dimensions
-:-:|:-:|
+:-:|:-:|:-:
 Extra small|None|<576px
-Small|sm|≥576px and <768px
-Medium|md|≥768px and <992px
-Large|lg|��992px and <1200px
+Small|sm|≥576px
+Medium|md|≥768px
+Large|lg|≥992px
 Extra large|xl|≥1200px
 Extra extra large|xxl|≥1400px
 
@@ -1550,7 +1550,7 @@ Extra extra large|xxl|≥1400px
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNzAwNTY4MSwtMTAxNjM4MDc4NSwxMj
+eyJoaXN0b3J5IjpbLTkzNzMwMDAwMCwtMTAxNjM4MDc4NSwxMj
 E2MjU5OTc3LC0xNTk5NDgwMjU3LC01Njg3MjU3NjIsLTkzMjk0
 NDQ0MiwtMTk3ODYxNzQxLC02MzgzMTg1ODMsNDkxNDY4MzU2LC
 0xOTgyODI5MzMyLDkxMzY3OTgwNSwxNTQ5NDYwMDIyLDExMjg4

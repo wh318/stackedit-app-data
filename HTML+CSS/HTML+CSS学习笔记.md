@@ -1282,9 +1282,9 @@ vw和vh **不能** 混用，vh是1/100视口高度，**全面屏视口高度尺�
 		}
 		```
 	- 完整写法
-		- 逻辑符：and、only、not
+		-关键词(逻辑符)：and、only、not
 		```css
-		@media 关键词 媒体类型 and (媒体特性) { css代码 }
+		@media 关键词(逻辑符) 媒体类型 and (媒体特性) { css代码 }
 		```
 	- 媒体类型：
 		- 媒体类型是用来 **区分设备类型** 的，如屏幕设备、打印设备等，其中手机、电脑、平板都属于屏幕设备
@@ -1296,6 +1296,7 @@ vw和vh **不能** 混用，vh是1/100视口高度，**全面屏视口高度尺�
 	- 外部CSS
 		- ```html
 			<link rel="stylesheet" media="逻辑符 媒体类型 and (媒体特性)" href="xx.css">
+			```
 
 2. Bootstrap
 
@@ -1523,11 +1524,11 @@ vw和vh **不能** 混用，vh是1/100视口高度，**全面屏视口高度尺�
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNDY2NDgwMywtNTY4NzI1NzYyLC05Mz
-I5NDQ0NDIsLTE5Nzg2MTc0MSwtNjM4MzE4NTgzLDQ5MTQ2ODM1
-NiwtMTk4MjgyOTMzMiw5MTM2Nzk4MDUsMTU0OTQ2MDAyMiwxMT
-I4ODY4MTc1LDc1NzA4MDU5NCwtMTYyNDg0Njc1MywtMTI2OTk0
-OTExNiwxOTQ2MTE4MDYwLC0xMTI4NjUyNjg4LDIwMDg3NjcwNz
-csMTY0NDM4MDExNiwxMzQyMTIyMzE0LDU3MTc5NTE2MSwtNTE3
-Mjg4ODM3XX0=
+eyJoaXN0b3J5IjpbLTE1OTk0ODAyNTcsLTU2ODcyNTc2MiwtOT
+MyOTQ0NDQyLC0xOTc4NjE3NDEsLTYzODMxODU4Myw0OTE0Njgz
+NTYsLTE5ODI4MjkzMzIsOTEzNjc5ODA1LDE1NDk0NjAwMjIsMT
+EyODg2ODE3NSw3NTcwODA1OTQsLTE2MjQ4NDY3NTMsLTEyNjk5
+NDkxMTYsMTk0NjExODA2MCwtMTEyODY1MjY4OCwyMDA4NzY3MD
+c3LDE2NDQzODAxMTYsMTM0MjEyMjMxNCw1NzE3OTUxNjEsLTUx
+NzI4ODgzN119
 -->

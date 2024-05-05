@@ -1309,7 +1309,14 @@ vw和vh **不能** 混用，vh是1/100视口高度，**全面屏视口高度尺�
 ## Bootstrap
 Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大量 **编写好的CSS样式**，允许开发者结合一定HTML结构及JavaScript，**快速** 编写功能完善的 **网页** 及 **常见交互效果**。
 
-### yin
+### 使用
+- 引入css
+	```html
+	<link rel="stylesheet" href="./bootstrap/css/bootstrap.min.css">
+	```
+- 使用
+	直接在元素中添加
+
 
 
 
@@ -1535,11 +1542,11 @@ Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAyMjM5MDY4LDEyMTYyNTk5NzcsLTE1OT
-k0ODAyNTcsLTU2ODcyNTc2MiwtOTMyOTQ0NDQyLC0xOTc4NjE3
-NDEsLTYzODMxODU4Myw0OTE0NjgzNTYsLTE5ODI4MjkzMzIsOT
-EzNjc5ODA1LDE1NDk0NjAwMjIsMTEyODg2ODE3NSw3NTcwODA1
-OTQsLTE2MjQ4NDY3NTMsLTEyNjk5NDkxMTYsMTk0NjExODA2MC
-wtMTEyODY1MjY4OCwyMDA4NzY3MDc3LDE2NDQzODAxMTYsMTM0
-MjEyMjMxNF19
+eyJoaXN0b3J5IjpbMTg3ODQ1NTI4NywxMjE2MjU5OTc3LC0xNT
+k5NDgwMjU3LC01Njg3MjU3NjIsLTkzMjk0NDQ0MiwtMTk3ODYx
+NzQxLC02MzgzMTg1ODMsNDkxNDY4MzU2LC0xOTgyODI5MzMyLD
+kxMzY3OTgwNSwxNTQ5NDYwMDIyLDExMjg4NjgxNzUsNzU3MDgw
+NTk0LC0xNjI0ODQ2NzUzLC0xMjY5OTQ5MTE2LDE5NDYxMTgwNj
+AsLTExMjg2NTI2ODgsMjAwODc2NzA3NywxNjQ0MzgwMTE2LDEz
+NDIxMjIzMTRdfQ==
 -->

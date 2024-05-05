@@ -1269,6 +1269,12 @@ vw和vh **不能** 混用，vh是1/100视口高度，**全面屏视口高度尺�
 # 响应式网页
 一套代码适配 **不同大小** 的屏幕
 
+解决方案
+1. 媒体查询
+2. Bootstrap
+
+
+
 
 # LESS（前期学习）
 - Less是一个 **CSS预处理器**，Less文件后缀是 **.less**。扩充了CSS语言，使CSS具备一定的逻辑性、计算能力
@@ -1491,11 +1497,11 @@ vw和vh **不能** 混用，vh是1/100视口高度，**全面屏视口高度尺�
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTgxNjAzNDgsLTE5ODI4MjkzMzIsOT
-EzNjc5ODA1LDE1NDk0NjAwMjIsMTEyODg2ODE3NSw3NTcwODA1
-OTQsLTE2MjQ4NDY3NTMsLTEyNjk5NDkxMTYsMTk0NjExODA2MC
-wtMTEyODY1MjY4OCwyMDA4NzY3MDc3LDE2NDQzODAxMTYsMTM0
-MjEyMjMxNCw1NzE3OTUxNjEsLTUxNzI4ODgzNyw5NjM3MDEwOD
-IsLTE0MTA1ODg4MTUsNTI3MzI5NzgxLDE1NDYxNDgxNjYsLTEx
-NjkwODE3NDRdfQ==
+eyJoaXN0b3J5IjpbNDkxNDY4MzU2LC0xOTgyODI5MzMyLDkxMz
+Y3OTgwNSwxNTQ5NDYwMDIyLDExMjg4NjgxNzUsNzU3MDgwNTk0
+LC0xNjI0ODQ2NzUzLC0xMjY5OTQ5MTE2LDE5NDYxMTgwNjAsLT
+ExMjg2NTI2ODgsMjAwODc2NzA3NywxNjQ0MzgwMTE2LDEzNDIx
+MjIzMTQsNTcxNzk1MTYxLC01MTcyODg4MzcsOTYzNzAxMDgyLC
+0xNDEwNTg4ODE1LDUyNzMyOTc4MSwxNTQ2MTQ4MTY2LC0xMTY5
+MDgxNzQ0XX0=
 -->

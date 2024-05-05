@@ -1301,23 +1301,25 @@ vw和vh **不能** 混用，vh是1/100视口高度，**全面屏视口高度尺�
 2. Bootstrap
 	- Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大量 **编写好的CSS样式**，允许开发者结合一定HTML结构及JavaScript，**快速** 编写功能完善的 **网页** 及 **常见交互效果**。
 
-1. 媒体查询
-	- **max-width**：最大宽度
-	- **min-width**：最小宽度
-	- 简单写法：
-		```css
-		@media (min-width: 1920px) {
-			body {
-				background-color: red;
-			}
-		}
-		```
-	- 完整写法
-		-关键词(逻辑符)：and、only、not
-		```css
-		@media 关键词(逻辑符) 媒体类型 and (媒体特性) { css代码 }
-		```
-	- 媒体类型：
+## 媒体查询
+- **max-width**：最大宽度
+- **min-width**：最小宽度
+
+### 简单写法：
+```css
+@media (min-width: 1920px) {
+	body {
+		background-color: red;
+	}
+}
+```
+### 完整写法
+- 关键词(逻辑符)：and、only、not
+
+```css
+@media 关键词(逻辑符) 媒体类型 and (媒体特性) { css代码 }
+```
+- 媒体类型：
 		- 媒体类型是用来 **区分设备类型** 的，如屏幕设备、打印设备等，其中手机、电脑、平板都属于屏幕设备
 
 		- <table><tr align="center"><th width="150" bgcolor="#ddAedd">类型名称</th><th width="150" bgcolor="#ddAedd">值</th><th width="250" bgcolor="#ddAedd">描述</th></tr><tr align="center"><td><i>屏幕</i></td><td><i>screen</i></td><td><i>带屏幕的设备</i></td></tr><tr align="center"><td><i>打印预览</i></td><td><i>print</i></td><td><i>打印预览模式</i></td></tr><tr align="center"><td><i>阅读器</i></td><td><i>speech</i></td><td><i>屏幕阅读模式</i></td></tr><tr align="center"><td><i>不区分类型</i></td><td><i>all</i></td><td><i>默认值，包括以上3种情形</i></td></tr></table>
@@ -1550,7 +1552,7 @@ vw和vh **不能** 混用，vh是1/100视口高度，**全面屏视口高度尺�
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NjE3MzY0NiwtMTU5OTQ4MDI1NywtNT
+eyJoaXN0b3J5IjpbLTYxNzE3OTY2MywtMTU5OTQ4MDI1NywtNT
 Y4NzI1NzYyLC05MzI5NDQ0NDIsLTE5Nzg2MTc0MSwtNjM4MzE4
 NTgzLDQ5MTQ2ODM1NiwtMTk4MjgyOTMzMiw5MTM2Nzk4MDUsMT
 U0OTQ2MDAyMiwxMTI4ODY4MTc1LDc1NzA4MDU5NCwtMTYyNDg0

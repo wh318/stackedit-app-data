@@ -1352,10 +1352,11 @@ Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大
 	<tr align="left" bgcolor="#FFC008"><td><i>warning</i></td><td><i>cell</i></td><td><i>cell</i></td></tr>
 	<tr align="left" bgcolor="#11CAF0"><td><i>info</i></td><td><i>cell</i></td><td><i>cell</i></td></tr>
 	<tr align="left" bgcolor="#F8F9FA"><td><i>light</i></td><td><i>cell</i></td><td><i>cell</i></td></tr>
-	<tr align="left" bgcolor="#212529"><td><i>dark</i></td><td><i>cell</i></td><td><i>cell</i></td></tr>
+	<tr align="left" bgcolor="#212529"><td><i><font color="#ffffff">dark</font></i></td><td><i>cell</i></td><td><i>cell</i></td></tr>
 </table>
 
-
+<font color="#ffffff>
+</font>
 
 
 # LESS（前期学习）
@@ -1579,11 +1580,11 @@ Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE4NzcyOTQ4LC0xMjc4MTU1NDgxLDIyOD
-UyMzcyMCwtMTg3MjcyOTc5MywtMzcyNTcyMzQxLDE3OTQ3NjU3
-MzYsLTExMDQyNjI1MTYsLTkzNzMwMDAwMCwtMTAxNjM4MDc4NS
-wxMjE2MjU5OTc3LC0xNTk5NDgwMjU3LC01Njg3MjU3NjIsLTkz
-Mjk0NDQ0MiwtMTk3ODYxNzQxLC02MzgzMTg1ODMsNDkxNDY4Mz
-U2LC0xOTgyODI5MzMyLDkxMzY3OTgwNSwxNTQ5NDYwMDIyLDEx
-Mjg4NjgxNzVdfQ==
+eyJoaXN0b3J5IjpbLTEwODkzMDA0ODIsLTEyNzgxNTU0ODEsMj
+I4NTIzNzIwLC0xODcyNzI5NzkzLC0zNzI1NzIzNDEsMTc5NDc2
+NTczNiwtMTEwNDI2MjUxNiwtOTM3MzAwMDAwLC0xMDE2MzgwNz
+g1LDEyMTYyNTk5NzcsLTE1OTk0ODAyNTcsLTU2ODcyNTc2Miwt
+OTMyOTQ0NDQyLC0xOTc4NjE3NDEsLTYzODMxODU4Myw0OTE0Nj
+gzNTYsLTE5ODI4MjkzMzIsOTEzNjc5ODA1LDE1NDk0NjAwMjIs
+MTEyODg2ODE3NV19
 -->

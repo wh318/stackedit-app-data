@@ -1271,7 +1271,6 @@ vw和vh **不能** 混用，vh是1/100视口高度，**全面屏视口高度尺�
 
 解决方案
 1. 媒体查询
-	
 2. Bootstrap
 	- Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大量 **编写好的CSS样式**，允许开发者结合一定HTML结构及JavaScript，**快速** 编写功能完善的 **网页** 及 **常见交互效果**。
 
@@ -1305,6 +1304,15 @@ vw和vh **不能** 混用，vh是1/100视口高度，**全面屏视口高度尺�
 	- ```html
 		<link rel="stylesheet" media="逻辑符 媒体类型 and (媒体特性)" href="xx.css">
 		```
+
+
+## Bootstrap
+Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大量 **编写好的CSS样式**，允许开发者结合一定HTML结构及JavaScript，**快速** 编写功能完善的 **网页** 及 **常见交互效果**。
+
+
+
+
+
 
 # LESS（前期学习）
 - Less是一个 **CSS预处理器**，Less文件后缀是 **.less**。扩充了CSS语言，使CSS具备一定的逻辑性、计算能力
@@ -1527,7 +1535,7 @@ vw和vh **不能** 混用，vh是1/100视口高度，**全面屏视口高度尺�
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyOTM1Njc0MywtMTU5OTQ4MDI1NywtNT
+eyJoaXN0b3J5IjpbMTIxNjI1OTk3NywtMTU5OTQ4MDI1NywtNT
 Y4NzI1NzYyLC05MzI5NDQ0NDIsLTE5Nzg2MTc0MSwtNjM4MzE4
 NTgzLDQ5MTQ2ODM1NiwtMTk4MjgyOTMzMiw5MTM2Nzk4MDUsMT
 U0OTQ2MDAyMiwxMTI4ODY4MTc1LDc1NzA4MDU5NCwtMTYyNDg0

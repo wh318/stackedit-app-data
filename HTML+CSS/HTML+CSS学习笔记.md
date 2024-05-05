@@ -1323,6 +1323,8 @@ Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大
 - 视口范围
 	<table><tr align="center"><th width="150" bgcolor="#ddAedd">视口断点</th><th width="150" bgcolor="#ddAedd">类中插值</th><th width="250" bgcolor="#ddAedd">宽度尺寸</th></tr><tr align="center"><td><i>Extra small</i></td><td><i>None</i></td><td><i><576px</i></td></tr><tr align="center"><td><i>Small</i></td><td><i><font color=red>sm</font></i></td><td><i>≥576px and <768px</i></td></tr><tr align="center"><td><i>Medium</i></td><td><i><font color=red>md</font></i></td><td><i>≥768px and <992px</i></td></tr><tr align="center"><td><i>Large</i></td><td><i><font color=red>lg</font></i></td><td><i>≥992px and <1200px</i></td></tr><tr align="center"><td><i>Extra large</i></td><td><i><font color=red>xl</font></i></td><td><i>≥1200px <1400px</i></td></tr><tr align="center"><td><i>Extra extra large</i></td><td><i><font color=red>xxl</font></i></td><td><i>≥1400px</i></td></tr></table>
 
+- 版心
+
 
 
 # LESS（前期学习）
@@ -1546,11 +1548,11 @@ Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MDkzMTM1NCwtOTM3MzAwMDAwLC0xMD
-E2MzgwNzg1LDEyMTYyNTk5NzcsLTE1OTk0ODAyNTcsLTU2ODcy
-NTc2MiwtOTMyOTQ0NDQyLC0xOTc4NjE3NDEsLTYzODMxODU4My
-w0OTE0NjgzNTYsLTE5ODI4MjkzMzIsOTEzNjc5ODA1LDE1NDk0
-NjAwMjIsMTEyODg2ODE3NSw3NTcwODA1OTQsLTE2MjQ4NDY3NT
-MsLTEyNjk5NDkxMTYsMTk0NjExODA2MCwtMTEyODY1MjY4OCwy
-MDA4NzY3MDc3XX0=
+eyJoaXN0b3J5IjpbLTExMDQyNjI1MTYsLTkzNzMwMDAwMCwtMT
+AxNjM4MDc4NSwxMjE2MjU5OTc3LC0xNTk5NDgwMjU3LC01Njg3
+MjU3NjIsLTkzMjk0NDQ0MiwtMTk3ODYxNzQxLC02MzgzMTg1OD
+MsNDkxNDY4MzU2LC0xOTgyODI5MzMyLDkxMzY3OTgwNSwxNTQ5
+NDYwMDIyLDExMjg4NjgxNzUsNzU3MDgwNTk0LC0xNjI0ODQ2Nz
+UzLC0xMjY5OTQ5MTE2LDE5NDYxMTgwNjAsLTExMjg2NTI2ODgs
+MjAwODc2NzA3N119
 -->

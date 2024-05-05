@@ -1287,7 +1287,8 @@ vw和vh **不能** 混用，vh是1/100视口高度，**全面屏视口高度尺�
 		@media 关键词 媒体类型 and (媒体特性) { css代码 }
 		```
 	- 媒体类型：
-		- yong
+		- 媒体类型是用来 **区分设备类型** 的，如屏幕设备、打印设备等，其中手机、电脑、平板都属于屏幕设备
+		- 
 2. Bootstrap
 
 
@@ -1514,7 +1515,7 @@ vw和vh **不能** 混用，vh是1/100视口高度，**全面屏视口高度尺�
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMTMzNzM1OSwtMTk3ODYxNzQxLC02Mz
+eyJoaXN0b3J5IjpbLTkzMjk0NDQ0MiwtMTk3ODYxNzQxLC02Mz
 gzMTg1ODMsNDkxNDY4MzU2LC0xOTgyODI5MzMyLDkxMzY3OTgw
 NSwxNTQ5NDYwMDIyLDExMjg4NjgxNzUsNzU3MDgwNTk0LC0xNj
 I0ODQ2NzUzLC0xMjY5OTQ5MTE2LDE5NDYxMTgwNjAsLTExMjg2

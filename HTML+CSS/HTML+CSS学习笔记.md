@@ -1324,7 +1324,11 @@ Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大
 	<table><tr align="center"><th width="150" bgcolor="#ddAedd">视口断点</th><th width="150" bgcolor="#ddAedd">类中插值</th><th width="250" bgcolor="#ddAedd">宽度尺寸</th></tr><tr align="center"><td><i>Extra small</i></td><td><i>None</i></td><td><i><576px</i></td></tr><tr align="center"><td><i>Small</i></td><td><i><font color=red>sm</font></i></td><td><i>≥576px and <768px</i></td></tr><tr align="center"><td><i>Medium</i></td><td><i><font color=red>md</font></i></td><td><i>≥768px and <992px</i></td></tr><tr align="center"><td><i>Large</i></td><td><i><font color=red>lg</font></i></td><td><i>≥992px and <1200px</i></td></tr><tr align="center"><td><i>Extra large</i></td><td><i><font color=red>xl</font></i></td><td><i>≥1200px <1400px</i></td></tr><tr align="center"><td><i>Extra extra large</i></td><td><i><font color=red>xxl</font></i></td><td><i>≥1400px</i></td></tr></table>
 
 - 版心
-
+<table>
+<tr align="left"><th width="150" bgcolor="#ddAedd"></th><th width="150" bgcolor="#ddAedd">xs<br><576px</th><th width="150" bgcolor="#ddAedd">sm</th><th width="150" bgcolor="#ddAedd">md</th><th width="150" bgcolor="#ddAedd">lg</th><th width="150" bgcolor="#ddAedd">xl</th><th width="150" bgcolor="#ddAedd">xxl</th></tr>
+<tr align="left"><td><i>Container <font size="2" color="red">max-width</font></i></td><td><i>None(auto)</i></td><td><i>540px</i></td><td><i>720px</i></td><td><i>960px</i></td><td><i>1140px</i></td><td><i>1320px</i></td></tr>
+<tr align="left"><td><i>Class prefix</i></td><td><i>.col-</i></td><td><i>.col-sm-</i></td><td><i>.col-md-</i></td><td><i>.col-lg-</i></td><td><i>.col-xl-</i></td><td><i>.col-xxl-</i></td></tr>
+</table>
 
 
 # LESS（前期学习）
@@ -1548,11 +1552,11 @@ Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDQyNjI1MTYsLTkzNzMwMDAwMCwtMT
-AxNjM4MDc4NSwxMjE2MjU5OTc3LC0xNTk5NDgwMjU3LC01Njg3
-MjU3NjIsLTkzMjk0NDQ0MiwtMTk3ODYxNzQxLC02MzgzMTg1OD
-MsNDkxNDY4MzU2LC0xOTgyODI5MzMyLDkxMzY3OTgwNSwxNTQ5
-NDYwMDIyLDExMjg4NjgxNzUsNzU3MDgwNTk0LC0xNjI0ODQ2Nz
-UzLC0xMjY5OTQ5MTE2LDE5NDYxMTgwNjAsLTExMjg2NTI2ODgs
-MjAwODc2NzA3N119
+eyJoaXN0b3J5IjpbNTY3MTM4NzU4LC0xMTA0MjYyNTE2LC05Mz
+czMDAwMDAsLTEwMTYzODA3ODUsMTIxNjI1OTk3NywtMTU5OTQ4
+MDI1NywtNTY4NzI1NzYyLC05MzI5NDQ0NDIsLTE5Nzg2MTc0MS
+wtNjM4MzE4NTgzLDQ5MTQ2ODM1NiwtMTk4MjgyOTMzMiw5MTM2
+Nzk4MDUsMTU0OTQ2MDAyMiwxMTI4ODY4MTc1LDc1NzA4MDU5NC
+wtMTYyNDg0Njc1MywtMTI2OTk0OTExNiwxOTQ2MTE4MDYwLC0x
+MTI4NjUyNjg4XX0=
 -->

@@ -1342,6 +1342,21 @@ Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大
 		- 
 	- ......
 
+<table>
+	<tr align="left"><th width="150" bgcolor="#ddAedd">Class</th><th width="150" bgcolor="#ddAedd">Heading</th><th width="150" bgcolor="#ddAedd">Heading</th></tr>
+	<tr align="left"><td><i>Default</i></td><td><i>cell</i></td><td><i>cell</i></td></tr>
+	<tr align="left" bgcolor="#0D6EFD"><td><i>primary</i></td><td><i>cell</i></td><td><i>cell</i></td></tr>
+	<tr align="left" bgcolor="#6C757D"><td><i>secondary</i></td><td><i>cell</i></td><td><i>cell</i></td></tr>
+	<tr align="left" bgcolor="#198754"><td><i>success</i></td><td><i>cell</i></td><td><i>cell</i></td></tr>
+	<tr align="left" bgcolor="#DC3545"><td><i>danger</i></td><td><i>cell</i></td><td><i>cell</i></td></tr>
+	<tr align="left" bgcolor="#FFC008"><td><i>warning</i></td><td><i>cell</i></td><td><i>cell</i></td></tr>
+	<tr align="left" bgcolor="#11CAF0"><td><i>info</i></td><td><i>cell</i></td><td><i>cell</i></td></tr>
+	<tr align="left" bgcolor="#F8F9FA"><td><i>light</i></td><td><i>cell</i></td><td><i>cell</i></td></tr>
+	<tr align="left" bgcolor="#212529"><td><i>dark</i></td><td><i>cell</i></td><td><i>cell</i></td></tr>
+</table>
+
+
+
 
 # LESS（前期学习）
 - Less是一个 **CSS预处理器**，Less文件后缀是 **.less**。扩充了CSS语言，使CSS具备一定的逻辑性、计算能力
@@ -1564,11 +1579,11 @@ Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzgxNTU0ODEsMjI4NTIzNzIwLC0xOD
-cyNzI5NzkzLC0zNzI1NzIzNDEsMTc5NDc2NTczNiwtMTEwNDI2
-MjUxNiwtOTM3MzAwMDAwLC0xMDE2MzgwNzg1LDEyMTYyNTk5Nz
-csLTE1OTk0ODAyNTcsLTU2ODcyNTc2MiwtOTMyOTQ0NDQyLC0x
-OTc4NjE3NDEsLTYzODMxODU4Myw0OTE0NjgzNTYsLTE5ODI4Mj
-kzMzIsOTEzNjc5ODA1LDE1NDk0NjAwMjIsMTEyODg2ODE3NSw3
-NTcwODA1OTRdfQ==
+eyJoaXN0b3J5IjpbNTE4NzcyOTQ4LC0xMjc4MTU1NDgxLDIyOD
+UyMzcyMCwtMTg3MjcyOTc5MywtMzcyNTcyMzQxLDE3OTQ3NjU3
+MzYsLTExMDQyNjI1MTYsLTkzNzMwMDAwMCwtMTAxNjM4MDc4NS
+wxMjE2MjU5OTc3LC0xNTk5NDgwMjU3LC01Njg3MjU3NjIsLTkz
+Mjk0NDQ0MiwtMTk3ODYxNzQxLC02MzgzMTg1ODMsNDkxNDY4Mz
+U2LC0xOTgyODI5MzMyLDkxMzY3OTgwNSwxNTQ5NDYwMDIyLDEx
+Mjg4NjgxNzVdfQ==
 -->

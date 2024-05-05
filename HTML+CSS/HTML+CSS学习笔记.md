@@ -1331,19 +1331,35 @@ Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大
 </table>
 
 
-<table style="font-size:16px;">
-  <tr>
-    <td>单元格1</td>
-    <td>单元格2</td>
-    <td>单元格3</td>
+<table>
+  <tr style="align:left; background-color:#ddAedd;">
+    <th style="width:150px;"></th>
+    <th style="width:100px;">xs<br><576px</th>
+    <th style="width:100px;">sm</th>
+    <th style="width:100px;">md</th>
+    <th style="width:100px;">lg</th>
+    <th style="width:100px;">xl</th>
+    <th style="width:100px;">xxl</th>
   </tr>
-  <tr>
-    <td>单元格4</td>
-    <td>单元格5</td>
-    <td>单元格6</td>
+  <tr style="align:left;">
+    <td><i>版心 <span style="font-size:small; color:red;">max-width</span></i></td>
+    <td><i>None(auto)</i></td>
+    <td><i>540px</i></td>
+    <td><i>720px</i></td>
+    <td><i>960px</i></td>
+    <td><i>1140px</i></td>
+    <td><i>1320px</i></td>
+  </tr>
+  <tr style="align:left;">
+    <td><i>类前缀</i></td>
+    <td><i>.col-</i></td>
+    <td><i>.col-sm-</i></td>
+    <td><i>.col-md-</i></td>
+    <td><i>.col-lg-</i></td>
+    <td><i>.col-xl-</i></td>
+    <td><i>.col-xxl-</i></td>
   </tr>
 </table>
-
 
 
 # LESS（前期学习）
@@ -1567,7 +1583,7 @@ Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTQxNTMxOSwxNzk0NzY1NzM2LC0xMT
+eyJoaXN0b3J5IjpbLTM3MjU3MjM0MSwxNzk0NzY1NzM2LC0xMT
 A0MjYyNTE2LC05MzczMDAwMDAsLTEwMTYzODA3ODUsMTIxNjI1
 OTk3NywtMTU5OTQ4MDI1NywtNTY4NzI1NzYyLC05MzI5NDQ0ND
 IsLTE5Nzg2MTc0MSwtNjM4MzE4NTgzLDQ5MTQ2ODM1NiwtMTk4

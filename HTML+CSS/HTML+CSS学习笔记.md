@@ -1265,6 +1265,11 @@ vw单位的尺寸 = px单位尺寸 / (1/100)视口的宽度或高度
 
 vw和vh **不能** 混用，vh是1/100视口高度，**全面屏视口高度尺寸大（不同设备宽高比不同）**，如果混用可能会导致 **盒子变形**
 
+
+# 响应式网页
+一套代码适配 **不同大小** 的屏幕
+
+
 # LESS（前期学习）
 - Less是一个 **CSS预处理器**，Less文件后缀是 **.less**。扩充了CSS语言，使CSS具备一定的逻辑性、计算能力
 - **注意：浏览器不识别LesS代码，目前阶段，网页要引入对应的CSS文件**
@@ -1486,11 +1491,11 @@ vw和vh **不能** 混用，vh是1/100视口高度，**全面屏视口高度尺�
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODI4MjkzMzIsOTEzNjc5ODA1LDE1ND
-k0NjAwMjIsMTEyODg2ODE3NSw3NTcwODA1OTQsLTE2MjQ4NDY3
-NTMsLTEyNjk5NDkxMTYsMTk0NjExODA2MCwtMTEyODY1MjY4OC
-wyMDA4NzY3MDc3LDE2NDQzODAxMTYsMTM0MjEyMjMxNCw1NzE3
-OTUxNjEsLTUxNzI4ODgzNyw5NjM3MDEwODIsLTE0MTA1ODg4MT
-UsNTI3MzI5NzgxLDE1NDYxNDgxNjYsLTExNjkwODE3NDQsMTYy
-Nzc1OTMzOF19
+eyJoaXN0b3J5IjpbLTE4OTgxNjAzNDgsLTE5ODI4MjkzMzIsOT
+EzNjc5ODA1LDE1NDk0NjAwMjIsMTEyODg2ODE3NSw3NTcwODA1
+OTQsLTE2MjQ4NDY3NTMsLTEyNjk5NDkxMTYsMTk0NjExODA2MC
+wtMTEyODY1MjY4OCwyMDA4NzY3MDc3LDE2NDQzODAxMTYsMTM0
+MjEyMjMxNCw1NzE3OTUxNjEsLTUxNzI4ODgzNyw5NjM3MDEwOD
+IsLTE0MTA1ODg4MTUsNTI3MzI5NzgxLDE1NDYxNDgxNjYsLTEx
+NjkwODE3NDRdfQ==
 -->

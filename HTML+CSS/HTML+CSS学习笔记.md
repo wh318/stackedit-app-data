@@ -1324,11 +1324,7 @@ Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大
 	<table><tr align="center"><th width="150" bgcolor="#ddAedd">视口断点</th><th width="150" bgcolor="#ddAedd">类中缀</th><th width="250" bgcolor="#ddAedd">宽度尺寸</th></tr><tr align="center"><td><i>Extra small</i></td><td><i>None</i></td><td><i><576px</i></td></tr><tr align="center"><td><i>Small</i></td><td><i><font color=red>sm</font></i></td><td><i>≥576px and <768px</i></td></tr><tr align="center"><td><i>Medium</i></td><td><i><font color=red>md</font></i></td><td><i>≥768px and <992px</i></td></tr><tr align="center"><td><i>Large</i></td><td><i><font color=red>lg</font></i></td><td><i>≥992px and <1200px</i></td></tr><tr align="center"><td><i>Extra large</i></td><td><i><font color=red>xl</font></i></td><td><i>≥1200px <1400px</i></td></tr><tr align="center"><td><i>Extra extra large</i></td><td><i><font color=red>xxl</font></i></td><td><i>≥1400px</i></td></tr></table>
 
 - 版心
-	<table>
-<tr align="left"><th width="150" bgcolor="#ddAedd"></th><th width="100" bgcolor="#ddAedd">xs<br>&lt;576px</th><th width="100" bgcolor="#ddAedd">sm<br>&ge;576px</th><th width="100" bgcolor="#ddAedd">md<br>&ge;768px</th><th width="100" bgcolor="#ddAedd">lg<br>&ge;992px</th><th width="100" bgcolor="#ddAedd">xl<br>&ge;1200px</th><th width="100" bgcolor="#ddAedd">xxl<br>&ge;1400px</th></tr>
-<tr align="left"><td><i>版心 <font size="2" color="red">max-width</font></i></td><td><i>None(auto)</i></td><td><i>540px</i></td><td><i>720px</i></td><td><i>960px</i></td><td><i>1140px</i></td><td><i>1320px</i></td></tr>
-<tr align="left"><td><i>类前缀</i></td><td><i>.col-</i></td><td><i>.col-sm-</i></td><td><i>.col-md-</i></td><td><i>.col-lg-</i></td><td><i>.col-xl-</i></td><td><i>.col-xxl-</i></td></tr>
-</table>
+	<table><tr align="left"><th width="150" bgcolor="#ddAedd"></th><th width="100" bgcolor="#ddAedd">xs<br>&lt;576px</th><th width="100" bgcolor="#ddAedd">sm<br>&ge;576px</th><th width="100" bgcolor="#ddAedd">md<br>&ge;768px</th><th width="100" bgcolor="#ddAedd">lg<br>&ge;992px</th><th width="100" bgcolor="#ddAedd">xl<br>&ge;1200px</th><th width="100" bgcolor="#ddAedd">xxl<br>&ge;1400px</th></tr><tr align="left"><td><i>版心 <font size="2" color="red">max-width</font></i></td><td><i>None(auto)</i></td><td><i>540px</i></td><td><i>720px</i></td><td><i>960px</i></td><td><i>1140px</i></td><td><i>1320px</i></td></tr><tr align="left"><td><i>类前缀</i></td><td><i>.col-</i></td><td><i>.col-sm-</i></td><td><i>.col-md-</i></td><td><i>.col-lg-</i></td><td><i>.col-xl-</i></td><td><i>.col-xxl-</i></td></tr></table>
 
 
 
@@ -1554,11 +1550,11 @@ Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MDQ3Njk1NywtMzcyNTcyMzQxLDE3OT
-Q3NjU3MzYsLTExMDQyNjI1MTYsLTkzNzMwMDAwMCwtMTAxNjM4
-MDc4NSwxMjE2MjU5OTc3LC0xNTk5NDgwMjU3LC01Njg3MjU3Nj
-IsLTkzMjk0NDQ0MiwtMTk3ODYxNzQxLC02MzgzMTg1ODMsNDkx
-NDY4MzU2LC0xOTgyODI5MzMyLDkxMzY3OTgwNSwxNTQ5NDYwMD
-IyLDExMjg4NjgxNzUsNzU3MDgwNTk0LC0xNjI0ODQ2NzUzLC0x
-MjY5OTQ5MTE2XX0=
+eyJoaXN0b3J5IjpbLTE4NzI3Mjk3OTMsLTM3MjU3MjM0MSwxNz
+k0NzY1NzM2LC0xMTA0MjYyNTE2LC05MzczMDAwMDAsLTEwMTYz
+ODA3ODUsMTIxNjI1OTk3NywtMTU5OTQ4MDI1NywtNTY4NzI1Nz
+YyLC05MzI5NDQ0NDIsLTE5Nzg2MTc0MSwtNjM4MzE4NTgzLDQ5
+MTQ2ODM1NiwtMTk4MjgyOTMzMiw5MTM2Nzk4MDUsMTU0OTQ2MD
+AyMiwxMTI4ODY4MTc1LDc1NzA4MDU5NCwtMTYyNDg0Njc1Mywt
+MTI2OTk0OTExNl19
 -->

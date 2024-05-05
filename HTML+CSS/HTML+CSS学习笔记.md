@@ -1274,7 +1274,14 @@ vw和vh **不能** 混用，vh是1/100视口高度，**全面屏视口高度尺�
 	- **max-width**：最大宽度
 	- **min-width**：最小宽度
 	```css
-	
+	@media (min-width: 1920px) {
+
+body {
+
+background-color: red;
+
+}
+}
 	```
 2. Bootstrap
 
@@ -1502,11 +1509,11 @@ vw和vh **不能** 混用，vh是1/100视口高度，**全面屏视口高度尺�
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzODMxODU4Myw0OTE0NjgzNTYsLTE5OD
-I4MjkzMzIsOTEzNjc5ODA1LDE1NDk0NjAwMjIsMTEyODg2ODE3
-NSw3NTcwODA1OTQsLTE2MjQ4NDY3NTMsLTEyNjk5NDkxMTYsMT
-k0NjExODA2MCwtMTEyODY1MjY4OCwyMDA4NzY3MDc3LDE2NDQz
-ODAxMTYsMTM0MjEyMjMxNCw1NzE3OTUxNjEsLTUxNzI4ODgzNy
-w5NjM3MDEwODIsLTE0MTA1ODg4MTUsNTI3MzI5NzgxLDE1NDYx
-NDgxNjZdfQ==
+eyJoaXN0b3J5IjpbOTMzNjc2MjY5LC02MzgzMTg1ODMsNDkxND
+Y4MzU2LC0xOTgyODI5MzMyLDkxMzY3OTgwNSwxNTQ5NDYwMDIy
+LDExMjg4NjgxNzUsNzU3MDgwNTk0LC0xNjI0ODQ2NzUzLC0xMj
+Y5OTQ5MTE2LDE5NDYxMTgwNjAsLTExMjg2NTI2ODgsMjAwODc2
+NzA3NywxNjQ0MzgwMTE2LDEzNDIxMjIzMTQsNTcxNzk1MTYxLC
+01MTcyODg4MzcsOTYzNzAxMDgyLC0xNDEwNTg4ODE1LDUyNzMy
+OTc4MV19
 -->

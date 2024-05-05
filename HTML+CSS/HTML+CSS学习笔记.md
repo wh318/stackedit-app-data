@@ -1290,6 +1290,9 @@ vw和vh **不能** 混用，vh是1/100视口高度，**全面屏视口高度尺�
 		- 媒体类型是用来 **区分设备类型** 的，如屏幕设备、打印设备等，其中手机、电脑、平板都属于屏幕设备
 
 		- <table><tr align="center"><th width="150" bgcolor="#ddAedd">类型名称</th><th width="150" bgcolor="#ddAedd">值</th><th width="250" bgcolor="#ddAedd">描述</th></tr><tr align="center"><td><i>屏幕</i></td><td><i>screen</i></td><td><i>带屏幕的设备</i></td></tr><tr align="center"><td><i>打印预览</i></td><td><i>print</i></td><td><i>打印预览模式</i></td></tr><tr align="center"><td><i>阅读器</i></td><td><i>speech</i></td><td><i>屏幕阅读模式</i></td></tr><tr align="center"><td><i>不区分类型</i></td><td><i>all</i></td><td><i>默认值，包括以上3种情形</i></td></tr></table>
+	- 媒体特性
+		- 媒体特性主要用来描述 **媒体类型的具体特征**，如当前屏幕的宽高、分辨率、横屏或竖屏等
+		- 
 2. Bootstrap
 
 
@@ -1516,7 +1519,7 @@ vw和vh **不能** 混用，vh是1/100视口高度，**全面屏视口高度尺�
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NjgxNDMyNSwtOTMyOTQ0NDQyLC0xOT
+eyJoaXN0b3J5IjpbLTU2ODcyNTc2MiwtOTMyOTQ0NDQyLC0xOT
 c4NjE3NDEsLTYzODMxODU4Myw0OTE0NjgzNTYsLTE5ODI4Mjkz
 MzIsOTEzNjc5ODA1LDE1NDk0NjAwMjIsMTEyODg2ODE3NSw3NT
 cwODA1OTQsLTE2MjQ4NDY3NTMsLTEyNjk5NDkxMTYsMTk0NjEx

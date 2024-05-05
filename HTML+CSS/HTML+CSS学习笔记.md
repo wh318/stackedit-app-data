@@ -1315,8 +1315,9 @@ Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大
 	<link rel="stylesheet" href="./bootstrap/css/bootstrap.min.css">
 	```
 - 使用
-	直接在元素中添加
+	直接在元素中添加相应的 class
 
+### 栅格系统
 
 
 
@@ -1542,11 +1543,11 @@ Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3ODQ1NTI4NywxMjE2MjU5OTc3LC0xNT
-k5NDgwMjU3LC01Njg3MjU3NjIsLTkzMjk0NDQ0MiwtMTk3ODYx
-NzQxLC02MzgzMTg1ODMsNDkxNDY4MzU2LC0xOTgyODI5MzMyLD
-kxMzY3OTgwNSwxNTQ5NDYwMDIyLDExMjg4NjgxNzUsNzU3MDgw
-NTk0LC0xNjI0ODQ2NzUzLC0xMjY5OTQ5MTE2LDE5NDYxMTgwNj
-AsLTExMjg2NTI2ODgsMjAwODc2NzA3NywxNjQ0MzgwMTE2LDEz
-NDIxMjIzMTRdfQ==
+eyJoaXN0b3J5IjpbLTEwMjYxMjUwNjEsMTIxNjI1OTk3NywtMT
+U5OTQ4MDI1NywtNTY4NzI1NzYyLC05MzI5NDQ0NDIsLTE5Nzg2
+MTc0MSwtNjM4MzE4NTgzLDQ5MTQ2ODM1NiwtMTk4MjgyOTMzMi
+w5MTM2Nzk4MDUsMTU0OTQ2MDAyMiwxMTI4ODY4MTc1LDc1NzA4
+MDU5NCwtMTYyNDg0Njc1MywtMTI2OTk0OTExNiwxOTQ2MTE4MD
+YwLC0xMTI4NjUyNjg4LDIwMDg3NjcwNzcsMTY0NDM4MDExNiwx
+MzQyMTIyMzE0XX0=
 -->

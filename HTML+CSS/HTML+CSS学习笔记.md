@@ -1331,6 +1331,21 @@ Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大
 </table>
 
 
+<table style="font-size:16px;">
+  <tr>
+    <td>单元格1</td>
+    <td>单元格2</td>
+    <td>单元格3</td>
+  </tr>
+  <tr>
+    <td>单元格4</td>
+    <td>单元格5</td>
+    <td>单元格6</td>
+  </tr>
+</table>
+
+
+
 # LESS（前期学习）
 - Less是一个 **CSS预处理器**，Less文件后缀是 **.less**。扩充了CSS语言，使CSS具备一定的逻辑性、计算能力
 - **注意：浏览器不识别LesS代码，目前阶段，网页要引入对应的CSS文件**
@@ -1552,11 +1567,11 @@ Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NDc2NTczNiwtMTEwNDI2MjUxNiwtOT
-M3MzAwMDAwLC0xMDE2MzgwNzg1LDEyMTYyNTk5NzcsLTE1OTk0
-ODAyNTcsLTU2ODcyNTc2MiwtOTMyOTQ0NDQyLC0xOTc4NjE3ND
-EsLTYzODMxODU4Myw0OTE0NjgzNTYsLTE5ODI4MjkzMzIsOTEz
-Njc5ODA1LDE1NDk0NjAwMjIsMTEyODg2ODE3NSw3NTcwODA1OT
-QsLTE2MjQ4NDY3NTMsLTEyNjk5NDkxMTYsMTk0NjExODA2MCwt
-MTEyODY1MjY4OF19
+eyJoaXN0b3J5IjpbLTE5MTQxNTMxOSwxNzk0NzY1NzM2LC0xMT
+A0MjYyNTE2LC05MzczMDAwMDAsLTEwMTYzODA3ODUsMTIxNjI1
+OTk3NywtMTU5OTQ4MDI1NywtNTY4NzI1NzYyLC05MzI5NDQ0ND
+IsLTE5Nzg2MTc0MSwtNjM4MzE4NTgzLDQ5MTQ2ODM1NiwtMTk4
+MjgyOTMzMiw5MTM2Nzk4MDUsMTU0OTQ2MDAyMiwxMTI4ODY4MT
+c1LDc1NzA4MDU5NCwtMTYyNDg0Njc1MywtMTI2OTk0OTExNiwx
+OTQ2MTE4MDYwXX0=
 -->

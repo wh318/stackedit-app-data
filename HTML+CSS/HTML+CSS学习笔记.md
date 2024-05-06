@@ -1347,6 +1347,7 @@ Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大
 	2. 引入 js 文件（非必要，无动画时可以不引入）
 	3. 复制结构，修改内容
 
+### 字体图标
 
 
 
@@ -1571,11 +1572,11 @@ Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NTIxMzk5NSwtMTM0MjUzMjgwMCwtMT
-A4OTMwMDQ4MiwtMTI3ODE1NTQ4MSwyMjg1MjM3MjAsLTE4NzI3
-Mjk3OTMsLTM3MjU3MjM0MSwxNzk0NzY1NzM2LC0xMTA0MjYyNT
-E2LC05MzczMDAwMDAsLTEwMTYzODA3ODUsMTIxNjI1OTk3Nywt
-MTU5OTQ4MDI1NywtNTY4NzI1NzYyLC05MzI5NDQ0NDIsLTE5Nz
-g2MTc0MSwtNjM4MzE4NTgzLDQ5MTQ2ODM1NiwtMTk4MjgyOTMz
-Miw5MTM2Nzk4MDVdfQ==
+eyJoaXN0b3J5IjpbLTc0NzYwODg2NSwxMjQ1MjEzOTk1LC0xMz
+QyNTMyODAwLC0xMDg5MzAwNDgyLC0xMjc4MTU1NDgxLDIyODUy
+MzcyMCwtMTg3MjcyOTc5MywtMzcyNTcyMzQxLDE3OTQ3NjU3Mz
+YsLTExMDQyNjI1MTYsLTkzNzMwMDAwMCwtMTAxNjM4MDc4NSwx
+MjE2MjU5OTc3LC0xNTk5NDgwMjU3LC01Njg3MjU3NjIsLTkzMj
+k0NDQ0MiwtMTk3ODYxNzQxLC02MzgzMTg1ODMsNDkxNDY4MzU2
+LC0xOTgyODI5MzMyXX0=
 -->

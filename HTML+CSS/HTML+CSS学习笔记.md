@@ -1349,7 +1349,7 @@ Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大
 
 ### 字体图标
 - 下载
-	[bootstrap-icons-1.X.XXzip]()
+	<font color=shyblue><u>[bootstrap-icons-1.X.XXzip]([Release v1.11.3 · twbs/icons · GitHub](https://github.com/twbs/icons/releases/tag/v1.11.3))</u></font>
 - 
 
 
@@ -1574,11 +1574,11 @@ Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDE2MzY3NTIsLTc0NzYwODg2NSwxMj
-Q1MjEzOTk1LC0xMzQyNTMyODAwLC0xMDg5MzAwNDgyLC0xMjc4
-MTU1NDgxLDIyODUyMzcyMCwtMTg3MjcyOTc5MywtMzcyNTcyMz
-QxLDE3OTQ3NjU3MzYsLTExMDQyNjI1MTYsLTkzNzMwMDAwMCwt
-MTAxNjM4MDc4NSwxMjE2MjU5OTc3LC0xNTk5NDgwMjU3LC01Nj
-g3MjU3NjIsLTkzMjk0NDQ0MiwtMTk3ODYxNzQxLC02MzgzMTg1
-ODMsNDkxNDY4MzU2XX0=
+eyJoaXN0b3J5IjpbMTYyNTc3OTA2NCwtMjA0MTYzNjc1MiwtNz
+Q3NjA4ODY1LDEyNDUyMTM5OTUsLTEzNDI1MzI4MDAsLTEwODkz
+MDA0ODIsLTEyNzgxNTU0ODEsMjI4NTIzNzIwLC0xODcyNzI5Nz
+kzLC0zNzI1NzIzNDEsMTc5NDc2NTczNiwtMTEwNDI2MjUxNiwt
+OTM3MzAwMDAwLC0xMDE2MzgwNzg1LDEyMTYyNTk5NzcsLTE1OT
+k0ODAyNTcsLTU2ODcyNTc2MiwtOTMyOTQ0NDQyLC0xOTc4NjE3
+NDEsLTYzODMxODU4M119
 -->

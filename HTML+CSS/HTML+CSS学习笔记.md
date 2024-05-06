@@ -1348,7 +1348,9 @@ Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大
 	3. 复制结构，修改内容
 
 ### 字体图标
-下载
+- 下载
+	[bootstrap-icons-1.X.XXzip]()
+- 
 
 
 # LESS（前期学习）
@@ -1572,7 +1574,7 @@ Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzI2MzQ1MTEsLTc0NzYwODg2NSwxMj
+eyJoaXN0b3J5IjpbLTIwNDE2MzY3NTIsLTc0NzYwODg2NSwxMj
 Q1MjEzOTk1LC0xMzQyNTMyODAwLC0xMDg5MzAwNDgyLC0xMjc4
 MTU1NDgxLDIyODUyMzcyMCwtMTg3MjcyOTc5MywtMzcyNTcyMz
 QxLDE3OTQ3NjU3MzYsLTExMDQyNjI1MTYsLTkzNzMwMDAwMCwt

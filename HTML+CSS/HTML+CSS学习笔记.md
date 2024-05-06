@@ -1348,7 +1348,7 @@ Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大
 	3. 复制结构，修改内容
 
 ### 字体图标
-
+下载
 
 
 # LESS（前期学习）
@@ -1572,11 +1572,11 @@ Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NzYwODg2NSwxMjQ1MjEzOTk1LC0xMz
-QyNTMyODAwLC0xMDg5MzAwNDgyLC0xMjc4MTU1NDgxLDIyODUy
-MzcyMCwtMTg3MjcyOTc5MywtMzcyNTcyMzQxLDE3OTQ3NjU3Mz
-YsLTExMDQyNjI1MTYsLTkzNzMwMDAwMCwtMTAxNjM4MDc4NSwx
-MjE2MjU5OTc3LC0xNTk5NDgwMjU3LC01Njg3MjU3NjIsLTkzMj
-k0NDQ0MiwtMTk3ODYxNzQxLC02MzgzMTg1ODMsNDkxNDY4MzU2
-LC0xOTgyODI5MzMyXX0=
+eyJoaXN0b3J5IjpbLTEzNzI2MzQ1MTEsLTc0NzYwODg2NSwxMj
+Q1MjEzOTk1LC0xMzQyNTMyODAwLC0xMDg5MzAwNDgyLC0xMjc4
+MTU1NDgxLDIyODUyMzcyMCwtMTg3MjcyOTc5MywtMzcyNTcyMz
+QxLDE3OTQ3NjU3MzYsLTExMDQyNjI1MTYsLTkzNzMwMDAwMCwt
+MTAxNjM4MDc4NSwxMjE2MjU5OTc3LC0xNTk5NDgwMjU3LC01Nj
+g3MjU3NjIsLTkzMjk0NDQ0MiwtMTk3ODYxNzQxLC02MzgzMTg1
+ODMsNDkxNDY4MzU2XX0=
 -->

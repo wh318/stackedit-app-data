@@ -1349,8 +1349,12 @@ Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大
 
 ### 字体图标
 - 下载
-	<font color=shyblue><u>[bootstrap-icons-1.X.XXzip]([Release v1.11.3 · twbs/icons · GitHub](https://github.com/twbs/icons/releases/tag/v1.11.3))</u></font>
-- 
+	<font color=shyblue><u>[bootstrap-icons-1.X.XXzip](https://github.com/twbs/icons/releases/tag/v1.11.3)</u></font>
+- 使用
+	1. 复制fonts文件夹到项目目录
+	2. 网页引入bootstrap-icons.css文件
+	3. 调用CSS类名（图标对应的类名)
+<i class="bi-android2"></i>
 
 
 # LESS（前期学习）
@@ -1574,7 +1578,7 @@ Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNTc3OTA2NCwtMjA0MTYzNjc1MiwtNz
+eyJoaXN0b3J5IjpbMTgzMTk5NzcwNSwtMjA0MTYzNjc1MiwtNz
 Q3NjA4ODY1LDEyNDUyMTM5OTUsLTEzNDI1MzI4MDAsLTEwODkz
 MDA0ODIsLTEyNzgxNTU0ODEsMjI4NTIzNzIwLC0xODcyNzI5Nz
 kzLC0zNzI1NzIzNDEsMTc5NDc2NTczNiwtMTEwNDI2MjUxNiwt

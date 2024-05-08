@@ -1473,7 +1473,8 @@ Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大
 写法：在 less 文件 **第一行** 添加： **`// out: false`**
 
 
-# J
+# JavaScript（JS）
+
 
 
 # 项目实践
@@ -1580,7 +1581,7 @@ Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzQxODI3MSwxNDgyMzM3ODY2LC0yMD
+eyJoaXN0b3J5IjpbMTIwOTc0Mjc0MiwxNDgyMzM3ODY2LC0yMD
 QxNjM2NzUyLC03NDc2MDg4NjUsMTI0NTIxMzk5NSwtMTM0MjUz
 MjgwMCwtMTA4OTMwMDQ4MiwtMTI3ODE1NTQ4MSwyMjg1MjM3Mj
 AsLTE4NzI3Mjk3OTMsLTM3MjU3MjM0MSwxNzk0NzY1NzM2LC0x

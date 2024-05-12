@@ -75,7 +75,7 @@
 - em / i：倾斜
 - ins/u：下划线
 - del / s：删除线
-- ![输入图片说明](./imgs/2024-03-29/NsBK1wM7NeqNCx4J.png)![输入图片说明](./imgs/2024-03-29/ByyFDSBbO8yswp1h.png)
+- ![输入图片说明](./imgs/2024-03-29/NsBK1wM7NeqNCx4J.png)![输入图片说明](./imgs/2024-03-29/ByyFDSBbO8yswp1h.png)!
 	
 	两个文本格式化标签**在一行显示**
 	**建议使用strong、em、ins、del标签**
@@ -1581,5 +1581,5 @@ Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwOTc0Mjc0Ml19
+eyJoaXN0b3J5IjpbLTk2MzM1NTc3NywxMjA5NzQyNzQyXX0=
 -->

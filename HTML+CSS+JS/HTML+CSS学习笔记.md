@@ -126,7 +126,7 @@ href属性值写**#**，表示空链接，**不会跳转**
 <video src="视频的 URL"></video>
 ```
 常用属性
-  - `src`：**必须属性**，音频地址，支持格式:MP4、Ogg、WebM
+  - src：**必须属性**，音频地址，支持格式:MP4、Ogg、WebM
   - controls：显示音频控制面板
   - loop：循环播放
   - muted：静音播放
@@ -1581,6 +1581,6 @@ Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDYwMTQzOTMsLTk2MzM1NTc3NywxMj
-A5NzQyNzQyXX0=
+eyJoaXN0b3J5IjpbLTk2MzM1NTc3NywtOTYzMzU1Nzc3LDEyMD
+k3NDI3NDJdfQ==
 -->

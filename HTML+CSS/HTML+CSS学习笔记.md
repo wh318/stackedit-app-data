@@ -134,8 +134,8 @@ href属性值写**#**，表示空链接，**不会跳转**
 
 ### 9、无语义的布局标签
 作用: 布局网页 (划分网页区域，摆放内容)
-  - div：独占一行
-  - span：不换行
+  - ```div```：独占一行
+  - ```span```：不换行
 
 ### 10、标签的属性
   >**标签中的属性**
@@ -1581,5 +1581,5 @@ Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MzM1NTc3N119
+eyJoaXN0b3J5IjpbMTE5MTgyNDQ5M119
 -->

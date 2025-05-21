@@ -59,12 +59,12 @@
 - **字号逐级递减**
 - **独占一行**（换行）
 - h1：一个网页就用一次
-![](./imgs/2024-03-29/uIplseg6LBEX1jIi.png)
+![](../imgs/2024-03-29/uIplseg6LBEX1jIi.png)
 
 ### 2、换行
 \<br>：单标签
 浏览器**不识别代码中的Enter键换行**
-![](./imgs/2024-03-29/xpm4KLfIEeguTFCY.png)
+![](../imgs/2024-03-29/xpm4KLfIEeguTFCY.png)
 ![输入图片说明](./imgs/2024-03-29/7P0DmZmbBn6lAkKz.png)
 ### 3、水平线
 \<hr>：单标签
@@ -1581,6 +1581,6 @@ Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MzM1NTc3NywtOTYzMzU1Nzc3LDEyMD
-k3NDI3NDJdfQ==
+eyJoaXN0b3J5IjpbMTc4MDA4MTg5LC05NjMzNTU3NzcsLTk2Mz
+M1NTc3NywxMjA5NzQyNzQyXX0=
 -->

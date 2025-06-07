@@ -107,7 +107,9 @@ img属性
 <a href='https://www.baidu.com'>跳转到百度</a>
 ```
 
-<a>ti
+<div style="">
+<span>点击</span>
+</div>
 属性
   - target="_blank"： 超链接**新窗口**打开	
 
@@ -1583,5 +1585,5 @@ Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMTA4MjkwNSwxMTkxODI0NDkzXX0=
+eyJoaXN0b3J5IjpbLTE1MTMxMzM5NzUsMTE5MTgyNDQ5M119
 -->

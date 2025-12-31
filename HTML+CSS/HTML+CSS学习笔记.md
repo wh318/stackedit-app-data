@@ -1027,7 +1027,7 @@ img:hover {
 		1. 旋转会改变坐标轴向
 		2. 以第一种转换形态的坐标轴为准
 	- 先平移 再旋转：![先平移 再旋转](/imgs/2024-04-22/O5MjKn4JjqTlNTor.gif =x100)
-	- 再旋转 先平移：![再旋转 先平移](/imgs/2024-04-22/M3L8AvDUQVgxWVkJ.gif =x150)
+	- 先旋转 再平移：![再旋转 先平移](/imgs/2024-04-22/M3L8AvDUQVgxWVkJ.gif =x150)
 
 - 缩放效果：![缩放效果](/imgs/2024-04-24/A0hNB9pQ5BWl9ztk.gif =300x)
 - 倾斜效果：
@@ -1581,6 +1581,6 @@ Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NjA5NDc1MCwxMTkxODI0NDkzLDExOT
-E4MjQ0OTNdfQ==
+eyJoaXN0b3J5IjpbLTU3NTMyNTcyNiwtNTY2MDk0NzUwLDExOT
+E4MjQ0OTMsMTE5MTgyNDQ5M119
 -->

@@ -826,7 +826,7 @@ CSS特性:化简代码/定位问题，并解决问题
 			- `flex-start`——弹性盒子从**起点**开始依次排列
 			- `flex-end`——弹性盒子从**终点**开始依次排列
 		- `flex-direction`——修改主轴方向
-			- `row`——水平方向，从左向右（默认）
+			- `row`——水	1平方向，从左向右（默认）
 			- `column`——垂直方向，从上向下
 			- `row-reverse`——水平方向，从右向左
 			- `column_reverse`——垂直方向，从下向上
@@ -1581,5 +1581,6 @@ Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大
 	- **li** 设置 **右侧 margin**
 	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MTgyNDQ5MywxMTkxODI0NDkzXX0=
+eyJoaXN0b3J5IjpbLTU2NjA5NDc1MCwxMTkxODI0NDkzLDExOT
+E4MjQ0OTNdfQ==
 -->

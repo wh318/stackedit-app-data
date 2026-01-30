@@ -57,30 +57,10 @@ Linux 与 Windows 最大区别在于其高度的逻辑性和透明度。
 执行 `ls -l` 后，文件属性的第一列（如 `-rwxr-xr--`）决定了访问控制：
 
 | 符号 | 权限 | 说明 | 数值 |
-
-**r**
-
-Read
-
-读取内容 / 查看目录列表
-
-4
-
-**w**
-
-Write
-
-修改内容 / 在目录内增删文件
-
-2
-
-**x**
-
-Execute
-
-执行文件 / 进入目录
-
-1
+| :-: | :-: | 
+| **r** | Read | 读取内容 / 查看目录列表 | 4 |
+| **w** | Write | 修改内容 / 在目录内增删文件 | 2 |
+| **x** | Execute | 执行文件 / 进入目录 | 1 |
 
 匯出到試算表
 
@@ -134,5 +114,5 @@ Execute
     
 3.  **理解流程**：重点掌握进程管理（`ps`, `top`）和网络基础（`ifconfig`, `ping`）。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NzU1ODY0MCwtMjE0MDkxMjIzOV19
+eyJoaXN0b3J5IjpbLTI2ODU5NjI1OCwtMjE0MDkxMjIzOV19
 -->

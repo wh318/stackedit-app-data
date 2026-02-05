@@ -940,7 +940,150 @@ Bootstrap是由Twitter公司开发维护的 **前端UI框架**，它提供了大
 - 版心
 	<table><tr align="left"><th width="150" bgcolor="#ddAedd"></th><th width="100" bgcolor="#ddAedd">xs<br>&lt;576px</th><th width="100" bgcolor="#ddAedd">sm<br>&ge;576px</th><th width="100" bgcolor="#ddAedd">md<br>&ge;768px</th><th width="100" bgcolor="#ddAedd">lg<br>&ge;992px</th><th width="100" bgcolor="#ddAedd">xl<br>&ge;1200px</th><th width="100" bgcolor="#ddAedd">xxl<br>&ge;1400px</th></tr><tr align="left"><td><i>版心 <font size="2" color="red">max-width</font></i></td><td><i>None(auto)</i></td><td><i>540px</i></td><td><i>720px</i></td><td><i>960px</i></td><td><i>1140px</i></td><td><i>1320px</i></td></tr><tr align="left"><td><i>类前缀</i></td><td><i>.col-</i></td><td><i>.col-sm-</i></td><td><i>.col-md-</i></td><td><i>.col-lg-</i></td><td><i>.col-xl-</i></td><td><i>.col-xxl-</i></td></tr></table>
 
+### 全局样式
+- Button类
+	- btn：默认样式
+	- btn-success：成功
+	- btn-warning：警告
+	- ......
+	- 按钮尺寸：btn-lg/btn-sm
 
+- table类
+	- table：默认样式
+	- table-striped：隔行变色
+	- table-success：表格颜色
+		<table><tr align="left"><th width="150" bgcolor="#ddAedd">Class</th><th width="150" bgcolor="#ddAedd">Heading</th><th width="150" bgcolor="#ddAedd">Heading</th></tr><tr align="left"><td><i><b>Default</b></i></td><td><i><b>cell</b></i></td><td><i><b>cell</b></i></td></tr><tr align="left" bgcolor="#0D6EFD"><td><i><b>primary</b></i></td><td><i><b>cell</b></i></td><td><i><b>cell</b></i></td></tr><tr align="left" bgcolor="#6C757D"><td><i><b>secondary</b></i></td><td><i><b>cell</b></i></td><td><i><b>cell</b></i></td></tr><tr align="left" bgcolor="#198754"><td><i><b>success</b></i></td><td><i><b>cell</b></i></td><td><i><b>cell</b></i></td></tr><tr align="left" bgcolor="#DC3545"><td><i><b>danger</b></i></td><td><i><b>cell</b></i></td><td><i><b>cell</b></i></td></tr><tr align="left" bgcolor="#FFC008"><td><i><b>warning</b></i></td><td><i><b>cell</b></i></td><td><i><b>cell</b></i></td></tr><tr align="left" bgcolor="#11CAF0"><td><i><b>info</b></i></td><td><i><b>cell</b></i></td><td><i><b>cell</b></i></td></tr><tr align="left" bgcolor="#F8F9FA"><td><i><b>light</b></i></td><td><i><b>cell</b></i></td><td><i><b>cell</b></i></td></tr><tr align="left" bgcolor="#212529"><td><font color="#ffffff"><i><b>dark</b></i></font></td><td><font color="#ffffff"><i><b>cell</b></i></font></td><td><font color="#ffffff"><i><b>cell</b></i></font></td></tr></table>
+	- ......
+
+- 组件
+	1. 引入样式表（css）
+	2. 引入 js 文件（非必要，无动画时可以不引入）
+	3. 复制结构，修改内容
+
+### 字体图标
+- 下载
+	<font color=shyblue><u>[bootstrap-icons-1.X.XXzip](https://github.com/twbs/icons/releases/tag/v1.11.3)</u></font>
+- 使用
+	1. 复制 **fonts文件夹** 到项目目录
+	2. 网页引入 **bootstrap-icons.css** 文件
+	3. 调用 **CSS类名**（图标对应的类名)
+		```html
+		<i class="bi-android2"></i>
+		```
+
+
+# LESS（前期学习）
+- Less是一个 **CSS预处理器**，Less文件后缀是 **.less**。扩充了CSS语言，使CSS具备一定的逻辑性、计算能力
+- **注意：浏览器不识别LesS代码，目前阶段，网页要引入对应的CSS文件**
+- VS Code插件：**Easy LESS**，保存less文件后 **自动** 生成对应的 **CSS文件**
+
+## 注释
+- 单行注释
+	- 语法：`// 注释内容`
+	- 快捷键：`ctrl + /`
+- 块注释
+	- 语法：`/* 注释内容 */`
+	- 快捷键：`Shift + Alt + A`
+
+## less-运算
+- 加、减、乘直接书写计算表达式
+	```css
+	width: 100 + 50 - 20px;
+	height: 5 * 32px;
+	```
+- **除法** 需要添加 **小括号** 或 **.**
+	```css
+	width: (100 / 4px); /* 推荐 */
+	height: 100 ./ 4px;
+	```
+- **表达式中存在多个单位，最终以第一个为准**
+
+## less-嵌套
+作用：快速生成 **后代** 选择器
+```less
+.父级选择器 {
+	/* 父级样式 */
+	.子级选择器 {
+		/* 子级样式 */
+	}
+}
+```
+
+示例：
+- less
+	```less
+	.father {
+		color: red;
+		.son {
+			width: 100px;
+			p {
+				font-size: 20px;
+				/* & 表示的是当前选择器，代码写到谁的大括号里面就表示谁，不会生成后代选择器
+				应用：配合 hover伪类或 nth-child结构伪类使用 */
+				&:hover {
+					font-size: 28px;
+				}
+			}
+		}
+	}
+	```
+- 生成css
+	```css
+	.father {
+		color: red;
+	}
+	.father .son {
+		width: 100px;
+	}
+	.father .son p {
+		font-size: 20px;
+	}
+	.father .son p:hover {
+		font-size: 28px;
+	}
+	```
+
+## less-变量
+概念：**容器，存储数据**
+
+作用：存储数据，方便 **使用** 和 **修改**
+
+语法：
+- 定义变量：`@变量名: 数据;`
+- 使用变量：`CSS属性: @变量名;`
+	```less
+	// 定义变量
+	@myColor: pink;
+
+	// 使用变量
+	.box {
+		color: @myColor;
+	}
+
+	a {
+		color: @myColor;
+	}
+	```
+
+## less-导入（ less 文件导入到 less 文件）
+作用：导入less公共样式文件
+语法：导入：**`@import "文件路径"`**
+提示：如果是 **less 文件可以省略后缀**
+```css
+@import './base.less';
+@import './common';
+```
+
+## less-导出（将生成的css文件存放到。。。）
+写法：在 less 文件的 **第一行** 添加 **`// out: 存储URL`**
+提示：文件夹名称后面添加 /
+```less
+// out: ./index.css
+// out: ./css/
+```
+
+## less-禁止导出
+写法：在 less 文件 **第一行** 添加： **`// out: false`**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODkyNjE1NDFdfQ==
+eyJoaXN0b3J5IjpbLTEzNDQ0MTEzMjZdfQ==
 -->

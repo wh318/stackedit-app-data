@@ -386,7 +386,118 @@ textarea属性
 
 
 
+
+
+
+
+# JavaScript（JS）
+
+
+
+# 项目实践
+
+## 准备工作（创建目录）
+- **网站根目录**：是指存放网站的第一层文件夹，内部包含当前网站的所有素材，包含 HTML、CSS、图片、JavaScript等等
+	- **images文件夹**：存放固定使用的图片素材，例如：logo、样式修饰图等等
+	- **uploads 文件夹**：存放非固定使用的图片素材，例如：商品图、宣传图需要上传的图片
+	- **iconfont文件夹**：**字体图标**素材
+	- **css 文件夹**：存放 CSS 文件（link 标签引入）
+		- **base.css**：基础公共样式，例如：清除默认样式、设置网页基本样式
+		- **common.css**：各个网页相同模块的重复样式，例如：头部、底部
+		- **index.css**：首页 CSS 样式
+	- **index.html**：首页 HTML 文件
+
+## 基础公共样式
+- **清除默认样式**，例如内边距、外边距、项目符号等等
+	>```html
+	>/* 去除常见标签默认的 margin 和 padding */
+	>* {
+	>	margin: 0;
+	>	padding: 0;
+	>	box-sizing: border-box;
+	>}
+	>/* 去除列表默认样式 */
+	>li {
+	>	list-style: none;
+	>}
+	>```
+- 设置通用样式，例如：文字样式
+	>```html
+	>/* 设置网页统一的字体大小、行高、字体系列相关属性 */
+	>body {
+	>	font: 14px/1.5 "Microsoft Yahei", "Hiragino Sans GB", "Heiti SC", "WenQuanYi Micro Hei", sans-serif;
+	>	color: #333;
+	>}
+	>/* 去除a标签默认下划线，并设置默认文字颜色 */
+	>a {
+	>	text-decoration: none;
+	>	color: #333;
+	>}
+	>```
+
+
+
+## 网页制作思路
+1. 布局思路：先整体再局部，从外到内，从上到下，从左到右。
+2. CSS实现思路
+	1. **画盒子**，调整盒子范围 → **宽高背景色**
+	2. 调整盒子**位置** → **flex**布局、**内外边距**
+	3. **控制**图片、文字**内容**样式
+
+
+## SEO 三大标签
+**SEO：搜索引擎优化**，提升网站百度搜索排名
+
+提升SEO的常见方法：
+1. 竞价排名
+2. 将网页制作成html后缀
+3. 标签语义化（在合适的地方使用合适的标签）
+4. ……
+
+网页头部SEO标签：
+- **title**：网页标题标签
+- **descrption**：网页描述
+- **keywords**：网页关键词
+
+## Favicon 图标
+作用：网页图标，出现在**浏览器标题栏**，增加网站辨识度。
+
+图标：**favicon.ico**，一般存放到网站**根目录**里面
+
+
+
+## logo 制作技巧
+
+**logo 功能**：
+- 单击跳转到首页
+- 搜索引擎优化：提升网站百度搜索排名
+
+**实现方法**：
+- 标签结构：h1 > a > 网站名称（搜索关键字）
+- CSS 样式：
+	>```css
+	>.logo a {
+	>	display: block;
+	>	width: 195px;
+	>	height: 41px;
+	>	background-image: url(../images/logo.png);
+	>	/* 隐藏文字 */
+	>	font-size: 0;
+	>}
+	>```
+
+
+## 导航制作技巧（nav）
+导航功能
+-  单击跳转页面
+
+实现方法：
+- 标签结构：ul > **li * 3** > a
+- 优势：避免**堆砌 a** 标签，网站搜索排名**降级**
+- 布局思路
+	- **li** 设置 **右侧 margin**
+	- **a** 设置 **左右 padding**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMTExOTA3MiwtNTc1MzI1NzI2LC01Nj
-YwOTQ3NTAsMTE5MTgyNDQ5MywxMTkxODI0NDkzXX0=
+eyJoaXN0b3J5IjpbLTE2ODQxMDQxMDgsLTU3NTMyNTcyNiwtNT
+Y2MDk0NzUwLDExOTE4MjQ0OTMsMTE5MTgyNDQ5M119
 -->
